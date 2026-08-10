@@ -29,7 +29,7 @@ jobs:
       - name: Install Quartz plugins
         run: npx quartz plugin install
       - name: Build Quartz
-        run: npx quartz build --baseDir /aquaponics_development
+        run: npx quartz build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
