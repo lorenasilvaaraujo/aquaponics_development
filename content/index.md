@@ -8,6 +8,12 @@ enableToc: false
 
 
 
+<p style="text-align:center; margin: 1.5rem 0;">
+  <a href="/optimizer.htm" target="_blank" rel="noopener" style="display:inline-block; padding:.8rem 1.8rem; background:linear-gradient(135deg,#284b63,#7b97aa); color:#fff; border-radius:10px; text-decoration:none; font-weight:600;">
+    🧮 Try the Aquaponics Investment Dashboard
+  </a>
+</p>
+
 > [!info] What is the purpose for this website? 🐟💦🍃🌱
 >
 >This page is intended to share my notes on aquaponics and its adjacent subjects (which are a lot!). Do not expect a perfect order but a review of my takes on each article I digest, the classifications I deem important for my reasearch and my personal take on the article itself.     !

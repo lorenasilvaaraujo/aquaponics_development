@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "quartz-v5-preview",
+      "runtimeExecutable": "D:\\GitHub\\aquaponics-website\\.claude\\run-quartz-serve.cmd",
+      "runtimeArgs": [],
+      "port": 8080
+    }
+  ]
+}
