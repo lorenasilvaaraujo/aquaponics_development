@@ -1,0 +1,235 @@
+---
+title: "Producción de acelga (Beta vulgaris var. cicla L.) en sistemas hidropónicos y acuapónicos"
+citekey: "ruizvelazcoProduccionAcelgaBeta2024"
+year: 2024
+type: experiment
+doi: "10.19136/era.a11n1.3866"
+url: "https://doi.org/10.19136/era.a11n1.3866"
+trials: 1
+tags:
+  - Meta/Type/Experiment
+  - Meta/Region/North-America
+  - Meta/Fish/Tilapia
+  - Meta/Plant/Swiss-Chard
+status: unread
+quality: ok
+---
+
+# Producción de acelga (Beta vulgaris var. cicla L.) en sistemas hidropónicos y acuapónicos
+
+*Chard (Beta vulgaris var. cicla L.) production in hydroponic and aquaponic systems*
+
+## Metadata
+
+* **Cite key:** ruizvelazcoProduccionAcelgaBeta2024
+* **Item type:** Journal Article
+* **Authors:** [[J. M. J. Ruiz-Velazco]], [[G. De La Paz-Rodriguez]], [[A. Hernandez-Llamas]], [[N. Estrada-Perez]]
+* **Affiliation:** Escuela Nacional de Ingeniería Pesquera, Universidad Autónoma de Nayarit, Bahía de Matanchén, San Blas, Nayarit, México (Ruiz-Velazco, Estrada-Perez); Programa de Biología, Unidad Académica de Agricultura de la Universidad Autónoma de Nayarit, Xalisco, Nayarit, México (De La Paz-Rodriguez); Programa de Acuicultura, Centro de Investigaciones Biológicas del Noroeste (CIBNOR), La Paz, B.C.S., México (Hernandez-Llamas)
+* **Journal:** Ecosistemas y Recursos Agropecuarios 11(1): e3866 (2024)
+* **Date:** Received 31 July 2023; accepted 20 February 2024; published 2024-03-05
+* **Date added:** 2026-08-11
+* **DOI:** [10.19136/era.a11n1.3866](https://doi.org/10.19136/era.a11n1.3866)
+* **Funding:** Not stated as a funding/grant acknowledgement; Acknowledgements thank Universidad Autónoma de Nayarit for facilities and Gerardo Hernández for producing Figures 1-2 (p.13)
+* **URL:** https://doi.org/10.19136/era.a11n1.3866
+* **PDF:** `Ruiz-Velazco et al. - 2024 - Producción de acelga (Beta vulgaris var. cicla L.) en sistemas hidropónicos y acuapónicos.pdf`
+* **Language:** Article published in Spanish with a full parallel English abstract supplied by the journal itself; the Abstract below is the journal's own official English text, not a translation made for this note (confirmed against `zotero-export.csv` and the PDF, p.1). All other extraction (Methods, Results, Discussion) is translated/summarised from the Spanish body text.
+
+> [!tip] Opinion
+>
+> A small, cleanly designed triplicate comparison (3 independent recirculating systems per treatment) of one aquaponic and one hydroponic Swiss chard crop, distinguished mainly by a compact combined biofilter-clarifier device the authors present as their contribution. The headline result is unambiguous and internally consistent: hydroponic chard out-produced aquaponic chard in leaf count and biomass at final harvest, tracking a single significant water-chemistry difference (higher plant-bed nitrate in the hydroponic loop) that the paper argues, plausibly, drives the yield gap. Two things limit how far this paper can be leaned on. First, Table 4's per-cut leaf-count and biomass figures are never anchored to a stated basis (per plant? per system? per unit area?), which blocks two of the paper's more granular numbers from a confident column mapping here — see Extraction notes. Second, this is a single-density, single-arm aquaponic trial (no stocking-density or pH gradient), so it establishes a specific two-system comparison rather than a generalisable dose-response result; the Discussion leans heavily on citing other authors' aquaponic chard numbers (Maucieri et al. 2019, Holguín-Peña et al. 2023, Wang et al. 2023) to contextualise its own, secondary figures worth chasing rather than reusing directly.
+
+## Abstract
+
+Hydroponics is the technology of soil-less agriculture, in which plants are grown in an aquatic environment. While aquaponics is a fast-growing food production system that integrates hydroponics with aquaculture (fish farming). The objective of this study was to compare the production of chard (Beta vulgaris var. cicla L.) using a typical hydroponic system and an aquaponic system for tilapia (Oreochromis niloticus) production in a greenhouse. Six independent recirculation systems were used to test production by triplicate. Simple linear regression analysis showed that leaf production rate differed significantly between systems (p < 0.05), where the hydroponic trial produced 3.46 leaves week-1 and the aquaponic trial 1.53 leaves week-1. Plant biomass increased by 53.91 g week-1 in the hydroponic and 38.24 g week-1 in the aquaponic treatment, although these production rates did not differ significantly (p > 0.05). No significant differences were detected in the concentrations of ammonium (NH4+), nitrite (NO2-), and phosphate (PO4+) between the treatments; however, significant differences were found for nitrate (NO3-) between the systems (p < 0.05). Chard production in the hydroponic system was higher than in the aquaponic system in terms of leaf number and biomass.
+
+## Summary
+
+The authors ran a single 16-week (112-day) Swiss chard crop side by side in six independent recirculating floating-raft systems at a greenhouse of the Universidad Autónoma de Nayarit (Tepic, Nayarit, Mexico): three hydroponic systems on a 50%-strength Steiner nutrient solution, and three aquaponic systems stocked with juvenile Nile tilapia and fitted with a custom combined biofilter-clarifier (the paper's stated technical contribution, replacing separately built biofiltration and sedimentation units). Chard was pruned weekly at commercial leaf size (25 cm), with growth tracked across successive cuts by simple linear regression, and a detailed first-cut/last-cut comparison reported in a dedicated table. Water quality (temperature, dissolved oxygen, pH) did not differ between the two plant-bed loops, and neither did ammonium, nitrite or phosphate; hydroponic plant-bed nitrate was significantly higher than aquaponic plant-bed nitrate, the paper's single significant water-chemistry finding. At final (last) cut, hydroponic chard had significantly more leaves and significantly more biomass than aquaponic chard, though leaf width and length no longer differed; at the first commercial cut (day 55), hydroponic chard was significantly wider, longer and more numerous in leaves, though biomass was not yet significantly different. Cumulative yield over the full cycle was 10.45 kg/m² (hydroponic) vs 8.42 kg/m² (aquaponic). Tilapia grew from a mean 57.1 g to 127.75 g over 16 weeks with 95% survival and a final production of 16.38 kg/m³. The authors attribute the hydroponic yield advantage to its significantly higher plant-bed nitrate availability, note both systems' minimal water consumption as an environmental advantage, and call for economic-viability studies of both systems at commercial scale.
+
+---
+
+> [!info] Experiment data
+> - **Location:** Greenhouse, Universidad Autónoma de Nayarit, Tepic, Nayarit, México (21.4919°N, -104.8919°W); semi-warm sub-humid climate, mean annual temperature 20-22°C, mean annual precipitation 1200-1500 mm (INEGI 2019)
+> - **Design:** 6 independent recirculating systems: 3 hydroponic + 3 aquaponic (true triplicate, one physical system = one replicate). Each system: 200 L cylindrical tank (nutrient reservoir for HYD; tilapia tank for AP) draining by gravity into a 4.20 x 0.9 x 0.19 m concrete tank (0.5 m³ water) holding an extruded-polystyrene floating raft (48 holes, 16 planted/system) at 5 plants/m², continuously recirculated at 2500 L/h and continuously aerated. Aquaponic loop additionally routed through a custom biofilter-clarifier (Nitrobacter/Nitrosomonas substrate) between fish tank and plant tank. One-way ANOVA (normality/homogeneity confirmed by Shapiro-Wilk/Bartlett) for treatment comparisons; simple linear regression + slope-comparison test for growth-rate trends across cuts. Treatment-to-system randomization is not explicitly stated (plant-to-hole and fish-group-to-tank assignment ARE explicitly stated as random, p.4-5) -- see Extraction notes on the `experiment` vs `quasi-experiment` judgment call.
+> - **Replicates / n:** 3 independent systems per treatment (6 total)
+> - **Duration:** 16 weeks (112 days) for both the fish growth trial and the plant pruning cycle, run concurrently; first commercial chard cut at day 55
+> - **Organisms:** [[Tilapia (Oreochromis niloticus)]], juveniles / [[Swiss chard (Beta vulgaris)]] var. cicla L.
+> - **Statistics:** One-way ANOVA (Statistica 7.0, Stata 10), α=0.05; simple linear regression of leaf width/length/count and biomass vs cumulative cut number per treatment, followed by a slope-comparison test (UCLA 2021 software), α=0.05
+> - **Water quality (plant beds, trial mean ± SD):** No significant HYD-vs-AP difference in pH (7.45 vs 7.44), temperature (22.54 vs 22.47°C) or dissolved oxygen (4.07 vs 4.05 mg/L). Ammonium, nitrite and phosphate ns between treatments; plant-bed nitrate significantly higher in HYD (93.54 ± 5.85 mg/L) than AP (18.73 ± 0.86 mg/L), p<0.05 -- the paper's single significant water-chemistry result.
+> - **Yield (last cut, Table 4):** Leaf count HYD 56.56 ± 2.57 vs AP 44.56 ± 1.81 (p=0.00034); biomass HYD 1166.75 ± 58.08 g vs AP 903.87 ± 41.24 g (p=0.0005); leaf width/length ns. Cumulative production (Table 5): HYD 10.45 kg/m², AP 8.42 kg/m².
+> - **Fish:** Initial 57.1 g mean weight (81 juveniles) → final 127.75 g mean weight over 112 days; 95% survival; final production 16.38 kg/m³; fed a 35%-protein diet at 11% of biomass/day in 3 daily rations.
+
+---
+
+## Yield and production rate
+
+**This paper:** Hydroponic chard significantly outproduced aquaponic chard by the end of the 16-week cycle: at the last weekly cut, hydroponic systems averaged 56.56 ± 2.57 leaves and 1166.75 ± 58.08 g biomass versus aquaponic's 44.56 ± 1.81 leaves and 903.87 ± 41.24 g (p=0.00034 and p=0.0005 respectively), while leaf width and length no longer differed significantly by that point (p=0.826, p=0.540). At the first commercial cut (day 55), the pattern was different: hydroponic leaves were significantly wider, longer and more numerous (p=0.014, 0.025, 0.038), but biomass was not yet significantly different (p=0.066, described by the authors as "almost significant"). Regression of each variable against cumulative cut number found hydroponic leaf-count and (non-significant) biomass growth rates numerically higher than aquaponic's (3.46 vs 1.53 leaves/cut, 53.91 vs 38.24 g/cut), and a slope-comparison test confirmed the leaf-count-rate difference was itself statistically significant (p=0.027) while the biomass-rate difference was not (p=0.466). Cumulative production over the full cycle was 10.45 kg/m² (hydroponic) vs 8.42 kg/m² (aquaponic) (Table 5). The paper attributes the whole pattern to the significantly higher nitrate available in the hydroponic plant beds (see Water quality section below), since nitrate is described as the most readily plant-available nitrogen form.
+
+**Compared with:**
+- #todo [[Maucieri et al. 2019]] -- chard/lettuce/catalogna aquaponic vs hydroponic trial with European carp; also found chard yield higher under hydroponic control than low-density aquaponic treatment, same qualitative direction as this paper, but at much lower absolute yields (aquaponic 4.17 kg/m², hydroponic 3.87 kg/m² -- both below this paper's figures) *(p.2, p.11)*
+- #todo [[Wang et al. 2023]] -- pH (6.0/6.5/7.0) trial on chard, kale, mustard, cilantro, lettuce and rocket in aquaponics vs hydroponics with tilapia; recommended pH 6 for best yield, cited alongside this paper's own pH range (7.2-7.8) as a candidate explanation for reduced nutrient availability *(p.2-3, p.11)*
+- #todo [[Holguín-Peña et al. 2023]] -- chard grown on snook (robalo) aquaponic effluent; reported leaf length/area/number comparable to conventional greenhouse/hydroponic cultivation, and 10.8 leaves/plant at a 55-day harvest (not specified as commercial or total leaves) -- lower than this paper's per-plant-equivalent figures at the same 55-day first-cut timepoint if Table 4's basis is per-plant (see Extraction notes on that ambiguity) *(p.3, p.12)*
+- #todo [[Ría et al. 2023]] -- compared three hydroponic chard systems by petiole colour, best result from a floating system, same general system family as this paper's own floating-raft design *(p.3)*
+- #todo [[Candia-Pacheco and Quiroga-Sossa 2018]] -- vertical-system chard at different plant spacing in protected environment; best-treatment yield 10.9 kg/m², closely matching this paper's hydroponic 10.45 kg/m², and reported (unlike this paper) an increase in leaf length across the 2nd/3rd harvests rather than a decrease *(p.12)*
+
+## Water quality and nutrients
+
+**This paper:** No significant hydroponic-vs-aquaponic difference was found in pH, water temperature or dissolved oxygen (plant beds), nor in ammonium, nitrite or phosphate concentrations. Nitrate was the sole significant water-chemistry difference: plant-bed nitrate was 93.54 ± 5.85 mg/L in the hydroponic loop vs 18.73 ± 0.86 mg/L in the aquaponic loop (p<0.05), which the paper treats as the mechanistic explanation for the yield gap, since nitrate is described as the most bioavailable form of nitrogen for plant uptake and the aquaponic loop instead depended on ammonia/nitrite from fish waste passing through the custom biofilter. Fish-tank water quality (pH 7.13-7.37, temperature 22.5-23.14°C, dissolved oxygen 3.70-3.94 mg/L depending on source -- see Extraction notes for an internal Discussion-vs-Table discrepancy) was reported within ranges the authors consider adequate for tilapia, and dissolved oxygen above 2 mg/L was cited as sufficient for efficient nitrification, which the authors credit to the custom biofilter-clarifier.
+
+**Compared with:**
+- #todo [[Yang and Kim 2020]] -- chard/basil aquaponics; reported higher nitrite (0.34 mg/L) and nitrate (39.1 mg/L) than this paper's aquaponic loop (0.122, 18.73 mg/L) *(p.11)*
+- #todo [[Yang and Kim 2019]] -- six-vegetable aquaponic/hydroponic comparison including chard; reported phosphate 24.7-24.9 mg/L (aquaponic) and 74.5 mg/L (hydroponic), both higher than this paper's values (9.06-9.29 mg/L both treatments) *(p.11)*
+- #todo [[Zou et al. 2016]] -- media-based aquaponics; found reducing pH from 7 to 6 improved fresh/dry mass without harming fish yield, cited alongside Wang et al. 2023 as a candidate explanation this paper's own pH (7.2-7.8) may have limited nutrient availability without causing outright deficiency *(p.3, p.11)*
+- #todo [[Roosta and Hamidpour 2011]] -- foliar micro/macronutrient application in aquaponic and hydroponic tomato -- already in the vault as `roostaEffectsFoliarApplication2011`; cited here as supporting evidence that foliar nutrient application (as used in this paper's own Ca/Fe supplementation) can alleviate aquaponic nutrient deficiencies *(p.12)*
+
+## Fish performance
+
+**This paper:** Tilapia grew from a mean individual weight of 57.1 g (81 juveniles at stocking) to a final mean of 127.75 g over the 16-week trial, with 95% survival and a final production of 16.38 kg/m³. The authors report an average growth rate of 0.77 g/day, which they note is markedly lower than a comparator figure of 3.295 g/day, attributing the difference to declining greenhouse/water temperature toward the end of the trial (autumn into winter) rather than to husbandry. No FCR or specific growth rate figure is reported for the fish; feed was a 35%-crude-protein commercial diet delivered at 11% of biomass/day across three daily rations.
+
+**Compared with:**
+- #todo [[De Lima et al. 2014]] -- GIFT-strain Nile tilapia growth-curve modelling; reported growth rate of 3.295 g/day, the comparator this paper's own 0.77 g/day is measured against *(p.7)*
+- #todo [[Santos et al. 2013]] -- Nile tilapia growth curves at different temperatures, cited as general support for temperature being a major driver of fish growth rate *(p.7)*
+
+## Linked claims
+
+- [[Hydroponic Swiss chard outyields aquaponic Swiss chard when aquaponic plant-bed nitrate is substantially lower]]
+- [[A combined biofilter-clarifier can support adequate nitrification in a small-scale aquaponic system]]
+- [[Foliar iron and calcium supplementation is used to offset nutrient limitations in aquaponic leafy-vegetable production]]
+
+## Citations to chase
+
+- [ ] #todo Maucieri C, Nicoletto C, Zanin G, Birolo M, Trocino A, Sambo P, Borin M, Xiccato G (2019) -- Effect of stocking density of fish on water quality and growth performance of European Carp and leafy vegetables in a low-tech aquaponic system, PLoS ONE 14(5): e0217561
+- [ ] #todo Wang YJ, Yang T, Kim HJ (2023) -- pH dynamics in aquaponic systems: Implications for plant and fish crop productivity and yield, Sustainability 15(9): 7137
+- [ ] #todo Holguín-Peña RJ, Ruiz-Juárez D, Medina-Hernández D (2023) -- Producción de acelga (Beta vulgaris var. cicla L.) con efluente del cultivo de robalo (Centropomus viridis) en un sistema acuapónico, Terra Latinoamericana 41: e1683
+- [ ] #todo Ría RP, Lakitan B, Sulaiman F, Yakup Y (2023) -- Searching for suitable cultivation system of swiss chard (subsp. (L.) WDJ Koch) in the tropical lowland, Journal of Horticultural Research 31(1): 81-90
+- [ ] #todo Candia-Pacheco LR, Quiroga-Sossa M (2018) -- Producción de acelga (Beta vulgaris) en sistema vertical a diferentes distancias en ambiente protegido, Revista de Investigación e Innovación Agropecuaria y de Recursos Naturales 5(2): 101-116
+- [ ] #todo Yang T, Kim HJ (2020) -- Effects of hydraulic loading rate on spatial and temporal water quality characteristics and crop growth and yield in aquaponic systems, Horticulturae 6(1): 9
+- [ ] #todo Yang T, Kim HJ (2019) -- Nutrient management regime affects water quality, crop growth, and nitrogen use efficiency of aquaponic systems, Scientia Horticulturae 256: 108619
+- [ ] #todo Zou Y, Hu Z, Zhang J, Xie H, Guimbaud C, Fang Y (2016) -- Effects of pH on nitrogen transformations in media-based aquaponics, Bioresource Technology 210: 81-87
+- [x] Roosta HR, Hamidpour M (2011) -- Effects of foliar application of some macro- and micro-nutrients on tomato plants in aquaponic and hydroponic systems -- already extracted, see `roostaEffectsFoliarApplication2011`
+- [ ] #todo De Lima AAL, Vilar SJH, Kochenborger FJB, Kazue SN, Beltrao CGR (2014) -- Use of mathematical models in the study of bodily growth in GIFT strain Nile Tilapia, Revista Ciência Agronômica 45(2): 257-266
+- [ ] #todo Hlophe PA, Nxumalo KA, Oseni TO, Masarirambi MT, Wahome PK, Shongwe VD (2019) -- Effects of different media on the growth and yield of Swiss chard (Beta vulgaris var. cicla) grown in hydroponics, Horticulture International Journal 3(3): 147-151
+- [ ] #todo Singh H, Dunn B, Payton M, Brandenberger L (2019) -- Fertilizer and cultivar selection of lettuce, basil, and swiss chard for hydroponic production, HortTechnology 29: 50-56
+- [ ] #todo Oliver LP, Coyle SD, Bright LA, Shultz RC, Hager JV, Tidwell JH (2017) -- Comparison of four artificial light technologies for indoor aquaponic production of swiss chard and kale, Journal of the World Aquaculture Society 49(5): 837-844
+- [ ] #todo Sewilam H, Kimera F, Nasr P, Dawood M (2022) -- A sandponics comparative study investigating different sand media based integrated aqua vegeculture systems using desalinated water, Scientific Reports 12: 11093
+
+## Extraction notes
+
+**Type classification judgment call:** Recorded as `experiment`. The paper reports controlled manipulation (2 defined treatments, HYD vs AP), true replication (3 independent physical recirculating systems per treatment), and formal statistical comparison (one-way ANOVA with normality/homogeneity pre-checks, plus a separate linear-regression/slope-comparison analysis) -- meeting SCHEMA.md's `experiment` test. Randomization is explicitly stated for two sub-assignments -- plant-to-hole ("se asignaron aleatoriamente las plantas a los huecos seleccionados", p.4) and fish-group-to-tank ("los grupos se asignaron aleatoriamente a los tanques cilíndricos", p.5) -- but the Methods never explicitly states that the HYD-vs-AP treatment label itself was randomly assigned to the six physical systems. Given the otherwise-complete randomization at the plant and fish level, true replication, and formal statistics, `experiment` was judged the better fit (same judgment-call pattern as `pantanellaAquaponicsHydroponicsProduction2012`), flagged here for review rather than silently assumed.
+
+**Trial structure:** One trials.csv row. The paper has a single aquaponic arm (one fish density, one nutrient/supplementation regime) compared against a single hydroponic control, so per SCHEMA.md's "one row per treatment" rule this is `-T1` only, with the required `TRIAL DEFINITION` note in Experimental Remarks.
+
+**WARN-CHECK NH4+/NO2-/NO3- reported as ionic mg/L, not confirmed N-equivalent (Methods p.5-6, Table 3, p.6).** The paper measures and reports "amonio (NH4+)", "nitritos (NO2-)" and "nitratos (NO3-)" by spectrophotometry (Strickland & Parsons 1972 method) but never states whether the reported mg/L figures are the whole-ion mass or the nitrogen-equivalent mass (NH4-N/NO2-N/NO3-N), which differ by factors of 0.777/0.304/0.226 respectively. trials.csv's TAN/NH4-N, NO2-N and NO3-N columns are named for the N-equivalent form. Recorded the paper's own reported figures as-is (TAN/NH4-N 0.132 ± 0.018; NO2-N 0.122 ± 0.002; NO3-N 18.73 ± 0.864, all aquaponic plant-bed values) rather than guessing a conversion, matching the precedent set in `albloushiEffectStockingDensity2018`, `aljenaidNutrientFilmTechnique2026` and `aslanidouNutrientsUseEfficiency2023`. Added to REVIEW.md by the batch merge step.
+
+**WARN-MATERIAL fish-tank water quality, Discussion narrative vs Table 2 (p.7 vs p.10-11) -- does not affect any trials.csv cell.** Table 2's "Tanques de peces" row (full monitored pruning period, with CI/min/max/SD/SE) states pH 7.37 ± 0.50, water temperature 22.50 ± 1.62°C, dissolved oxygen 3.94 ± 0.64 mg/L. The Discussion section instead states, for the same tilapia-culture tanks: "la temperatura del agua (23.14 ± 1.78 °C), el oxígeno disuelto (3.70 ± 0.76 mg L⁻¹) y el pH (7.13 ± 0.64) variaron dentro de rangos adecuados para el cultivo" (p.7) -- all three figures differ from Table 2's fish-tank row by a small-to-moderate margin, with no time-window or subset explanation given for the difference. Table 2 is judged the more defensible source (a purpose-built statistical summary table vs. an isolated prose restatement), but since trials.csv's Aq pH/Water temperature/Dissolved Oxigen cells are populated from Table 2's PLANT-BED row (per SCHEMA.md's compartment rule: "take the plant bed / hydroponic unit value"), not the fish-tank row, no cell in this row is actually affected by this specific conflict. Recorded in full here per the flag-all-contradictions rule regardless of cell impact, consistent with the precedent in `mourantianBasilFunctionalGrowth2023`'s Cu note.
+
+**WARN-CHECK Leaf count and Plant fresh weight, basis of Table 4 figures undetermined (p.8; Results p.6-7).** Table 4 reports "Número de hojas" and "Biomasa (g)" at "último corte" (last cut) and "primer corte" (first cut, day 55) with n=3 replicate systems supplying the standard error, but the paper never states whether these values are per-plant, a per-system total for that single cut event, or some other basis. Results text calls them "número promedio de hojas cosechadas" and "biomasa vegetal media" (mean number of harvested leaves / mean plant biomass), phrasing compatible with more than one reading. As context only, not a determination: treating the figures as a per-system-per-cut total (~16 plants/system) fits the reported magnitudes at least as well as a per-plant reading (e.g. ~45-56 leaves and ~900-1200 g harvested from an entire 16-plant system in one week's pruning is physically very plausible; ~45-56 leaves and ~900-1200 g from a SINGLE chard plant in one week's pruning would be an unusually large weekly harvest). Separately, hydroponic biomass actually falls from primer corte (1232.15 ± 461.85 g) to último corte (1166.75 ± 58.08 g), which rules out a simple monotonic cumulative-running-total reading for at least the hydroponic treatment. Given the prime directive against guessing a basis, both `Leaf count` and `Plant fresh weight` are recorded `UNCLEAR` in trials.csv rather than assigned to either cut timepoint or either basis; full Table 4 data (both cuts, both treatments, both variables including the non-ambiguous width/length figures) is preserved in Experimental Remarks. Added to REVIEW.md by the batch merge step.
+
+**WARN-MINOR hydroponic cumulative yield, Table 5 vs Results narrative (p.10 vs p.12).** Table 5 gives "Producción acumulada (kg m⁻²)" as 10.45 (hydroponic) and 8.42 (aquaponic); Results narrative (p.12) restates hydroponic yield as "10.43 kg m⁻²" while repeating the aquaponic figure identically (8.42). Table 5's value (10.45) is used in the trials.csv HYD cell as the more structured source; the discrepancy does not change the qualitative comparison or affect any other cell.
+
+**[not reported] / [unclear] fields, grouped:**
+- Fish: Fish Category, Initial Stock density, FCR, SGR, feed N/P/K %, Total Feed (kg), Fish biomass created (kg), Fish weight gain -- the paper gives initial/final mean fish weights, survival %, an absolute growth rate (g/day, not %/day), and final production as a density (kg/m³) rather than a total kg figure, but never a stocking density in kg/m³, an FCR, an SGR, or a summed feed total. NOT DERIVED per SCHEMA.md even though some are partially computable from the totals given (see Experimental Remarks for full detail on what inputs ARE present).
+- Water: Water type, Water classification, Daily Water exchange rate, pHOptimal, WUE, EC -- none of these are reported; the hydroponic solution's 3-week renewal interval is a batch-renewal fact, not a %/day exchange rate, and is preserved in Experimental Remarks rather than forced into the Daily Water exchange rate column.
+- Plant: Plant Category, SPAD, Plant height, Plant dry matter -- the paper measures leaf width/length (not "height") and fresh biomass only (never dry weight/%DM), and never applies a categorical label (e.g. "leafy vegetable") to its own chard crop.
+- FUE AP, FUE HYD -- recorded NA; no fertilizer-use-efficiency metric of any kind is computed by the paper (only a qualitative "minimal water consumption" claim in the Conclusions, not a stated ratio).
+- Tissue nitrate AP, Tissue nitrate HYD -- recorded NR (not NA): the paper measures water nitrate (Table 3) extensively but never analyses chard leaf/tissue nitrate content, so this is a measurement the paper is silent on rather than one inapplicable to the design.
+
+**plant_measurements.csv scope decision:** This paper reports no plant tissue analyte data of any kind -- no pigments, no leaf mineral/elemental panel, no microbiology, no proximate composition. All plant-side measurements (leaf width, leaf length, leaf count, fresh biomass) are morphology/yield metrics that either have a trials.csv column home or are preserved in trials.csv Experimental Remarks (NO COLUMN). `plant.csv` is therefore header-only for this paper, per the task instructions' "check first" guidance -- there is nothing to route there.
+
+**No water panel excluded beyond what's noted above** -- Table 3's full four-compartment nutrient panel (fish tank + plant bed, both treatments, for NH4+/NO2-/NO3-/PO4+) is preserved in trials.csv Experimental Remarks (NO COLUMN) since only the aquaponic plant-bed values have a direct column home; the hydroponic-side and fish-tank-side values, plus the PO4+ column (no schema column exists for phosphate at all), are fully retained there rather than discarded.
+
+**Tags judgment call:** Tagged `Meta/Fish/Tilapia` (Oreochromis niloticus, the sole aquaculture species, explicitly reared and its water used in the aquaponic loop) and reused the existing `Meta/Plant/Swiss-Chard` facet (introduced in `leeComparativeStudyGrowth2019`, also used in `kaburagiAquaponicsUsingSaline2020`) rather than creating a new chard-specific tag. `Meta/Region/North-America` reused from `castillocastellanosImplementationExperimentalNutrient2016`, another Universidad Autónoma de Nayarit paper sharing an author (Ruiz-Velazco) with this one.
+
+**Wikilink judgment calls:** Reused `[[Tilapia (Oreochromis niloticus)]]` (the exact form used in `castillocastellanosImplementationExperimentalNutrient2016`, the closest sibling paper -- same institution, overlapping author, same species without a "Nile" qualifier in the source text) rather than the `[[Nile tilapia (Oreochromis niloticus)]]` variant used elsewhere in the vault (e.g. `pantanellaAquaponicsHydroponicsProduction2012`); this fragmentation already exists in the vault and is noted here rather than silently resolved. Reused `[[Swiss chard (Beta vulgaris)]]` (the form used in `leeComparativeStudyGrowth2019`) rather than a more specific "var. cicla" variant, to avoid creating an orphan. `[[J. M. J. Ruiz-Velazco]]` reused exactly from `castillocastellanosImplementationExperimentalNutrient2016` (same author, same institution). New author wikilink targets introduced (no existing notes found in the vault): `[[G. De La Paz-Rodriguez]]`, `[[A. Hernandez-Llamas]]`, `[[N. Estrada-Perez]]`.
+
+**Metadata note:** `zotero-export.csv` contains two duplicate entries for this paper (item keys `WIZSBJCH` and `NL7KVKPQ`), identical in every field; title/authors/year/DOI/journal were cross-checked against both and against `https://api.crossref.org/works/10.19136/era.a11n1.3866`, which agrees exactly (title, 4-author order, volume 11, issue 1, article e3866, year 2024, publisher Universidad Juárez Autónoma de Tabasco).
+
+**PDF quality:** Clean, fully extractable text layer throughout all 17 pages (standard single/two-column journal layout with running headers on every page); no OCR issues, no scanned/image-only pages. Figures (module diagram, biofilter-clarifier diagram, regression plots) are decorative/illustrative only for extraction purposes -- all numeric values used here came from body text and tables, never read off a chart, per the prime directive.
+
+---
+*Source: `Ruiz-Velazco et al. - 2024 - Producción de acelga (Beta vulgaris var. cicla L.) en sistemas hidropónicos y acuapónicos.pdf`*
+
+---
+
+## Data Tables
+
+> [!note] Structured data extracted from this paper into the vault's `trials.csv` / `plant_measurements.csv` datasets. Fields the paper didn't report are omitted. [Download the full datasets](/trials.csv) ([measurements](/plant_measurements.csv)).
+
+### Trial Parameters
+
+#### ruizvelazcoProduccionAcelgaBeta2024-T1
+
+**Fish**
+
+| Field | Value |
+|---|---|
+| Fish | Tilapia (Oreochromis niloticus), juveniles |
+| Protein | 35 |
+| % of body weight | 11 |
+| Fish size initial | 57.1 |
+| Fish size final | 127.75 |
+| Feed routine | Three rations per day |
+| Feed regime | Commercial diet, 35% crude protein, fed at 11% of fish biomass per day across three daily rations (p.5) |
+| Fish survival rate | 95 |
+| Fish trial duration (days) | 112 |
+
+**Water**
+
+| Field | Value |
+|---|---|
+| Water recycle | ~41.67 L/min (2500 L/h as stated; same recirculation system used for both treatments, p.3) |
+| Water volume in the system | 183 L (cylindrical/reservoir tank only; concrete plant tank separately holds 500 L; total system volume not stated as one figure, see Experimental Remarks) |
+| Aq pH | 7.44 +/- 0.50 |
+| Dissolved Oxigen | 4.05 +/- 0.64 |
+| Water temperature | 22.47 +/- 1.57 |
+| TAN / NH4-N | 0.132 +/- 0.018 |
+| NO2-N | 0.122 +/- 0.002 |
+| NO3-N | 18.73 +/- 0.864 |
+
+**Plant**
+
+| Field | Value |
+|---|---|
+| Plant | Swiss chard (Beta vulgaris var. cicla L.) |
+| Details | Cultivated 16 weeks (112 d) post-transplant, pruned weekly at commercial leaf size (25 cm); seeds sown in 242-cavity trays (Cosmo Peat substrate), transplanted to floating-raft cups after 4 nursery weeks; 16 of 48 raft holes randomly selected and plants randomly assigned to them per system, giving 5 plants/m2 and 48 plants/treatment (16/replicate system) (p.4) |
+| Days Plant after transplant | 112 |
+| Plants/m2 | 5 |
+
+**System & Setup**
+
+| Field | Value |
+|---|---|
+| System type | Floating raft (balsa flotante), deep-water culture; combined biofilter-clarifier device replacing traditionally separate biofiltration and sedimentation units (paper's stated design contribution, p.2-3) |
+| Media Details | Extruded polystyrene raft (4.1 x 0.8 x 0.05 m, 48 holes of 0.05 m) floating in a 4.20 x 0.9 x 0.19 m polished-concrete tank (0.5 m3 water); plants held in plastic cups (upper base 5.08 cm, lower base 3.048 cm, height 5.08 cm) filled with pumice stone (piedra pomez), seated in raft holes (p.3-4) |
+| Biological system already in use | Y (Custom biofilter-clarifier (paper's stated novel contribution, replacing separate biofilter+clarifier units): black plastic container with flexible tubing, white filter wadding, and a mesh sieve, connected between the fish tank and the hydroponic (concrete) tank; retains solid material; corrugated hose pieces serve as substrate for Nitrobacter and Nitrosomonas (p.3, Figure 2)) |
+| Air supplement | Y (Air pump, 100-200 L capacity (Aqua-krill 2688, China) with diffuser stones, continuously aerating the cylindrical and concrete tanks; stated in the hydroponic-system description (p.3), and the aquaponic system explicitly reuses 'the same recirculation system' (p.3)) |
+| Iron supplemented | Y (Aquaponic treatment only: weekly morning foliar spray of 1 L iron chelate at 1.0 g/L over all aquaponic-system plants, per Rakocy et al. (2004) (p.5)) |
+| Remineralization | Y (Aquaponic treatment only: weekly morning foliar spray of 1 L calcium chelate (5 mL/L) alongside the iron chelate above, per Rakocy et al. (2004), to supplement nutrients not adequately supplied by fish waste (p.5); this is foliar application to the plants, not addition to the recirculating water column) |
+| Nutrient supplemented | Y (Aquaponic treatment received weekly foliar Ca+Fe chelate supplementation beyond fish-waste-derived nutrients (see Remineralization/Iron supplemented columns). For reference, hydroponic treatment (HYD) used Steiner (1984) universal nutrient solution at 50% strength (Table 1: NO3- 6.0, H2PO4- 0.5, SO4-2 3.5, K+ 3.5, Ca+2 4.5, Mg+2 2.0 meq/L, plus commercial micronutrient product Ultrasolmicro), renewed every 3 weeks (p.5)) |
+| Equipment | Cylindrical plastic tank, 200 L (0.56 m diameter x 1.0 m height); concrete tank 4.20 x 0.9 x 0.19 m; extruded-polystyrene floating raft; recirculation pump 2500 L/h (Sunny SFP-500); aeration pump 100-200 L (Aqua-krill 2688) with diffuser stones; custom biofilter-clarifier; thermohygrometer (TFA 30.5000.02); portable digital oximeter (YSI 55); digital potentiometer (HANNA HI98129); vernier caliper (0.1 cm precision); digital scale (Ohaus, 0.1 g precision); BioTek Synergy HTX microplate reader (water-nutrient spectrophotometry, Strickland & Parsons 1972 method) |
+| Control Parameters | Greenhouse air temperature/RH measured daily at 7:00 and 19:00 (thermohygrometer); water temperature/DO/pH measured daily at 7:00 and 19:00 in fish tanks and plant tanks; weekly water samples for NH4+/NO2-/NO3-/PO4+; weekly fish sampling (n=8/tank) for length/weight from week 6 onward; weekly survival counts |
+| Combination | Tilapia (Oreochromis niloticus) and Swiss chard (Beta vulgaris var. cicla L.); aquaponic vs hydroponic, floating raft |
+
+**Site**
+
+| Field | Value |
+|---|---|
+| Region | North-America |
+| Country | Mexico |
+| Lat | 21.4919 |
+| Long | -104.8919 |
+| Average room Temperature | 18.37 +/- 1.20 |
+
+**Results & Statistics**
+
+| Field | Value |
+|---|---|
+| Measured Unit | g (leaf biomass per cut); cm (leaf width/length); count (leaf number per cut); kg/m2 (cumulative yield); mg/L (water nutrients) |
+| Statistic Details | One-way ANOVA (Shapiro-Wilk normality + Bartlett homogeneity of variance confirmed first) for water-quality and first-cut production variables; simple linear regression per treatment for growth-rate slopes (leaf width/length/number, biomass) across successive cuts, followed by a slope-comparison test (UCLA 2021 software); Statistica 7.0 and Stata 10; significance alpha=0.05 (p.6) |
+| Statistically analysed | Y |
+| Replicates (n) | 3 |
+| AP | 8.42 |
+| HYD | 10.45 |
+
+**Experimental Remarks:** TRIAL DEFINITION: T1 = aquaponic treatment (Swiss chard grown on tilapia-loop water via a floating raft, fed through a novel combined biofilter-clarifier). Paired control = hydroponic treatment (Steiner 1984 universal nutrient solution, 50% strength), recorded in the HYD columns. Design: 6 independent recirculating systems total (3 replicate systems per treatment, triplicate); each system = 200 L cylindrical tank + 500 L concrete tank with a floating polystyrene raft (16 of 48 holes planted per system at 5 plants/m2, 48 plants/treatment total). Only one aquaponic treatment (one fish density, one nutrient regime) in this paper, so one row. \| WARN-CHECK NH4+/NO2-/NO3- recorded as ionic mg/L (paper's own units and terminology throughout: 'amonio (NH4+)', 'nitritos (NO2-)', 'nitratos (NO3-)', Methods p.5-6 and Table 3), not converted to N-equivalent (NH4-N/NO2-N/NO3-N, factors x0.777/x0.304/x0.226 respectively); trials.csv column names imply N-equivalent but the paper never states which basis its spectrophotometric method (Strickland & Parsons 1972) yields. Recorded as-is: TAN/NH4-N 0.132+/-0.018, NO2-N 0.122+/-0.002, NO3-N 18.73+/-0.864 (all aquaponic 'camas de plantas'/plant-bed values, Table 3, p.6). Added to REVIEW.md. \| WARN-MATERIAL fish-tank water quality, Discussion narrative vs Table 2 (p.7 vs p.10-11). Table 2 ('Tanques de peces', full monitored 'periodo de poda', mean with CI/min/max/SD/SE) states pH 7.37+/-0.50, T 22.50+/-1.62 C, DO 3.94+/-0.64 mg/L. Discussion running text instead gives 'la temperatura del agua (23.14+/-1.78 C), el oxigeno disuelto (3.70+/-0.76 mg/L) y el pH (7.13+/-0.64)' for the same tilapia-culture tanks -- all three figures differ from Table 2 by a small-to-moderate margin, with no stated reason (e.g. a different time window) given for the discrepancy. Table 2 is treated as the more defensible source (a purpose-built statistical summary table over the full monitored period, versus an isolated prose restatement in Discussion) but this is NOT entered into any cell here: per SCHEMA.md's compartment rule, Aq pH/Water temperature/Dissolved Oxigen are populated from the 'Sistemas acuaponicos' PLANT-BED row of Table 2 (7.44+/-0.50 pH, 22.47+/-1.57 C, 4.05+/-0.64 mg/L), not the fish-tank row, so no cell in this row is actually affected by this conflict; recorded here for completeness per the flag-all-contradictions rule. \| WARN-CHECK Leaf count and Plant fresh weight, basis undetermined (Table 4, p.8; Results p.6-7). Table 4 gives 'Numero de hojas' and 'Biomasa (g)' at 'ultimo corte' (last cut: HYD 56.56+/-2.57 leaves / 1166.75+/-58.08 g; AP 44.56+/-1.81 / 903.87+/-41.24 g; p=0.00034 / p=0.0005) and 'primer corte' (first cut, day 55: HYD 45.67+/-3.21 / 1232.15+/-461.85 g; AP 39.00+/-2.00 / 542.13+/-114.37 g; p=0.038 / p=0.066), captioned only 'valores medios +/- error estandar de las variables de rendimiento', with n=3 replicate systems supplying the SE. The paper never states whether these figures are per-plant, a per-system total for that single cut, or another basis; Results text calls them 'numero promedio de hojas cosechadas y...biomasa vegetal media' (mean number of harvested leaves / mean plant biomass), which does not resolve the ambiguity. For context only (not a determination): a per-system-per-cut-event reading (~16 plants/system) fits the magnitudes at least as well as a per-plant cumulative-total reading, and HYD's biomass falling from primer (1232) to ultimo corte (1166) rules out a simple monotonic cumulative-total reading for at least one treatment. Recorded UNCLEAR in both cells rather than guessing a basis; both cut timepoints given here for the record, and the schema's g/plant / leaves-per-plant unit definitions are not confirmed to apply. Added to REVIEW.md. \| WARN-MINOR aquaponic vs hydroponic yield, HYD figure restated (Table 5, p.10 vs Results narrative p.12). Table 5 gives 'Produccion acumulada (kg m-2)' as 10.45 (HYD) and 8.42 (AP). Results narrative (p.12) restates '10.43 kg m-2' for hydroponic (AP's 8.42 repeated identically). Table 5's value (10.45) is used in the HYD cell as the structured-table source; the 10.43 restatement does not change which treatment performed better and reads as a rounding/transcription slip. \| UNIT CONVERSION ONLY: fish and plant trial duration '16 semanas' (Methods p.5, p.4) -> 112 d. Recirculation pump '2500 L h-1' (Sunny SFP-500, p.3), explicitly stated to be 'el mismo sistema de recirculacion' reused for the aquaponic treatment (p.3) -> ~41.67 L/min. Coordinates '21 deg 29 min 31 sec LN, 104 deg 53 min 31 sec LO' (p.3) -> both DMS components valid (minutes/seconds <60) -> decimal 21.4919 N, -104.8919 W (West negative), consistent with Tepic, Nayarit, the paper's stated site. \| NOT DERIVED, left NR: Initial Stock density (paper gives initial group biomass ~1.5 kg/tank and post-week-6 biomass 1.94+/-0.32 kg/27 fish per 200 L tank, but never states a kg/m3 figure; computing one would be derivation); FCR, SGR (paper gives only an absolute growth-rate figure, 0.77 g/day, Discussion p.7, not a specific growth rate %/day, and no feed-conversion figure at all); feed N/P/K composition beyond crude protein (35%, Methods p.5; diet identity/brand not given); Total Feed (kg) (ration stated as 11% of fish biomass/day over 112 d, but no summed total feed mass is ever given; back-calculating one would be derivation); Fish biomass created (kg) (initial total population biomass ~4.5-4.6 kg is given, but final biomass is stated only as a density, 'produccion final de peces...16.38 kg m-3', p.8, never as a total kg figure; multiplying by tank volume would be derivation); Fish weight gain (only initial mean weight (57.1 g) and final mean weight (127.75 g, Table 5) are given as separate figures, plus the unrelated-timeframe 0.77 g/day growth rate; the paper never itself states a single 'weight gain' figure); Water volume in the system, as a single total (cylindrical tank 0.183 m3 and concrete tank 0.5 m3 are each stated individually, p.3, but never summed by the authors; the cylindrical/reservoir-tank figure alone is recorded in the cell, labelled as such, per SCHEMA.md's 'state whether fish tank only or total' allowance); Water type, Water classification, Daily Water exchange rate (hydroponic nutrient solution is stated to be renewed every 3 weeks, p.5 -- a batch-renewal interval, not a %/day exchange rate as the column requires; see NO COLUMN); pHOptimal, WUE (no target pH or water-use-efficiency metric of any kind is stated); Plant Category, Fish Category, System type/Water type/Water classification wording (paper does not apply its own categorical label to any of these for its own material, only when summarising OTHER cited studies); SPAD, Plant height (paper measures leaf width and length, not a whole-plant height or a chlorophyll-meter reading; see NO COLUMN for the leaf width/length data); Plant dry matter (only fresh biomass, 'Biomasa (g)', is ever measured; no dry-weight or %DM figure appears anywhere in the paper). \| NO COLUMN: Full Table 3 water-nutrient panel, both compartments, both treatments (mg/L, mean+/-SE, letter groups by row, p.6): NH4+ HYD-tank 0.069+/-0.026a / HYD-beds 0.058+/-0.025a / AP-tank 0.163+/-0.039a / AP-beds 0.132+/-0.018a (AP-beds used in TAN/NH4-N cell); NO2- HYD-tank 0.108+/-0.016a / HYD-beds 0.158+/-0.021a / AP-tank 0.126+/-0.005a / AP-beds 0.122+/-0.002a (AP-beds used in NO2-N cell); NO3- HYD-tank 63.68+/-37.109a / HYD-beds 93.54+/-5.854b / AP-tank 19.45+/-0.835a / AP-beds 18.73+/-0.864a (HYD-beds is the only value in this table with a distinct letter -- the paper's single reported significant water-chemistry difference, matching the abstract's headline finding; AP-beds used in NO3-N cell); PO4+ HYD-tank 8.669+/-0.736a / HYD-beds 9.096+/-0.684a / AP-tank 9.29+/-0.025a / AP-beds 9.06+/-0.203a (no dedicated schema column for phosphate). Table 4 leaf width ('Ancho') and length ('Longitud'), both cuts, both treatments, p.8 -- no dedicated morphology column beyond height/leaf-count: ultimo corte width HYD 12.66+/-1.34a / AP 12.74+/-1.29a (p=0.826, ns), length HYD 29.03+/-3.04a / AP 29.51+/-3.05a (p=0.540, ns); primer corte width HYD 14.41+/-0.31a / AP 12.37+/-0.79b (p=0.014), length HYD 33.19+/-0.39a / AP 30.78+/-1.12b (p=0.025). Table 5 leaves/m2 (a distinct, area-basis metric from Table 4's per-cut leaf count), p.10: HYD 172, AP 136. Growth-rate regression detail (Figure 3, p.9; simple linear regression of each variable vs cumulative number of cuts): width HYD slope -0.3464 (p=0.000009) / AP -0.061 (p=0.2476, ns); length HYD -0.1087 (p=0.018) / AP -0.4642 (p=0.000045); leaf-number HYD +3.4615 (p=0.001) / AP +1.5333 (p=0.012); biomass HYD +53.911 (p=0.06, ns) / AP +38.248 (p=0.005); slope-comparison test found no treatment difference for width (p=0.605) or biomass (p=0.466), but DID find a difference for leaf-number rate (p=0.027, HYD higher) -- the paper's own stated basis for 'hydroponic more productive in leaf number' (length slope-comparison p not given). Paper's own derived percentage-increase figures (Discussion p.11-12, derivation basis not shown/reconcilable from the regression coefficients given): leaf-number increase rate 'del 126.1%' (HYD, i.e. 3.46 leaves/cut) vs implicitly lower for AP (1.53 leaves/cut); biomass increase rate 'del 70.93%' (HYD, 53.91 g/cut) vs AP (38.24 g/cut) -- recorded here as stated, not decomposed into a cell. Literature comparison figures (secondary, not this paper's data, see Citations to chase): Maucieri et al. 2019 aquaponic/hydroponic chard yields 4.17/3.87 kg m-2 and water temp 21.1 C; Holguin-Pena et al. 2023 chard aquaponic effluent NH4+ 0.67, NO2- 0.12, NO3- 112.2, PO4+ 3.48 mg/L, water temp 23.29-23.91 C, and 10.8 leaves/plant at 55 d harvest; Yang & Kim 2020 NO2- 0.34, NO3- 39.1 mg/L; Yang & Kim 2019 PO4+ 24.7-24.9 (aquaponic) / 74.5 (hydroponic) mg/L; Candia-Pacheco & Quiroga-Sossa 2018 chard yield 10.9 kg m-2 (best treatment); De Lima et al. 2014 tilapia growth rate 3.295 g/day.
+

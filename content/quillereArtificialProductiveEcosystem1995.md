@@ -1,0 +1,327 @@
+---
+title: "An artificial productive ecosystem based on a fish/bacteria/plant association. 2. Performance"
+citekey: "quillereArtificialProductiveEcosystem1995"
+year: 1995
+type: exploratory
+doi: "10.1016/0167-8809(94)00551-o"
+url: "https://doi.org/10.1016/0167-8809(94)00551-o"
+trials: 2
+tags:
+  - Meta/Type/Exploratory
+  - Meta/Region/Europe
+  - Meta/Fish/Tilapia
+  - Meta/Plant/Tomato
+  - Meta/Plant/Lettuce
+status: unread
+quality: ok
+---
+
+# An artificial productive ecosystem based on a fish/bacteria/plant association. 2. Performance
+
+## Metadata
+
+* **Cite key:** quillereArtificialProductiveEcosystem1995
+* **Item type:** Journal Article
+* **Authors:** [[I. Quillère]], [[L. Roux]], [[D. Marie]], [[Y. Roux]], [[F. Gosse]], [[J.F. Morot-Gaudry]]
+* **Affiliation:** Laboratoire du Métabolisme, INRA, Route de St-Cyr, 78026 Versailles Cedex, France (Quillère, L. Roux, Y. Roux, Gosse, Morot-Gaudry); Installations Piscicoles Expérimentales (IPE), INRA, Domaine de Vilvert, 78352 Jouy-en-Josas Cedex, France (Marie)
+* **Journal:** Agriculture, Ecosystems and Environment 53 (1995) 19-30
+* **Date:** March 1995 (accepted 13 August 1994)
+* **Date added:** 2026-08-10
+* **DOI:** [10.1016/0167-8809(94)00551-o](https://doi.org/10.1016/0167-8809(94)00551-o) — confirmed via Crossref (`api.crossref.org/works/10.1016/0167-8809(94)00551-o`); matches the SSDI code printed on p.19 of the PDF (`SSDI 0167-8809(94)00551-6`), the pre-DOI Elsevier identifier this DOI was later minted from.
+* **Funding:** Not stated in the paper (Acknowledgements thank named individuals for technical/editorial help only, no funding body named)
+* **URL:** https://doi.org/10.1016/0167-8809(94)00551-o
+* **PDF:** `Quillere et al. - 1995 - An artificial productive ecosystem based on a fish.pdf`
+
+> [!tip] Opinion
+>
+> A methodologically old-fashioned but data-rich system-performance report: no ANOVA, no p-values, no replication (n=1 physical loop per period) — everything is a single closed recirculating fish/bacteria/plant apparatus run through two contrasted management regimes (growing fingerlings + staggered tomato in spring-summer; adult fish + eight lettuce cultivars in winter) and benchmarked against literature yields rather than a co-located hydroponic control. What makes it worth keeping is the nitrogen mass balance (Table 4): input, output, remainder and loss in grams N are all stated, and every one of the three periods' balances closes almost exactly when independently recomputed against Table 1's biomass and Table 5's tissue-N percentages (see Extraction notes) — this is a rare case where the arithmetic in an old paper actually holds together end to end. The main weaknesses are that this 1995 paper folds in a third ("1st period, autumn") column that is not its own data but a restatement of the companion 1993 design paper (handled here by simply not extracting it — see below), and that the specific tilapia species/strain used is never named in this paper at all (only in the companion paper, presumably). A genuine hydroponic control existed for the winter lettuce trial per the Methods, but the yield percentages reported against it are attributed in the Results to a different literature citation than the one used for the control's own nutrient recipe, leaving real ambiguity about what the "% of control" column in Table 2 is actually measuring.
+
+## Abstract
+
+An artificial ecosystem was developed with the aim of associating fish production with a vegetable crop purifying the fish water, in a closed system. The nitrogenous compounds excreted in dissolved form by the fish, and transformed by the bacteria, provide nitrogen for the plants. Previous studies have focused on the system's design and the management of the plant compartment in order to achieve a state of equilibrium.
+
+The present paper deals with the performance of the ecosystem over a 2 year period in different conditions of fish and plant culture. Yield measurement of the biological production and the dynamics of the nitrogen transfers in the ecosystem made it possible to define for each trial the efficiency of the system both in terms of productivity and of waste nitrogen recovery.
+
+In the spring-summer trial, 80 tomatoes in staggered crops were associated with 216 growing fingerlings. Fish growth paralleled that obtained in a traditional breeding tank and tomato yield reached 70% of the conventional hydroponic culture but with a drastic saving in fertilizers. The recirculating water was well purified as its nitrogen content remained low at 1 mmol l⁻¹. About 60% of the nitrogen supplied was recovered from fish (31%) and plants (28%).
+
+In the winter trial, 176 lettuce cultivars were associated with 65 adult fish. The plant production varied with the lettuce genotype used, with only butterhead lettuces reaching the same yield as in conventional hydroponics. The size of the plant compartment was too small in relation to the fish compartment so only 29% of the nitrogen supplied was recovered (fish 21%, plants 7.5%). Therefore, the water nitrogen content increased to 15% of the nitrogen supplied.
+
+When the main conditions to ensure equilibrium of the ecosystem are satisfactory, size relationship between the three interacting compartments, dynamic management of the fish compartment (growing fingerlings) and the plant compartment (staggered crops, application of a mineral complement), biological production can reach a high level with low fresh water input and low pollution of the environment. The nitrogen balance highlighted the great efficiency of the purifying plant compartment (nitrogen assimilation by plants was high and nitrogen remained low in water) which has been not observed in earlier experiments with artificial ecosystems.
+
+**Keywords:** Fish production; Hydroponics; Recirculating systems; Tilapia; Vegetables
+
+## Summary
+
+This is Part 2 ("Performance") of a two-part INRA study; Part 1 (Quillère et al., 1993) described the system's design and management. Here the authors ran the same closed recirculating fish/bacteria/plant ecosystem (one fish tank, a nitrifying biofilter, and hydroponic troughs, total volume 2.25 m³) through two new, contrasted periods over 1989-1990: a spring-summer trial pairing staggered tomato crops (var. Fedine) with a mixed population of growing tilapia fingerlings and phased-out adults, and a winter trial pairing eight lettuce cultivars (four types) with 65 adult tilapia. No parallel replicate systems were run and no inferential statistics are reported anywhere — comparisons to "conventional hydroponic culture" are narrative percentages against external literature (spring-summer tomato) or, for winter lettuce, against a genuinely parallel-grown but ambiguously-sourced hydroponic control. The paper's central contribution is a full nitrogen mass balance (input from feed/mineral complement/tap water; output to fish and vegetable biomass; remainder in water; loss to faeces and cleaning) for each period, showing that when the fish and plant compartments are well-sized to each other (spring-summer: growing fingerlings paired with staggered tomato cropping), plant nitrogen uptake keeps pace with fish excretion and water nitrogen stays low; when they are mismatched (winter: a fixed adult fish population against too few lettuce plants), nitrogen accumulates in the water instead. Tomato yield reached about 70% of conventional hydroponic benchmarks with far less fertilizer input; lettuce yield was highly cultivar-dependent (60-112% of a hydroponic comparator across eight cultivars) and mineral partitioning shifted with the specific pH-buffering/fertilizer regime used. The authors frame the system as suited to water- and energy-scarce contexts, closed-loop hydroponic effluent reuse, and small-scale/confined applications.
+
+---
+
+> [!info] Experiment data
+> - **Location:** INRA Laboratoire du Métabolisme, Versailles, and INRA Installations Piscicoles Expérimentales, Jouy-en-Josas, France (no coordinates stated in paper)
+> - **Design:** One closed recirculating fish/bacteria/plant system (2.25 m³ total volume; nitrifying biofilter, 150 kg granular clay BIOGROG), run as two sequential, contrasted periods over 1989-1990 following on from a first (autumn) period reported in the companion 1993 paper. No randomization, no parallel replicate systems (n=1 loop per period), no inferential statistical test anywhere in the paper.
+> - **Replicates / n:** 1 physical system per period (T1, T2); within the winter trial, lettuce cultivar yields (Table 2) are n=5 plants/cultivar sub-samples of that one system, not independent replicate systems.
+> - **Duration:** T1 (spring-summer) 153 days (Feb-Jul 1989); T2 (winter) 68 days (Dec 1989-Feb 1990). Per-cohort durations within each period differ from these period totals — see Extraction notes.
+> - **Organisms:** Tilapia, species/strain not stated in this paper (see Extraction notes) / [[Tomato (var. Fedine)]] (T1) and multi-cultivar [[Lettuce]] — Judy, Musette, Ardente, GL 659, Malika, Salinas, Parris Island, Red head (T2)
+> - **Statistics:** None. Means ± SD reported only for individual fish weight (Fig. 2) and lettuce cultivar yield (Table 2); all AP-vs-hydroponic comparisons are narrative percentages, not hypothesis tests.
+> - **Nitrogen mass balance (Table 4, g N):** Spring-summer — input 3389 (feed 3202 + mineral 54 + tap water 133); fish output 1015 (32%); vegetable output 949 (28%); water remainder 0 (0%); loss 1425. Winter — input 921 (feed 895 + tap water 26, no mineral N added); fish output 185 (21%); vegetable output 78 (8.5%); water remainder 139 (15%); loss 516. Both balances independently recompute to within rounding of the paper's own totals (see Extraction notes).
+> - **Yield:** Tomato (T1): ten-cluster group 5 kg/plant, one-cluster group 0.5 kg/plant (≈70% of conventional hydroponic culture per Abstract, 60-85% per specific literature comparisons). Lettuce (T2): 100-325 g/head across 8 cultivars without extra lighting (60-112% of a hydroponic comparator, Table 2), up to 460 g/head with 16 h supplemental lighting (aggregate only, no cultivar breakdown).
+
+---
+
+## Nitrogen mass balance and compartment sizing
+
+**This paper:** The paper's central finding is that ecosystem nitrogen recovery depends on how well the fish and plant compartments are sized to and synchronized with each other, not on the technology per se. In spring-summer, growing fingerlings (an increasing nitrogen source) were paired with staggered tomato cropping (a maintained nitrogen sink), and 60% of input nitrogen was recovered in biomass (31% fish, 28% plants per the Abstract; Table 4 and running text both give 32%/28% — see Extraction notes on a minor abstract/table rounding difference), with water nitrogen remainder at only 13.5% (Table 4) and NO3 kept near 1 mmol/L. In winter, a fixed adult fish population continued excreting nitrogen at a roughly constant rate while only 80 lettuce plants (later thinned from 176) provided insufficient sink capacity, so only 29% of nitrogen was recovered (21% fish, 8.5% plants per Table 4 and running text — the Abstract's "7.5%" is a probable typo, see Extraction notes) and the water nitrogen remainder rose to 15%, with NO3 climbing to 5 mmol/L. The authors explicitly attribute the winter shortfall to an "insufficient number of plants with regard to the fish population" (p.28) rather than to poor lettuce growth itself, and note that synchronizing the fish and plant compartments' biological cycles (which differ in duration and in how their nitrogen demand/supply changes over time) is "the most worrying source of imbalance" (p.28) in small single-loop systems like this one.
+
+**Compared with:**
+- #todo [[Rakocy 1980]] -- closed recirculating tilapia system with aquatic macrophytes; found lower plant nitrogen assimilation (7-8.6% of total N, rising to 10-14% of non-assimilated feed N) than this paper's 28-31%, and lower fish assimilation (31% vs this paper's 18-32%) (p.27)
+- #todo [[Zweig 1986]] -- integrated fish/hydroponic system; found 37.4% fish nitrogen assimilation on a male tilapia population, within this paper's 18-32% range but at the high end (p.27)
+- #todo [[Suresh and Lin 1992]] -- recirculating system without plants; found under 20% fish nitrogen assimilation (referenced to total feed N) on a male red tilapia population, lower than this paper's fish-compartment figures (p.27)
+- #todo [[Siddiqui et al. 1988]] -- conventional (non-recirculating) Nile tilapia culture; found 40-43.2% nitrogen assimilation, higher than this paper's recirculating-system fish figures, cited as the paper's benchmark for "normal" tilapia N assimilation (p.27)
+- #todo [[Kaushik 1980]] -- carp/rainbow trout nitrogen excretion patterns; cited for the general finding that 30-40% of ingested nitrogen in carp is excreted as NH4, supporting this paper's own NH4-dominant excretion framing (p.27)
+
+## Fish growth and feed conversion
+
+**This paper:** Fingerling growth during spring-summer was exponential, from 13.8 ± 5 g to 224.6 ± 81 g over the trial (large SD attributed to tilapia sexual dimorphism), and matched 90-98% of the predictive weight-increase model of Mélard (1986) for optimal-condition mixed-population tilapia growth. FCR for fingerlings ranged 1.25-1.61 depending on initial weight; for adults it was 3 in spring-summer (vs 1.9 in the companion 1993 paper's autumn trial — not this paper's own new data, see Extraction notes). No fish growth or FCR figure specific to the winter adult population is given anywhere in the paper. 93 of the population died on Day 140 of the spring-summer trial "for an unidentified cause, perhaps a fleeting peak of NO2" (p.20) from denitrification of accumulated feeding residues; no survival percentage is stated.
+
+**Compared with:**
+- #todo [[Mélard 1986]] -- predictive model for tilapia mixed-population mean weight increase under optimal breeding conditions; this paper's fingerling growth reached 90% (20-100 g range) and 98% (100-200 g range) of the model's predicted values (p.23)
+- #todo [[Mélard and Philippart 1981]] -- tilapia growth and sexual dimorphism in heated effluents; cited as the source of the sexual-dimorphism explanation for this paper's large fish-weight SDs (p.23)
+- #todo [[Viola and Arieli 1982]] -- carp/Sarotherodon high-protein pellet nutrition study; cited as agreeing with this paper's fingerling FCR range of 1.25-1.61 (p.23)
+- #todo [[El Sayed 1990]] -- Nile tilapia protein-source evaluation; cited alongside Viola and Arieli as corroborating this paper's fingerling FCR range, and separately for tilapia nitrogen assimilation of 40-43.2% (p.23, p.27)
+
+## Tomato and lettuce yield vs conventional hydroponics
+
+**This paper:** Tomato yield (5 kg/plant ten-cluster, 0.5 kg/plant one-cluster) reached roughly 70% of conventional hydroponic culture per the Abstract, though the specific literature comparisons cited in the body text give two different ranges (70-85% vs the Fedine variety's own field-culture cluster yield; 60-75% vs Dutch greenhouse cultivar production) rather than one clean number — no parallel hydroponic tomato crop was grown in this paper itself (see Extraction notes). Lettuce yield was highly cultivar-dependent: without supplemental lighting, yields ranged 101-325 g/head (60-112% of a stated hydroponic comparator) across eight cultivars in four types; only the butterhead cultivar Judy matched its comparator exactly (100%), while the crisphead cultivar GL 659 exceeded its own comparator (112%) — this sits awkwardly against the paper's own summary claim that "only butterhead lettuces" matched hydroponic yield (see Extraction notes). A real parallel hydroponic control crop was grown for the winter trial per the Methods, but the paper's own Results section attributes the comparison percentages to a different external citation than the one used for the control's own nutrient recipe, leaving genuine ambiguity about what exactly "% of control" measures (flagged in Extraction notes and trials.csv).
+
+**Compared with:**
+- #todo [[Odet 1987]] and [[Odet and Jay 1987]] -- Fedine variety tomato in intensive field culture; this paper's cluster yield reached 70-85% of these benchmarks (p.23)
+- #todo [[Letard and Le Quillec 1990]] and [[Boidin et al. 1993]] -- Dutch tomato cultivars in greenhouse culture; this paper's production reached 60-75% of these benchmarks for an equivalent period (p.23)
+- #todo [[Watten and Busch 1984]] -- tilapia/tomato recirculating system; found 0.5-3.7 kg/plant, overlapping this paper's 0.5-5 kg/plant range (p.23)
+- #todo [[Lewis et al. 1978]] -- catfish/hydroponic recirculating system; found 4.6 kg/plant tomato yield, within this paper's ten-cluster range (p.23)
+- #todo [[Lewis et al. 1981]] -- catfish/hydroponic recirculating system; found 1.9-8.9 kg/plant depending on variety/year, bracketing this paper's yields (p.23)
+- #todo [[Sutton and Lewis 1982]] -- fish/hydroponic production system; found up to 9 kg/plant tomato yield, above this paper's highest figure (p.23)
+- #todo [[Lesaint 1987]] -- critique of soilless/recycled hydroponic culture methods; cited as the literature benchmark for both the tomato mineral-supply comparison (Fig. 3) and the lettuce "% of control" comparison (Table 2) -- see Extraction notes on the ambiguity this creates for the winter trial's hydroponic control
+
+## Water quality and mineral inputs
+
+**This paper:** Water NH4 (50-170 µmol/L) and NO2 (0-50 µmol/L) stayed well below toxic thresholds for fish throughout spring-summer, with NO3 dropping to near 1 mmol/L as plants established; winter showed lower NH4 (2-30 µmol/L) and NO2 (4-12 µmol/L) but higher NO3 (rising to 5 mmol/L) because the smaller plant compartment could not keep pace with fish excretion. Neither NH4 nor NO2 ever accumulated across either period, which the authors take as evidence of a consistently well-performing nitrifying biofilter. Mineral complement addition (N/P/K/Mg) was drastically lower than a conventional hydroponic recipe except for phosphorus, which the authors attribute to fish waste already supplying most other required minerals. No pH, dissolved oxygen, or conductivity values are given anywhere in the paper despite the Methods stating all three were measured three times weekly. Daily water renewal ranged 3.5-9% of total system volume (or 0.1-0.3% of total recirculated water, an alternate basis given for the same figure), in line with several other recirculating aquaponic systems cited by the authors.
+
+**Compared with:**
+- #todo [[Rakocy 1980]] -- water consumption benchmark: recirculating systems with plants use ~600x less water than conventional raceways (p.25)
+- #todo [[MacMurty et al. 1990]] -- 7% daily water renewal in a recirculating sand-culture vegetable system, comparable to this paper's 3.5-9% range (p.25)
+- #todo [[Lewis et al. 1978]] -- 6.6% daily water renewal, within this paper's comparison range (p.25)
+- #todo [[Sutton and Lewis 1982]] -- 6% daily water renewal, within this paper's comparison range (p.25)
+- #todo [[Watten and Busch 1984]] -- 2.6% daily water renewal, at the low end vs this paper's range (p.25)
+
+## Linked claims
+
+- [[Fish-plant compartment size synchronization determines nitrogen recovery efficiency in closed aquaponic ecosystems]]
+- [[Growing fish populations paired with staggered plant cropping keep aquaponic water nitrogen low]]
+- [[Aquaponic tomato yield can approach conventional hydroponic yield with substantially reduced fertilizer input]]
+- [[Lettuce cultivar choice strongly affects relative yield performance in aquaponic systems]]
+
+## Citations to chase
+
+- [ ] #todo Rakocy, J.E. (1980) -- Evaluation of a closed recirculating system for tilapia culture. PhD Dissertation, Auburn University -- lower plant/fish N assimilation figures than this paper
+- [ ] #todo Zweig, R.D. (1986) -- An integrated fish culture hydroponic vegetable production system. Aquaculture 12:34-40
+- [ ] #todo Suresh, A.V. and Lin, C.K. (1992) -- Effect of stocking density on water quality and production of red tilapia in a recirculated water system. Aquacult. Eng. 11:1-22
+- [ ] #todo Siddiqui, A.Q., Howlader, M.S. and Adam, A.A. (1988) -- Effects of dietary protein levels on growth, feed conversion and protein utilization in fry and young Nile tilapia. Aquaculture 70:63-73
+- [ ] #todo Kaushik, S.J. (1980) -- Influence of nutritional status on the daily patterns of nitrogen excretion in the carp and the rainbow trout. Reprod. Nutr. Develop. 20:1751-1765
+- [ ] #todo Mélard, Ch. (1986) -- Les bases biologiques de l'élevage intensif du tilapia du Nil. Thesis, Univ. Liège
+- [ ] #todo Mélard, Ch. and Philippart, J.C. (1981) -- Pisciculture intensive du tilapia Sarotherodon niloticus dans les effluents thermiques d'une centrale nucléaire en Belgique. Proc. World Symp. Aquaculture in Heated Effluents, Stavanger
+- [ ] #todo Viola, S. and Arieli, Y. (1982) -- Nutrition studies with a high-protein pellet for carp and Sarotherodon spp. Bamidgeh 34:39-46
+- [ ] #todo El-Sayed, A.M. (1990) -- Long-term evaluation of cotton seed meal as a protein source for Nile tilapia. Aquaculture 84:315-320
+- [ ] #todo Odet, J. (1987) -- Tomate de plein champ variété Ferline; essai âge du plant. Centre Technique Interprofessionnel des Fruits et Légumes
+- [ ] #todo Odet, J. and Jay, M. (1987) -- Tomate Ferline; cultures de démonstration. Centre Technique Interprofessionnel des Fruits et Légumes
+- [ ] #todo Letard, M. and Le Quillec, S. (1990) -- Tomate sous serre; comparaison de systèmes de culture sans sol. Centre Interprofessionnel des Fruits et des Légumes
+- [ ] #todo Boidin, H., Gaillard, P. and Leygnac, J. (1993) -- Tomate en serre plastique double paroi hors-sol. Association Interprofessionnelle de Recherche et d'Expérimentation Légumière
+- [ ] #todo Watten, B.J. and Busch, R.L. (1984) -- Tropical production of tilapia and tomatoes in a small-scale recirculating water system. Aquaculture 41:271-283
+- [ ] #todo Lewis, W.M., Yopp, J.H., Schramm, H.L. and Brandenburg, A.M. (1978) -- Use of hydroponics to maintain quality of recirculated water in a fish culture system. Trans. Am. Fish. Soc. 107:92-99
+- [ ] #todo Lewis, W.M., Yopp, J.H., Brandenburg, A.M. and Schnoor, K.D. (1981) -- On the maintenance of water quality for closed fish production systems by means of hydroponically grown vegetable crops. Proc. World Symp. Aquaculture in Heated Effluents, Stavanger
+- [ ] #todo Sutton, R.J. and Lewis, W.M. (1982) -- Further observations on a fish production system that incorporates hydroponically grown plants. Prog. Fish Cult. 44:55-59
+- [ ] #todo MacMurty, M.R., Nelson, P.V., Sanders, D.C. and Hodges, L. (1990) -- Sand culture of vegetables using recirculated aquacultural effluents. Appl. Agric. Res. 5:280-284
+- [ ] #todo Lesaint, C. (1987) -- Analyse critique des systèmes de culture hors sol avec et sans recyclage des solutions. In: Les cultures hors sol, I.N.R.A., Paris, pp.299-315
+- [ ] #todo Lesaint, C. and Coïc, Y. (1983) -- Cultures Hydroponiques. Editions Flammarion, Paris
+- [ ] #todo Quillère, I., Marie, D., Roux, L., Gosse, F. and Morot-Gaudry, J.F. (1993) -- An artificial productive ecosystem based on a fish/bacteria/plant association. 1. Design and management. Agric. Ecosystems Environ. 47:13-30 -- companion paper, being extracted separately in this vault; see Extraction notes on the duplication check performed against it
+
+## Extraction notes
+
+**PDF quality:** Clean, fully extractable text layer (12 pages, single-column 1995 Elsevier Agriculture, Ecosystems and Environment typesetting), no OCR needed. However, several tables (Table 1, Table 2, Table 4, Table 5) render with jumbled reading order when extracted as plain running text, because the original PDF lays them out as multi-column numeric grids that a naive top-to-bottom text extraction does not preserve. All four tables were re-extracted using word-level bounding-box coordinates (x/y position) and manually reconstructed column-by-column before any values were recorded; the reconstructed row/column assignments were then cross-validated by recomputing every internal total the paper itself implies (Table 4's own N input = output + remainder + loss identity; Table 5's tissue-N percentages against Table 1's biomass and Table 4's N-output figures) — every recomputation closed within rounding (see below), which gives confidence the table reconstruction is correct. Figure-only data (Figs. 1, 2, 4, 5, 6) was not read for numeric values per the prime directive; Fig. 3's mineral-supply percentages were also excluded from any cell for the same reason plus PDF-extraction garbling (see NO COLUMN note in trials.csv T1 remarks).
+
+**Companion-paper duplication check (explicitly requested):** This 1995 paper ("2. Performance") is the direct follow-up to Quillère et al. 1993 ("1. Design and management"), which is being extracted separately in this vault by a different pass. The two papers do **not** report the same underlying trial for their main content: the 1993 paper reports the system's design plus a first ("autumn") trial; this 1995 paper reports **two new trials** (spring-summer 1989, winter 1989-90) run afterward on the same (slightly upgraded — biofilter enlarged from 50 to 150 kg BIOGROG clay) physical apparatus. However, this 1995 paper's own Tables 1, 3, 4 and 5 each include a "1st period (autumn)" column that is explicitly stated (p.22) to be a **restatement of the 1993 paper's own results**, not new data: *"The results obtained in the first experimental period (Quillère et al., 1993) are reported as '1st period (autumn)' in Tables 1, 3, 4 and 5."* To avoid double-counting the 1993 paper's trial, **no trials.csv row and no plant.csv row were created from any "1st period/autumn" figure in this paper** — those numbers belong to the 1993 paper's own extraction. Only the spring-summer (T1) and winter (T2) periods, which are this paper's own new measurements, were extracted here. This is stated explicitly rather than silently, per the task's instructions.
+
+**Type classification judgment call:** Recorded as `exploratory`. The paper has no randomization, no parallel replicate aquaponic systems (a single physical loop per period), and performs no inferential statistical test anywhere (no ANOVA, t-test, or p-value; only means ± SD for individual measurements like fish weight and lettuce cultivar yield). All comparisons to "conventional hydroponic culture" are narrative percentage comparisons against external literature (or, for winter lettuce, against an ambiguously-sourced parallel control — see below). `case-study` (SCHEMA.md: "single system or site described in depth") was considered as an alternative, since this genuinely is one system studied in depth, but `exploratory` was judged the better fit because the paper explicitly sets out to quantify and compare system *performance* (yield %, nitrogen-recovery %) across two deliberately contrasted management conditions, rather than simply narrating one static configuration.
+
+**Trial structure:** Two trials.csv rows. T1 = spring-summer period (tomato var. Fedine + growing tilapia fingerlings/phased-out adults). T2 = winter period (eight lettuce cultivars + adult tilapia). Unlike most other papers in this vault, **neither trial has a true within-paper, unambiguously-sourced hydroponic control**: T1's tomato yield is compared only against external literature (no hydroponic tomato crop grown in this paper at all); T2's lettuce yield is compared against a control the Methods says was grown in parallel, but whose comparison percentages the Results attribute to a different literature citation than the one used for the control's own nutrient recipe (see the WARN-CHECK below). T1's HYD columns are therefore `NA` (no control in this trial's design); T2's are `NR` (a control existed per Methods, but no usable absolute value is ever stated for it).
+
+**⚠️WARN-CHECK -- winter hydroponic control identity, p.21-22 vs p.24.** Methods 2.3 states: *"A conventional hydroponic crop was grown at the same time [as the winter lettuce trial], without extra lighting but with a nutrient solution (Lesaint and Coïc, 1983) maintained at 28°C."* This describes a real, parallel-grown control. However, Results 3.1.2 (p.24) attributes the specific "% of control" figures in Table 2 to *"% of that obtained in the conventional recycled hydroponic technique (Lesaint, 1987)"* — a different, external literature citation (a methods-critique book chapter) than the Methods' own nutrient-recipe source (Lesaint and Coïc, 1983). No absolute yield figure for the parallel-grown control is stated anywhere in the paper — only the derived percentages. It is genuinely unclear whether Table 2's percentages were computed against this paper's own measured parallel harvest, or against Lesaint (1987)'s published literature yields per cultivar. Recorded: T2 Plant fresh weight (HYD) = `NR` under either reading. Both candidate readings and their sourcing are preserved in trials.csv T2 Experimental Remarks. Added to `REVIEW.md` at the batch/merge step.
+
+**⚠️WARN-MATERIAL -- winter plant nitrogen recovery %, Abstract vs Table 4/running text (p.19 vs p.27-28).** Abstract states winter "plants (7.5%)" for nitrogen recovery. Table 4 (p.28) and the Section 3.2.2 running text (p.27, "amounted to 31%, 28% and 8.5% respectively") **both independently** give 8.5% for the same quantity. Two independent, mutually corroborating sources (a table and separately-worded running text) agree on 8.5%; only the single Abstract mention gives 7.5% — most likely a transposed-digit typo. 8.5% was used for this paper's own internal cross-checks (see below); the Abstract's conflicting 7.5% is preserved in trials.csv T1's remarks (this is a whole-paper Table 4 issue, documented once there). This has no dedicated trials.csv cell (no schema column for %N-recovery) but is counted toward the quality score per SCHEMA.md.
+
+**⚠️WARN-CHECK -- Table 5 "Whole fish" and "Tomatoes fruits" N% F.W. period attribution, p.28.** Table 5 explicitly period-labels its "Tomatoes non-edible parts" D.W. values ("1st period"/"2nd period"), but gives "Whole fish" (2.5% F.W.) and "Tomatoes fruits" (0.13% F.W.) as single, unlabelled figures. These were assigned to the spring-summer trial (T1) here, on the strength of two independent recomputation cross-checks that both close almost exactly: (a) 40,600 g total fish biomass (Table 1's spring-summer adults + fingerlings production, 6.4 + 34.2 kg) × 2.5% = 1015 g N, an **exact** match to Table 4's stated spring-summer fish N output of 1015 g; the identical check for winter (7,400 g × 2.5% = 185 g) also exactly matches Table 4's winter fish N output of 185 g, suggesting 2.5% may actually be a cross-period constant rather than spring-summer-specific. (b) 221,000 g total tomato fruit F.W. (Table 1, ten-cluster + one-cluster) × 0.13% + 27,400 g non-edible D.W. × 2.4% (the period-2-labelled figure) = 287.3 + 657.6 = 944.9 g, within 0.4% of Table 4's stated spring-summer vegetable N output of 949 g. Both readings and this supporting arithmetic are preserved in trials.csv (T1 remarks, plant.csv Notes column for the affected rows). Added to `REVIEW.md` at the batch/merge step.
+
+**⚠️WARN-MINOR flags (no cell affected):** (1) Fig. 3's phosphorus mineral-supply percentage reads "114%" in the extracted PDF text against the Results running text's "112%" for the same comparison (p.24-25) — likely a rounding/OCR-adjacent discrepancy of one figure vs the other; no schema column exists for this mineral-supply-percentage metric so neither figure enters a cell. (2) The paper's own qualitative summary that "only butterhead lettuces reach[ed] the same yield as in conventional hydroponics" (p.20) is only partly borne out by its own Table 2: of the three butterhead cultivars, only Judy (100% of control) matches, while Musette and Ardente (73% each) do not clearly outperform the crisphead cultivar GL 659 (112%) or the cos cultivar Parris Island (82%). Table 2's own per-cultivar values are what is recorded; the narrative oversimplification is noted here for transparency, not corrected.
+
+**Cross-checks that closed cleanly (not flagged, listed for auditability):** Table 4's own internal identity (N input = fish + vegetable output + water remainder + loss) recomputes exactly for spring-summer (3389 = 1015+949+0+1425) and within 0.3% for winter (921 vs 918, a 3 g gap attributed to compounding rounding of several 1-2 significant-figure percentages, not treated as material). Table 5's lettuce tissue-N cross-check (21,000 g heads × 0.21% + 600 g non-edible × 5.1% = 74.7 g vs Table 4's stated 78 g winter vegetable output) is within ~4%, again attributed to rounding rather than flagged.
+
+**Fish species/strain [unclear]:** This paper never states which tilapia species or strain was used in its own system — the Introduction refers only to "fish (tilapias)" generically, and every binomial name that does appear in the text (*Oreochromis niloticus*, *Sarotherodon niloticus*, etc.) belongs to a cited comparison study, not to this paper's own animals. Recorded `Fish = "Tilapia (species/strain not specified in this paper)"` in trials.csv, per the Alcarraz precedent in SCHEMA.md (do not substitute an external classification the paper itself doesn't give). This information is very likely stated in the companion 1993 design paper and simply not repeated here, since this paper repeatedly cross-references it for system details ("The system with its three compartments... has been already described, Quillère et al., 1993").
+
+**[not reported] / NR fields, grouped:**
+- **Fish (both trials):** Fish Category, Initial Stock density (system volume given but no initial total fish biomass; count × mean weight would be derivation), SGR, Protein (%) (only feed N% given, not crude protein), P, K (feed composition beyond N%), Fish size initial/final (T2 only — no gram figures for the winter adults, unlike T1's fingerling figures), Fish weight gain (T1's fingerling initial/final weights are both stated but subtracting them is a forbidden derivation per SCHEMA.md), Fish survival rate (a mortality event is narrated for T1 but never expressed as a %; nothing at all is said about mortality for T2), Total Feed (kg) (FCR and biomass gain given, but total feed consumed never stated as a figure), FUE AP/HYD, WUE (mineral economy expressed only as % of conventional-hydroponic mineral *supply*, not as a stated efficiency ratio), Water recycle (L/min), Water type, Water classification, Aq pH, Dissolved Oxygen, EC (measurement method stated for all three — "measured three times a week" — but no values given anywhere), Tissue nitrate AP/HYD (paper measures total N by Kjeldahl, not nitrate specifically).
+- **Fish, T2 only:** FCR (the paper's FCR-range sentence names only autumn and spring-summer for adults; no winter-specific figure given despite winter also using adult fish), % of body weight (winter ration given as a fixed 300 g/day, not a %BW figure).
+- **Plant (both trials):** Plant Category, Plants/m², SPAD, Plant height, Leaf count, Plant dry matter (%), Media Details (hydroponic-trough growing medium not specified in this paper).
+- **T1 only:** NO3-N (only a single anecdotal "near 1 mmol/L" timepoint given, not a stated range or mean like NH4/NO2 have), Water temperature (never stated for spring-summer, unlike winter's single 28°C figure).
+- **Site/location (both trials):** Lat/Long (no coordinates given in the paper; not geocoded from the institutional address, per the prime directive), Average room Temperature, Climate control details, Air supplement, Iron supplemented (Fe not itemized in the mineral complement, unlike N/P/K/Mg), pH Buffers (no pH adjustment/buffering described anywhere, unlike some other systems in this vault), Funding.
+
+**Tags judgment call:** Tagged `Meta/Fish/Tilapia` since the paper's own text explicitly names tilapia as the fish studied ("fish (tilapias)", Introduction) even though it never gives a species/strain. Tagged both `Meta/Plant/Tomato` (T1) and `Meta/Plant/Lettuce` (T2) since both were genuinely grown and measured within this paper (not merely mentioned in passing). `type: exploratory` is a new value for the `Meta/Type/` facet in this vault relative to the reference notes reviewed before extraction (which were both `experiment`) — reusing SCHEMA.md's existing controlled-vocabulary term, not inventing a new one.
+
+**New wikilink targets introduced:** [[I. Quillère]], [[L. Roux]], [[D. Marie]], [[Y. Roux]], [[F. Gosse]], [[J.F. Morot-Gaudry]] (no existing author notes found in the vault for any of these). [[Tomato (var. Fedine)]] and [[Lettuce]] used as organism links rather than inventing Latin binomials the paper itself never states (see fish/plant naming notes above and in trials.csv) — flagging this as a candidate-form judgment call per CLAUDE.md rather than silently picking a scientific name.
+
+---
+*Source: `Quillere et al. - 1995 - An artificial productive ecosystem based on a fish.pdf`*
+
+---
+
+## Data Tables
+
+> [!note] Structured data extracted from this paper into the vault's `trials.csv` / `plant_measurements.csv` datasets. Fields the paper didn't report are omitted. [Download the full datasets](/trials.csv) ([measurements](/plant_measurements.csv)).
+
+### Trial Parameters
+
+#### quillereArtificialProductiveEcosystem1995-T1
+
+**Fish**
+
+| Field | Value |
+|---|---|
+| Fish | Tilapia (species/strain not specified in this paper; Introduction refers only to 'fish (tilapias)' generically -- see Extraction notes) |
+| FCR | 1.25-1.61 |
+| N | 5.6 |
+| % of body weight | 1.8-1.9 |
+| Fish size initial | 13.8 +/- 5 |
+| Fish size final | 224.6 +/- 81 |
+| Feed routine | Fed daily, one to three times per day (Methods 2.1) |
+| Feed regime | Commercial carp feed, 92% dry matter, 5.6% N; fingerling ration readjusted after each weight testing, increased from 50 to 650 g total daily ration as fish grew; adult ration fixed at 200-250 g/day; fingerling feeding rate maintained at 1.8-1.9% of body weight, Day58-139 (Methods 2.1) |
+| Fish biomass created (kg) | ~40.6 (6.4 adults + 34.2 fingerlings, Table 1; cross-checked against Table 4 fish N output 1015 g at Table 5's 2.5% whole-fish N: 40,600 x 0.025 = 1015 g, exact match) |
+| Fish trial duration (days) | 153 (Table 3, spring-summer period duration; per-cohort durations differ, see Experimental Remarks) |
+
+**Water**
+
+| Field | Value |
+|---|---|
+| Water volume in the system | 2250 (L, total system volume, Section 3.1.3, p.24; not split by compartment) |
+| Daily Water exchange rate | 3.5-9 (% of total system volume/day, Section 3.1.3; alternate basis 0.1-0.3% of total water recycled also given, see remarks) |
+| TAN / NH4-N | 0.70-2.38 (mg/L NH4-N; UNIT CONVERSION from 50-170 umol/L, Fig.4a; range only, no trial mean reported) |
+| NO2-N | 0-0.70 (mg/L NO2-N; UNIT CONVERSION from 0-50 umol/L, Fig.4a; range only, no trial mean reported) |
+
+**Plant**
+
+| Field | Value |
+|---|---|
+| Plant | Tomato, var. Fedine (species binomial not stated in paper) |
+| Details | 80 plants set up 6 Feb (Day6) at first-floral-cluster stage; staggered crops -- half topped above first cluster (Day28), remainder topped after tenth cluster (Day105); one-cluster group harvested Day79-107, replaced by 40 new (vegetative-only) plants on Day114; ten-cluster group harvested Day92-153; mineral complement supply started Day10 (Methods 2.3) |
+| Days Plant after transplant | 147 (ten-cluster group, Table 1; one-cluster group 108 d before replacement, vegetative-regrowth group 39 d, see Experimental Remarks) |
+| Plant fresh weight | 5000 (g/plant, ten-cluster group, stated directly in text as '5 kg per plant'; one-cluster group 500 g/plant, see Experimental Remarks) |
+
+**System & Setup**
+
+| Field | Value |
+|---|---|
+| System type | Closed recirculating artificial ecosystem: fish tank + nitrifying bacterial filter (150 kg granular clay BIOGROG) + hydroponic troughs (Section 2.2) |
+| Biological system already in use | Y (Same nitrifying biofilter carried over/enlarged from the pilot system described in Quillere et al. 1993 (increased from 50 to 150 kg granular clay BIOGROG, Section 2.2); system fully drained and cleaned at Day0 (31 Jan) marking the start of this period, but the filter medium itself was not replaced) |
+| Remineralization | Y (Mineral complement (N,P,K,Mg) added to recirculating water starting 4 days after plant setting; spring-summer totals per Table 3: N 54 g, P 808 g, K 1067 g, Mg 28 g over 153 days) |
+| Nutrient supplemented | Y (Same mineral complement as Remineralization above (Table 3); described as a 'drastic saving in fertilizers' vs conventional hydroponic culture, except phosphorus (Fig.3, p.25)) |
+| Equipment | Anaesthesia (phenoxy-2-ethanol, 0.3 ml/L) for fish weighing; Kjeldahl method for plant/fish N content determination (Methods 2.4) |
+| Combination | Tilapia (fingerlings + adults, species NR) and tomato (var. Fedine) in a closed recirculating fish/bacteria/plant ecosystem, spring-summer period |
+
+**Site**
+
+| Field | Value |
+|---|---|
+| Region | Europe |
+| Country | France |
+
+**Results & Statistics**
+
+| Field | Value |
+|---|---|
+| Measured Unit | kg per plant (tomato fruit yield); kg (fish/plant biomass, Table 1); g N and % of N input (nitrogen mass balance, Table 4); % N F.W./D.W. (tissue N, Table 5); umol/L, mmol/L water N species (converted to mg/L per vault convention) |
+| Statistic Details | No inferential statistical test performed anywhere in the paper (no ANOVA/t-test/p-values); only means+/-SD given for individual fish weight (Fig.2) and lettuce cultivar yield (Table 2, winter trial only); comparisons to conventional hydroponic performance are narrative percentage comparisons against external literature, not within-paper hypothesis tests |
+| Statistically analysed | N |
+| Replicates (n) | 1 (single aquaponic system/loop, no parallel replicate units; see Extraction notes on type classification) |
+
+**Experimental Remarks:** TRIAL DEFINITION: T1 = spring-summer period (February-July 1989, Day0=31 Jan 1989), tomato (var. Fedine) cultivation associated with a mixed tilapia population (69 adults present until Day111, plus two fingerling batches: 100 introduced 6 days before Day0 at 13.8g mean weight, 116 introduced Day58 at 21g mean weight) in the closed recirculating fish/bacteria/plant ecosystem (Introduction; Methods 2.1-2.3). No parallel/paired within-paper hydroponic control exists for this trial -- all yield comparisons (70% of conventional hydroponic culture per Abstract; 70-85% of Fedine variety field-culture cluster yield per Odet 1987/Odet and Jay 1987; 60-75% of Dutch greenhouse cultivar production per Letard and Le Quillec 1990/Boidin et al. 1993) are against EXTERNAL LITERATURE, not a co-located hydroponic run measured in this paper. HYD-block columns are therefore NA (no hydroponic control in this trial's design) rather than NR.  COMPANION-PAPER DUPLICATION CHECK: this 1995 paper is Part 2 ('Performance') of a two-part study; Part 1 (Quillere et al. 1993, 'Design and management', Agric. Ecosystems Environ. 47:13-30) is being extracted separately and is NOT duplicated here. This paper explicitly states (p.22): 'The results obtained in the first experimental period (Quillere et al., 1993) are reported as "1st period (autumn)" in Tables 1, 3, 4 and 5' -- the autumn column in this paper's own tables restates the 1993 paper's own trial, not new data measured here. Accordingly no trials.csv row was created for that autumn/1st-period data (it belongs to the 1993 paper's own extraction), and autumn-period figures are excluded from this paper's plant.csv too. This paper's spring-summer (T1) and winter (T2) trials are new, later runs of the same physical apparatus (biofilter volume increased from 50kg to 150kg BIOGROG clay between the two papers, Section 2.2) -- not duplicates of the 1993 trial.  TYPE CLASSIFICATION judgment call: recorded 'exploratory'. No randomization, no parallel replicate aquaponic systems (n=1 physical loop per period), and no inferential statistical test anywhere in the paper (no ANOVA/t-test/p-value; only means+/-SD for individual fish weight [Fig.2] and lettuce cultivar yield [Table 2, T2 only]). All AP-vs-conventional comparisons are narrative percentage comparisons against external literature. 'Case-study' was considered as an alternative per SCHEMA.md Part 1, but 'exploratory' fits better since the paper explicitly quantifies system PERFORMANCE/efficiency (yield %, N-recovery %) across two deliberately contrasted management conditions rather than narrating one static setup.  NOT DERIVED, left NR: Fish weight gain per fish (fingerling initial 13.8+/-5g and final 224.6+/-81g are both stated [Fig.2, p.23] but subtracting them is a forbidden derivation per SCHEMA.md; recorded instead as Fish biomass created, which the paper states directly); Total Feed (kg) (FCR range and biomass gain given but total feed consumed never stated); Fish survival rate (93 fish died Day140 for an 'unidentified cause, perhaps a fleeting peak of NO2', p.20, but never expressed as a % and the population base is ambiguous); Initial Stock density (kg/m3) (system volume 2.25 m3 stated but no initial total fish biomass given; count x mean weight would be derivation); SGR, Protein (%), P, K (feed composition); Aq pH, Dissolved Oxygen, EC (measurement method stated -- 'pH, conductivity and nitrogen compound contents were measured three times a week', Methods 2.4 -- but no values given anywhere); Plants/m2, SPAD, Plant height, Leaf count, Plant dry matter, Tissue nitrate AP (not measured/stated); FUE AP/HYD, WUE (mineral economy expressed only as % of conventional-hydroponic mineral SUPPLY, Fig.3, not as an FUE/WUE ratio).  RANGE-ONLY water chemistry, no trial mean reported: TAN/NH4-N and NO2-N recorded as stated ranges (p.24, Fig.4a), UNIT CONVERSION ONLY from umol/L (x14 N molar mass): NH4 50-170 umol/L -> 0.70-2.38 mg/L NH4-N; NO2 0-50 umol/L -> 0-0.70 mg/L NO2-N. NO3-N recorded NR: paper gives only a single anecdotal timepoint ('NO3 content in water decreased to a level near 1 mmol/L' near Day21, p.24), not a stated range/mean; full trajectory only in Fig.4a, never read from a figure.  Daily Water exchange rate: paper gives two bases for the same flow, stated together deliberately (not an unstated-definition conflict): '0.1 to 0.3% of the total water recycled, or... 3.5 to 9% of the total volume of the system (2.25 m3)' (p.25). Recorded 3.5-9% (matches column definition); alternate basis preserved here.  FCR: fingerling range (1.25-1.61 'according to initial fish weight', p.23) recorded as primary since the paper calls growing-fingerling production 'the normal functioning procedure for the fish compartment' (p.27); adults' spring-summer FCR=3 (p.23, distinct phased-out population) not entered in the cell.  Fish biomass created: ~40.6 kg = 6.4 kg (adults) + 34.2 kg (fingerlings), both stated in Table 1 (p.23), summed here (~ flagged per SCHEMA.md). CROSS-CHECK (recomputation only, not a cell value): Table 4 fish N output spring-summer = 1015 g N (32%, p.28); Table 5 whole-fish N% F.W. = 2.5% (p.28, unlabelled by period). 40,600 g x 0.025 = 1015 g -- EXACT match, supporting both that Table 5's 2.5% figure is a cross-period constant (also confirmed in T2) and that this ~40.6 kg total is the correct basis for 'the fish compartment'.  Days Plant after transplant / Plant fresh weight -- staggered-cropping structure (Table 1, p.23): three tomato sub-groups existed within this ONE trial (staggered cropping is the trial's own design, not a separate labelled treatment, per SCHEMA.md's 'one row per treatment' guidance): (1) ten-cluster group, 40 plants, 147 days, 201 kg fruit F.W. = '5 kg per plant' stated directly (check: 201/40=5.025, matches); (2) one-cluster group, 40 plants, 108 days, 20 kg fruit F.W. = '0.5 kg per plant' stated directly (check: 20/40=0.5, exact), harvested Day79-107 then REPLACED by (3) 40 new vegetative-only plants (no fruit), 39 days, folded into the 27.4 kg D.W. non-edible-matter total. The ten-cluster group's values (147d, 5000 g/plant) are used as the trial's representative cells; the other two cohorts' figures are preserved here rather than creating extra rows.  NO COLUMN items: total system water input for the period, 31.6 m3 (Table 3, p.24, distinct from the standing 2.25 m3 system volume); mineral complement added, N 54g/P 808g/K 1067g/Mg 28g over 153 days (Table 3, p.24); Fig.3's mineral-supply percentages vs conventional hydroponic culture (P legibly ~114%, matching the 112% figure in running text p.24-25 -- WARN-MINOR, likely rounding/typo of one vs the other, no cell affected; N/K/Mg percentages garbled/illegible in the extracted PDF text); full Table 4 N mass balance for spring-summer (Feed intake 3202 gN + mineral complement 54 gN + tap water 133 gN = input 3389 gN; Fish output 1015 gN/32%, Vegetables output 949 gN/28%, Water remainder 0 gN/0%, Faeces+cleaning-water loss 1425 gN; recompute check: 1015+949+0+1425=3389, EXACT match); Table 5 tomato tissue N%: fruits 0.13% F.W., non-edible parts (explicitly '2nd period'-labelled) 2.4% D.W. (cross-check: 221,000 g fruit x 0.0013 + 27,400 g non-edible x 0.024 = 287.3+657.6 = 944.9 g vs Table 4's 949 g Vegetables output, within 0.4% -- supports assigning both to spring-summer, see WARN-CHECK below); alternate water-renewal basis (0.1-0.3% of recycled water, see above).  WARN-MATERIAL winter plant-N-recovery %, Abstract vs Table4/text (p.19 vs p.27-28) -- documented once here though it concerns T2's period: Abstract states 'plants (7.5%)' for winter N recovery; Table 4 (p.28) AND Section 3.2.2 running text (p.27, 'amounted to 31%, 28% and 8.5% respectively') both independently give 8.5%. Two independent sources agree on 8.5%; only the Abstract gives 7.5%. 8.5% used for this paper's own internal cross-checks (see T2); Abstract's 7.5% preserved as the conflicting figure. NO-COLUMN item, flagged for quality scoring per SCHEMA.md.  WARN-CHECK Table 5 'Tomatoes fruits' N% F.W. (0.13%) and 'Whole fish' N% F.W. (2.5%) period attribution, p.28: unlike 'Tomatoes non-edible parts', which Table 5 explicitly splits '(1st period)'/'(2nd period)', the 'Whole fish' and 'Tomatoes fruits' F.W. values are single unlabelled figures -- could be spring-summer-specific or a pooled/general constant across periods that grew the same organism. Recorded here (T1) on the strength of the recomputation cross-checks above (fish: exact 1015g match; tomato: 944.9 vs 949g, <0.5% off), which strongly though not conclusively support spring-summer attribution. Both readings and supporting arithmetic given here for the record; add to REVIEW.md at the batch/merge step.  WARN unclear (fish identity): Fish species/strain not stated anywhere in this paper -- Introduction refers only to 'fish (tilapias)' generically; literature citations naming species (Oreochromis niloticus, Sarotherodon niloticus etc.) are for OTHER studies being compared against, not this system's own fish. Recorded Fish = generic 'Tilapia (species/strain not specified in this paper)' per the Alcarraz precedent in SCHEMA.md (do not substitute an external classification the paper itself doesn't state); likely given in the companion 1993 paper and not repeated here.
+
+#### quillereArtificialProductiveEcosystem1995-T2
+
+**Fish**
+
+| Field | Value |
+|---|---|
+| Fish | Tilapia (species/strain not specified in this paper; Introduction refers only to 'fish (tilapias)' generically -- see Extraction notes) |
+| N | 5.6 |
+| Feed routine | Fed daily, one to three times per day (Methods 2.1, same regime as other periods) |
+| Feed regime | Commercial carp feed, 92% dry matter, 5.6% N; fixed ration of 300 g/day for the 65 adult fish, held constant because animal production was not being optimized this period (Methods 2.1) |
+| Fish biomass created (kg) | 7.4 (Table 1; cross-checked against Table 4 fish N output 185 g at Table 5's 2.5% whole-fish N: 7,400 x 0.025 = 185 g, exact match) |
+| Fish trial duration (days) | 68 (Table 3, winter period duration; fish weight increase itself measured over 94 days then re-calculated for the 63-day period per Table 1 footnote c, see Experimental Remarks) |
+
+**Water**
+
+| Field | Value |
+|---|---|
+| Water volume in the system | 2250 (L, same system, Section 3.1.3) |
+| Daily Water exchange rate | 3.5-9 (% of total system volume/day, same range stated across all three experimental periods, Section 3.1.3) |
+| Water temperature | 28 (single stated value, no SD; maintained during winter trial, necessitating the extra-lighting sub-treatment, Methods 2.3) |
+| TAN / NH4-N | 0.028-0.42 (mg/L NH4-N; UNIT CONVERSION from 2-30 umol/L, Fig.4b; range only, no trial mean reported) |
+| NO2-N | 0.056-0.168 (mg/L NO2-N; UNIT CONVERSION from 4-12 umol/L, Fig.4b; range only, no trial mean reported) |
+| NO3-N | up to 70 (mg/L NO3-N; UNIT CONVERSION from 'up to 5 mmol/L', Section 3.2.1.1; upper bound only, no lower bound or trial mean stated) |
+
+**Plant**
+
+| Field | Value |
+|---|---|
+| Plant | Lettuce, 8 cultivars across 4 types: Judy/Musette/Ardente (butterhead), GL 659/Malika/Salinas (crisphead), Parris Island (cos), Red head (loose-leaf) (Table 2; species binomial not stated in paper) |
+| Details | 176 three-week-old lettuce plants set up 9 Jan (Day343); mineral complement started Day352; plant density thinned to 80 plants on Day377 (one in two discarded) as density became critical; final harvest Day393; half the plants given 16h extra lighting to counteract bolting risk from 28C water temperature (Methods 2.3) |
+| Days Plant after transplant | 50 (Table 1, transplant Day343 to final harvest Day393) |
+| Plant fresh weight | ~262.5 (g/plant, derived: 21 kg total heads F.W. / 80 plants, Table 1; per-cultivar range without extra lighting 101-325 g/head, with extra lighting a single aggregate value of 460 g reported, no per-cultivar breakdown, see Experimental Remarks) |
+
+**System & Setup**
+
+| Field | Value |
+|---|---|
+| System type | Closed recirculating artificial ecosystem: fish tank + nitrifying bacterial filter (150 kg granular clay BIOGROG) + hydroponic troughs (Section 2.2); same system as T1, continuously operated |
+| Biological system already in use | Y (Continuation of the same biofilter/system as T1 (150 kg granular clay BIOGROG, Section 2.2); system fully drained and cleaned at the start of this period (22 Dec, Day325)) |
+| Remineralization | Y (Mineral complement added to recirculating water starting 9 days after plant setting; winter totals per Table 3: N 0 g, P 96 g, K 121 g, Mg 8 g over 68 days -- no nitrogen added this period (Table 3), consistent with fish-excreted N alone exceeding lettuce demand in winter) |
+| Artificial Lighting | Y (16h supplemental lighting applied to half of the winter lettuce plants specifically to counteract bolting risk from the 28C water temperature; unlit half is the group detailed in Table 2 (footnote 'crop without extra lighting'); lit half's yield reported only as a single aggregate 460 g figure, no cultivar breakdown or SD given (p.20-21)) |
+| Nutrient supplemented | Y (Same mineral complement as Remineralization above (Table 3); P/K/Mg added, N intentionally withheld this period) |
+| Equipment | Anaesthesia (phenoxy-2-ethanol, 0.3 ml/L) for fish weighing; Kjeldahl method for plant/fish N content determination (Methods 2.4); nutrient solution per Lesaint and Coic 1983 formulation used for the parallel hydroponic control crop (Methods 2.3) |
+| Control Parameters | Water temperature maintained at 28C during the winter trial (heating source/equipment not specified) |
+| Combination | Tilapia (adults, species NR) and multi-cultivar lettuce (8 cultivars/4 types) in a closed recirculating fish/bacteria/plant ecosystem, winter period |
+
+**Site**
+
+| Field | Value |
+|---|---|
+| Region | Europe |
+| Country | France |
+
+**Results & Statistics**
+
+| Field | Value |
+|---|---|
+| Measured Unit | kg per plant / g per head (lettuce yield); kg (fish/plant biomass, Table 1); g N and % of N input (nitrogen mass balance, Table 4); % N F.W./D.W. (tissue N, Table 5); umol/L, mmol/L water N species (converted to mg/L per vault convention) |
+| Statistic Details | No inferential statistical test performed anywhere in the paper (no ANOVA/t-test/p-values); means+/-SD given only for lettuce cultivar yield (Table 2, n=5 plants/cultivar) and individual fish weight elsewhere in the paper; comparisons to conventional hydroponic performance are narrative percentage comparisons, not within-paper hypothesis tests |
+| Statistically analysed | N |
+| Replicates (n) | 1 (single aquaponic system; Table 2 cultivar yields are n=5 plants/cultivar sub-samples within that one system, see Experimental Remarks) |
+
+**Experimental Remarks:** TRIAL DEFINITION: T2 = winter period (22 December 1989/Day325 system drain to 28 February 1990/Day393 final harvest), 8 lettuce cultivars across 4 types (butterhead: Judy/Musette/Ardente; crisphead: GL 659/Malika/Salinas; cos: Parris Island; loose-leaf: Red head) associated with 65 adult tilapia, in the SAME closed recirculating ecosystem as T1, run immediately after the spring-summer trial (p.20; Table 3, p.24). Half the plants received 16h supplemental lighting to counteract bolting risk from the 28C water temperature (Methods 2.3, p.21-22) -- a real second design factor layered onto this trial, but Table 2 (the only detailed yield dataset, cultivar-level means+/-SD) is explicitly restricted to the UNLIT group ('Crop without extra lighting (five plants of each cultivar)', Table 2 footnote, p.24); the lit group's yield is given only as a single unlabelled aggregate figure (460 g, no cultivar breakdown or SD, p.20-21). Per SCHEMA.md ('if unsure, keep one row and describe the ambiguity in remarks'), this trial is recorded as ONE row using the better-documented unlit dataset as primary.  COMPANION-PAPER / DUPLICATION: see T1's remarks for why the 'autumn/1st period' data restated in this paper's own Tables 1/3/4/5 (sourced from Quillere et al. 1993) is excluded from both trials.csv and plant.csv here. This winter trial is new data unique to this 1995 paper, not a re-report of the 1993 paper's own (autumn) trial.  HYD CONTROL AMBIGUITY -- WARN-CHECK, p.21-22 vs p.24: Methods 2.3 states unambiguously that 'A conventional hydroponic crop was grown at the same time [as the winter lettuce trial], without extra lighting but with a nutrient solution (Lesaint and Coic, 1983) maintained at 28C' -- i.e. a real parallel-grown hydroponic control existed. However, Results Section 3.1.2 (p.24) attributes Table 2's 'percent of control' figures to '% of that obtained in the conventional recycled hydroponic technique (Lesaint, 1987)' -- a DIFFERENT, external literature reference (a methods-critique book chapter) than the Methods-described parallel crop's own nutrient-solution source (Lesaint and Coic, 1983). The paper never states whether Table 2's percentages were computed against this paper's own actually-measured parallel hydroponic harvest, or against Lesaint (1987)'s literature yield figures per cultivar. No absolute gram value for the parallel hydroponic crop's yield is given anywhere. Recorded: Plant fresh weight (HYD) = NR under either reading; AP vs HYD comparison preserved as narrative only in this cell. Both candidate readings and their sourcing given here for the record; add to REVIEW.md at the batch/merge step.  TYPE CLASSIFICATION: see T1 remarks -- same paper-wide 'exploratory' judgment call applies here.  NOT DERIVED, left NR: Fish trial duration recorded as the Table-3 period total (68 days) rather than Table-1's per-cohort adult figure (63 days, itself qualified by footnote c: 'The fish weight increase was only measured after 94 days and re-calculated for the 63 days of the period' -- the paper's own re-calculation, not further re-derived here); FCR (adults) -- the paper's FCR-range sentence ('For adults it ranged from 1.9 (autumn) to 3 (spring-summer)', p.23) names ONLY autumn and spring-summer; no winter-specific adult FCR is given anywhere despite winter also using adult fish -- recorded NR, not assumed equal to either bound; % of body weight -- winter ration is a fixed absolute amount (300 g/day for 65 fish), not a %BW figure -- recorded NR rather than back-calculating from an unstated total biomass; Fish size initial/final, Fish weight gain, Fish survival rate, SGR, Protein/P/K (feed), Total Feed (kg), Initial Stock density, Aq pH, Dissolved Oxygen, EC, Plants/m2, SPAD, Plant height, Leaf count, Plant dry matter, Tissue nitrate AP/HYD, FUE AP/HYD, WUE -- same reasoning/absence as documented in T1 (shared Methods/Results sections cover both trials for most of these).  Fish biomass created: 7.4 kg (Table 1, p.23, single adults cohort, no summing needed). CROSS-CHECK (recomputation only, not a cell value): Table 4 fish N output winter = 185 g N (21%, p.28); Table 5 whole-fish N% F.W. = 2.5% (p.28, unlabelled by period). 7,400 g x 0.025 = 185 g -- EXACT match, the same constant-2.5%-N basis confirmed independently here as in T1, supporting that it applies generally across periods rather than being spring-summer-specific.  Water chemistry, UNIT CONVERSION ONLY (x14 N molar mass) from p.24 and Fig.4b: NH4 2-30 umol/L -> 0.028-0.42 mg/L NH4-N; NO2 4-12 umol/L -> 0.056-0.168 mg/L NO2-N; NO3 'increased up to 5 mmol/L' -> up to 70 mg/L NO3-N (upper bound only; no lower bound/mean given, unlike NH4/NO2). Water temperature = 28C is the ONLY explicit water-temperature figure in the entire paper (any period) -- a single value, no SD, given as the reason for the bolting-risk lighting sub-treatment (Methods 2.3, p.21-22); recorded as-is.  Daily Water exchange rate: same paper-wide 3.5-9%-of-system-volume figure as T1 (p.25 states this range covers 'the three experiments' collectively, not period-specific). Water volume in the system: same 2250 L total as T1 (same physical apparatus).  Plant fresh weight: ~262.5 g/plant, derived as 21,000 g total head F.W. / 80 plants (both stated directly in Table 1, p.23; ~ flagged per SCHEMA.md). Full per-cultivar range from Table 2 (p.24, unlit group, n=5 plants/cultivar, mean+/-SD): Judy (butterhead) 325+/-27 g (100% of control), Musette (butterhead) 199+/-22 g (73%), Ardente (butterhead) 167+/-15 g (73%), GL 659 (crisphead) 171+/-70 g (112%, the only cultivar exceeding its comparator), Malika (crisphead) 162+/-47 g (79%), Salinas (crisphead) 101+/-36 g (60%, lowest), Parris Island (cos) 166+/-58 g (82%), Red head (loose-leaf) 146+/-43 g (66%). WARN-MINOR: the paper's own summary ('only butterhead lettuces reaching the same yield as in conventional hydroponics') is only partly supported by Table 2 -- of the three butterhead cultivars only Judy (100%) matches; Musette/Ardente (73% each) do not clearly outperform crisphead GL 659 (112%) or cos Parris Island (82%). Does not affect any cell (Table 2's own values are what is preserved and used). Lit-group aggregate: 460 g (single value, no breakdown, p.20-21) -- see HYD/lighting notes above.  NO COLUMN items: total system water input for winter, 6.1 m3 (Table 3, p.24); mineral complement added, N 0g/P 96g/K 121g/Mg 8g over 68 days (Table 3, p.24) -- notably ZERO nitrogen added this period, consistent with the paper's finding that fish-excreted N alone exceeded lettuce demand in winter (water N remainder rose to 15% of input, Table 4); full Table 4 N mass balance for winter (Feed intake 895 gN + mineral complement 0 gN + tap water 26 gN = input 921 gN; Fish output 185 gN/21%, Vegetables output 78 gN/8.5%, Water remainder 139 gN/15%, Faeces+cleaning-water loss 516 gN; recompute check: 185+78+139+516=918 vs input 921, a 3g/0.3% gap attributed to compounding rounding of the underlying percentages, not flagged as material); Table 5 lettuce tissue N%: heads 0.21% F.W., non-edible parts 5.1% D.W. (both unambiguously winter-only, the only lettuce period in the study) -- cross-check: 21,000 g heads x 0.0021 + 600 g non-edible x 0.051 = 44.1+30.6 = 74.7 g vs Table 4's 78 g Vegetables output, a ~4% gap, larger than T1's but still consistent with compounding rounding, not flagged as material.  WARN unclear (fish identity): Fish species/strain not stated anywhere in this paper (see T1 remarks for full detail); recorded Fish = generic 'Tilapia (species/strain not specified in this paper)'.
+
+### Plant Measurements
+
+| Trial | System | Category | Analyte | Value | Unit | Sig. | Location |
+|---|---|---|---|---|---|---|---|
+| quillereArtificialProductiveEcosystem1995-T1 | AP | mineral | N | 0.13 | % F.W. | NR | Table 5, p.28 (Tomatoes fruits, N %F.W.) |
+| quillereArtificialProductiveEcosystem1995-T1 | AP | mineral | N | 2.4 | % D.W. | NR | Table 5, p.28 (Tomatoes non-edible parts, explicitly labelled '2nd period' = spring-summer) |
+| quillereArtificialProductiveEcosystem1995-T2 | AP | mineral | N | 0.21 | % F.W. | NR | Table 5, p.28 (Lettuces heads, N %F.W.) |
+| quillereArtificialProductiveEcosystem1995-T2 | AP | mineral | N | 5.1 | % D.W. | NR | Table 5, p.28 (Lettuces non-edible parts) |
+

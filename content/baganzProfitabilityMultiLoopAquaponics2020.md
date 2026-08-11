@@ -1,0 +1,203 @@
+---
+title: "Profitability of multi‐loop aquaponics: Year‐long production data, economic scenarios and a comprehensive model case"
+citekey: "baganzProfitabilityMultiLoopAquaponics2020"
+year: 2020
+type: field-trial
+doi: "10.1111/are.14610"
+url: "https://doi.org/10.1111/are.14610"
+trials: 1
+tags:
+  - Meta/Type/Field-trial
+  - Meta/Region/Europe
+  - Meta/Fish/African-catfish
+  - Meta/Plant/Tomato
+status: read
+quality: caution
+---
+
+# Profitability of multi‐loop aquaponics: Year‐long production data, economic scenarios and a comprehensive model case
+
+## Metadata
+
+* **Cite key:** baganzProfitabilityMultiLoopAquaponics2020
+* **Item type:** Journal Article
+* **Authors:** [[Gösta Baganz]], [[Daniela Baganz]], [[Georg Staaks]], [[Hendrik Monsees]], [[Werner Kloas]]
+* **Affiliation:** Leibniz-Institute of Freshwater Ecology and Inland Fisheries, Berlin, Germany; Albrecht Daniel Thaer-Institute of Agricultural and Horticultural Sciences, Berlin, Germany; Institute of Biology, Humboldt University, Berlin, Germany
+* **Journal:** Aquaculture Research 51(7) (2020) 2711–2724
+* **Date:** 04/2020 (Received 28 Nov 2019; Revised 26 Feb 2020; Accepted 13 Mar 2020)
+* **Date added:** 2021-06-17
+* **DOI:** [10.1111/are.14610](https://doi.org/10.1111/are.14610)
+* **Funding:** Belmont Forum and the European Commission via CITYFOOD (Grant/Award Number: 726744); INAPRO (Grant/Award Number: 619137)
+* **URL:** https://doi.org/10.1111/are.14610
+* **PDF:** `Baganz et al. - 2020 - Profitability of multi‐loop aquaponics Year‐long .pdf`
+
+> [!tip] Opinion
+>
+> This is fundamentally an economics/case-study paper wearing a production-data hat: the only genuinely empirical component is one year of monthly sales/cost records from a single commercial DRAPS facility (InitS), and even that has no water-chemistry monitoring at all — no pH, DO, temperature, or nitrate values anywhere. The three follow-on "cases" (ScenA, ScenB, ModelCase) are explicitly ex ante estimates built on KTBL horticultural reference tables, an unpublished production-cyclogram model, and the authors' own experience, not new trials. The arithmetic is largely internally consistent and often independently verifiable (ROI reciprocals, annuity sums, cost percentages all check out), which makes the exceptions — a payback-period figure that contradicts its own table, a productivity factor cited two different ways, and a ModelCase tomato-revenue figure that doesn't multiply out from the quantities shown in the same row — worth flagging rather than shrugging off. Useful as a rare real-world DRAPS cost benchmark and for the "labour and feed dominate costs" and "direct sales vs internal/wholesale pricing" framing, but any of its headline profit or payback numbers should be re-derived from Tables 1–6 before being cited rather than quoted from the running text.
+
+## Abstract
+
+<!-- Verbatim from the paper. Private vault only — remove before making public. -->
+
+This case study examined the productivity and economic performance of a double recirculation aquaponic system in Germany with a total interior area of about 540 m2. Calculations were carried out as an ex post analysis based on one-year production data. The initial situation was not profitable; therefore, two scenarios were developed, which envisaged a significantly improved productivity of the fish as well as of the plant unit and a more than threefold enlargement of the greenhouse to make maximum use of the fish effluent. An ex ante analysis was performed and showed that the second scenario was profitable with a payback period of about 12 years. On the basis of this scenario, a simple but comprehensive model case with the complete set of economic key indicators showed that aquaponics is feasible if it exploits its potential, regardless of the high initial investment costs. The model case would cover an overall space of about 2,000 m2, which is suitable for professional aquaponics in urban and peri-urban areas with their limited space availability. Furthermore, multi-loop aquaponics with its inherent circles fits into the circular city concept and implements resource-efficient and sustainable food production into the urban fabric, which is important with increasing urbanization.
+
+## Summary
+
+The authors monitored one real commercial double-recirculating aquaponic (DRAPS) facility in Waren, Germany — African catfish RAS coupled unidirectionally to a tomato greenhouse — for a full year (June 2017–May 2018, the "Initial Situation" or InitS), recording sales, costs, and production volumes on a monthly basis. InitS was unprofitable (a 5,950 EUR annual loss), driven mainly by low, still-ramping-up productivity and inexperienced horticultural staff. From this baseline, the authors built two forward-looking, non-empirical economic scenarios: Scenario A assumes the RAS and greenhouse both reach their full productivity potential within the existing facility footprint (a small profit, but a ~27-year payback with no debt financing); Scenario B additionally more-than-triples the greenhouse to fully use the fish wastewater for irrigation (profitable, ~8-year payback). A "ModelCase" then extends Scenario B into a generic, debt-free, direct-to-consumer stand-alone facility template (~75k EUR annual profit) intended as a reusable planning tool rather than a description of Waren. The paper's contribution is less about fish or plant biology — no water chemistry, growth curves, or tissue data are reported — and almost entirely about cost/revenue structure, sensitivity to market prices, and the argument that multi-loop aquaponics can be economically viable at production scale if labour, feed, and market-price risk are actively managed.
+
+---
+
+> [!info] Experiment data
+> - **Location:** Waren, Mecklenburg-Vorpommern (MV), Germany — a commercial fishery facility (Fischerei Müritz-Plau GmbH)
+> - **Design:** Single production-scale DRAPS facility, no randomisation or replication; one year of monitored monthly production/cost data (InitS) followed by three non-empirical ex ante economic projections (ScenA, ScenB, ModelCase) built on assumptions, not new trials
+> - **Replicates / n:** NA — single, non-replicated commercial facility (case-study / field-trial design)
+> - **Duration:** InitS monitoring period: 12 months, June 2017–May 2018 (tomato production itself only ran late Jan–Oct 2018, i.e. within but shorter than the InitS window)
+> - **Organisms:** [[African catfish (Clarias gariepinus)]] / Tomato (species/cultivar not stated)
+> - **Statistics:** None — this is a cost–benefit / profitability analysis (CBA-style spreadsheet model), not a hypothesis-tested experiment; no ANOVA or significance test is reported anywhere
+> - **[[Feed Conversion Rate (FCR)]]:** InitS 1.15 (includes feed and fish losses); ScenA/ScenB assumed 1.09 (p.3, p.6)
+> - **Fish yield:** InitS 13,200 kg/a; ScenA/ScenB (assumed) 21,600 kg/a
+> - **Tomato yield:** InitS 16.7 kg/m²a (5,332 kg total, 320 m² net-acreage); ScenA (assumed) 41.0 kg/m²a; ScenB (assumed, 1,100 m² net-acreage) 41.0 kg/m²a, 45,100 kg/a
+> - **Overall economic balance:** InitS −5,950 EUR (loss, ROI −1.3%); ScenA +16,520 EUR (ROI 3.7%, payback ~27 a); ScenB +77,548 EUR (ROI 12.5%, payback ~8 a, or 11.78 a hypothetical with debt financing)
+
+---
+
+## Economic performance (InitS vs scenarios)
+
+**This paper:** The one empirically recorded year (InitS) lost money (−5,950 EUR; −0.45 EUR per "functional unit" of 1 kg fish + 0.4 kg tomatoes), attributed to start-up inexperience, a late (Jan 2018) tomato planting, and research overhead. Feed (35–42% of RAS costs across all cases) and labour (30% RAS / 61–66% HS) dominate operating costs throughout. Scaling productivity alone (ScenA) turns a small profit but cannot pay back the investment inside a normal facility lifetime without debt financing considerations; enlarging the greenhouse 3.44× to fully exploit fish-effluent transfer water (ScenB) is what actually makes the facility profitable, mainly by increasing tomato output rather than by "more aquaponics" per se — the authors themselves note ScenB's improvement "was not so much improved by strengthening the aquaponic principle but rather by the increased production volume of the tomatoes" (p.7).
+
+**Compared with:**
+- #todo [[Love et al. 2015]] — international aquaponics profitability survey; InitS's 18.5 t combined annual harvest would place it in the upper 5% of surveyed facilities by production outcome. *(p.9)*
+- #todo [[Bosma et al. 2017]] — financial feasibility of aquaponics fish/vegetable production; cited for FCR-at-weight recalculation used to argue an FCR of 0.92 might be achievable for 1.3 kg African catfish (speculative, not this paper's own measured value). *(p.10)*
+- #todo [[Dorogi & Apáti 2019]] — non-subsidised Spanish tomato greenhouses, 7–9 year dynamic payback period, offered as a (not directly comparable, no RAS) benchmark against ScenB's ~8 year payback. *(p.9)*
+- #todo [[Quagrainie, Flores, Kim & McClain 2018]] — US Midwest aquaponics/hydroponics economic comparison, cited generally on market-environment sensitivity. *(p.9)*
+
+## Facility design and biological parameters
+
+**This paper:** RAS: 12 fish tanks × 2.2 m³ = 26.4 m³ productive volume, mechanical (sedimentation) + UV + trickling-filter (31 m³) biofiltration, gas-fired CHP (16 kW electricity) plus 12 kW-peak photovoltaic for heating/power, vapour-compression chillers for greenhouse cooling. HS: 320 m² net-acreage of a 352 m² greenhouse, split 50/50 between NFT and drip irrigation trenches (compared for "usefulness" per Suhl et al. 2016, but no split results given in this paper). RAS annual water exchange was 1,419.1 m³, i.e. 107.5 L per kg fish at InitS productivity, improving to 65.7 L/kg once RAS productivity rose (still within InitS, by Dec 2018 — outside the nominal InitS window ending May 2018, see Extraction notes).
+
+**Compared with:**
+- #todo [[Suhl et al. 2016]] — the NFT-vs-drip comparison at this same Waren facility, with the actual split results this paper does not report. *(p.3)*
+- #todo [[Martins et al. 2010]], [[Martins, Ochola, Ende, Eding & Verreth 2009]], [[Verdegem, Bosma & Verreth 2006]] — cited as benchmarks for the 107.5→65.7 L/kg water-use reduction being "demanding but realistic." *(p.6)*
+
+## Linked claims
+
+- [[Multi-loop (decoupled) aquaponics can reach profitability primarily by exploiting fish-effluent transfer water for a large plant unit, not by intensifying the aquaponic coupling itself]]
+- [[Labour and fish feed are the dominant recurring cost drivers in commercial-scale aquaponics]]
+- [[Aquaponic facility profitability is highly sensitive to achievable produce market price, not only to production efficiency]]
+
+## Citations to chase
+
+- [ ] #todo Love et al. (2015) — international aquaponics profitability survey benchmark
+- [ ] #todo Bosma et al. (2017) — financial feasibility of aquaponic fish/vegetable production; FCR-at-weight recalculation
+- [ ] #todo Dorogi & Apáti (2019) — Spanish tomato greenhouse payback-period benchmark
+- [ ] #todo Quagrainie, Flores, Kim & McClain (2018) — US Midwest aquaponics/hydroponics economics
+- [ ] #todo Suhl et al. (2016) — NFT vs drip irrigation split results at the same Waren facility
+- [ ] #todo Karimanzira, Keesman, Kloas, Baganz & Rauschenbach (2017) — function-based economic model of the same/related aquaponic farm, explicitly *not* used as the method here
+- [ ] #todo Kloas et al. (2015) — DRAPS concept paper, cited for the fish:vegetable harvest-ratio range of 1:2–1:5
+
+## Extraction notes
+
+**Trial definition.** T1 = the Waren facility's Initial Situation (InitS), the only period with empirically recorded (not modelled) production and cost data (June 2017–May 2018). No hydroponic-only or fish-only control exists — this is a single production-scale DRAPS facility. Scenario A, Scenario B, and the ModelCase are the paper's own ex ante estimates/projections (built on KTBL horticultural reference tables, an unpublished production-cyclogram model, and the authors' own experience), not separate empirical trial arms, so per SCHEMA.md they are **not** given their own trials.csv rows; their figures are recorded as `NO COLUMN:` economic remarks under T1 instead.
+
+**Contradictions found (3 ⚠️MATERIAL, 0 ⚠️BLOCK, 2 ⚠️MINOR, 1 ⚠️CHECK → `quality: caution` per the 3–4 MATERIAL rule):**
+
+- **⚠️MATERIAL — ScenA payback period.** Table 2 (p.4) states ScenA payback period = "27 a". Running text, section 3.3 (p.7): "the payback period of ScenA would be around 34 years." Recomputation (verification only): Table 2's own stated ScenA "Simplified ROI" = 3.7%, and Methods (2.4, p.5) states "its reciprocal gives the payback period" → 1/0.037 ≈ 27.0 years; independently, Investment (Table 1, ScenA) 448,833 EUR ÷ Balance (Table 2, ScenA) 16,520 EUR ≈ 27.17 years. Both recomputations match Table 2's "27 a," not the text's "34 years." Recorded **27** in trials.csv remarks; the "34 years" in section 3.3 is treated as the likely error. No dedicated column exists (`NO COLUMN`), but this affects the profitability narrative for ScenA in Results 3.3 and the payback comparison drawn there against ScenB.
+- **⚠️MATERIAL — RAS productivity factor (ScenA/ScenB vs InitS).** Section 3.2 (p.6): RAS in ScenA operates at "the 1.64-fold productivity," matching Table 1's stated RAS Yield ratio of 1.64 and matching direct recomputation (21,600 kg ÷ 13,200 kg = 1.636 ≈ 1.64). Section 3.3 (p.7) instead states "the increase of RAS productivity by factor 1.67 in ScenA and ScenB." 1.64 is recorded (stated twice, independently verifiable); the single "1.67" occurrence is treated as a typo. `NO COLUMN`.
+- **⚠️MATERIAL — ModelCase tomato sales revenue (Table 6, p.9).** Table 6 lists "Tomato sales" as 39,900 kg × 4 EUR/kg = 168,000 EUR — but 39,900 × 4 = 159,600, not 168,000. However, 42,000 kg (the "Tomato harvest" figure, i.e. *before* the stated 5% non-marketable deduction) × 4 EUR/kg = 168,000 EUR exactly, and the stated "Total benefits" of 352,900 EUR only reconciles using 168,000 (184,900 + 168,000 = 352,900; using 159,600 would give 344,500). This means the ModelCase's headline revenue and profit figures — Total benefits 352,900 EUR, "Results RAS + HS" 74,874 EUR, and the "annual profit of around 75 k EUR" repeated in sections 3.4, 4.1, and the Conclusion — appear to have been computed from the pre-loss 42,000 kg harvest rather than the 39,900 kg marketable figure shown in the very same table row, despite the 5% non-marketable deduction being explicitly stated as applied. Recorded 168,000 EUR (the figure the paper's own total actually carries forward); both candidate figures and the arithmetic are given here since this is a `NO COLUMN` economic figure with no dedicated cell. If 159,600 were used instead, ModelCase "Results RAS+HS" would be ≈66,474 EUR, not 74,874 EUR — a ~11% difference in the paper's headline profit number.
+- **⚠️CHECK — Fish trial duration / Fish biomass created (InitS).** The InitS RAS is a continuously operating, staggered-batch facility (12 tanks, only 2–3 stocked/harvested per batch at InitS's start-up phase, p.6), not a single stocking-to-harvest cohort. The paper reports "Fish yield [kg/a]" = 13,200 kg for InitS (Table 2) as an annual total across an unspecified number of overlapping batches, and states data were recorded "over the span of a whole year… from June 2017 to May 2018" (p.2) — a monitoring/observation period, not a single batch's grow-out duration. No individual batch's stocking date, harvest date, or per-batch duration is given anywhere. Recorded Fish trial duration = 365 days (`UNIT CONVERSION ONLY`: "a whole year," p.2, → 365 days) representing the InitS monitoring period, and Fish biomass created = 13,200 kg (the stated "Fish yield," Table 2) as the closest available figure — though this is the sum of multiple staggered batches over a year, not one cohort's final-minus-initial biomass gain in the sense the column is used elsewhere in this vault. Flagged CHECK, not BLOCK: a value is available and stated, but the underlying "single trial with a duration" concept does not map cleanly onto this facility's continuous multi-batch operation. Added to REVIEW.md.
+- **⚠️MINOR — Investment sub-totals.** Table 1 (p.3): SUM Investment 448,831 EUR (InitS), 448,833 EUR (ScenA), 620,617 EUR (ScenB). Section 3.3 (p.7) running text instead gives 448,830 EUR (InitS/ScenA) and 620,615 EUR (ScenB). 1–2 EUR differences on six-figure sums; rounding noise, no cell affected.
+- **⚠️MINOR — Table 2 category sub-totals.** Summing the individual cost/benefit line items under Table 2 gives totals 1–2 EUR different from several of the printed "Total"/"Balance" rows (e.g. RAS Costs InitS: items sum to 36,722 vs printed 36,721; RAS/HS Balance InitS: components sum to −5,949 vs printed −5,950; RAS/HS Balance ScenB: components sum to 77,549 vs printed 77,548). Consistent with ordinary rounding of individually-rounded line items (verified by addition, not derivation); no cell affected.
+- **Note (not scored, informational): Tomato yield "kg/m²a" label (InitS).** Table 2 labels InitS tomato yield "16.7 kg/m²a" ("a" = per annum, the paper's own SI convention, p.3), but tomato cultivation at InitS "started late in January 2018" (p.3) within a window ending May 2018 — roughly 4 months of actual cultivation, not 12. 5,332 kg ÷ 320 m² = 16.66 ≈ 16.7, confirming the annualised label is nominal rather than reflecting a true 12-month growing period. Only one tomato-yield figure is given (kept as reported); noted for interpretation only.
+
+**`NOT DERIVED`, left NR:** Initial Stock density (only a final "up to 300 kg/m³ at harvest time" figure is given, p.6 — a final/harvest-time density, not an initial one, and not convertible without inference); SGR; Protein/N/P/K of feed; % of body weight (feed ration); Fish size initial/final (only aggregate annual yield in kg is given; the Discussion's speculative "1.3 kg weight" / FCR 0.92 in section 7.2 is explicitly hypothetical, not InitS data); Feed routine/regime; Total Feed (kg) (InitS feed cost 12,816 EUR at 86.3 ct/kg implies a total kg figure, but it is not stated directly — left NR per the no-derivation rule); Fish survival rate (p.3 gives "the loss of fish accounted to 3% of the yield weight per batch," a weight-basis loss factor feeding the economic model, not a stated survival/mortality rate — not converted to "97%," which would be a one-step derivation); Fish weight gain; Water recycle (flow rate never stated, only annual exchange volumes); Daily Water exchange rate; Aq pH / pHOptimal / FUE AP / FUE HYD / WUE / Dissolved Oxygen / EC / Water temperature / TAN-NH4-N / NO2-N / NO3-N (**no water-chemistry parameters of any kind are reported anywhere in this paper**); Plant Category, Days Plant after transplant, Plants/m² (a planting density of "2.3 plants/m²" is stated, but only as an input to the ScenB transfer-water sizing model — not stated as InitS's actual density, so left NR to avoid misattributing a modelled parameter to the empirical row); SPAD, Plant height, Leaf count, Plant fresh weight, Plant dry matter (no per-plant/per-area quality or morphology data, only aggregate kg yield); Statistic Details (no statistical test of any kind is reported); Lat/Long (Waren, MV, Germany is named but no coordinates given); Average room Temperature.
+
+**`[unclear]` fields:** none — every absent field above is a genuine `[not reported]`, not an ambiguous one.
+
+**`NO COLUMN:` economic/profitability data** (this paper's primary content; SCHEMA.md instructs these into remarks since trials.csv has no dedicated columns for most of it):
+- *InitS (recorded, Table 2 p.4):* Facility investment 448,831 EUR; RAS costs 36,721 EUR (feed 12,816 EUR/35%, labour 10,938 EUR/30%, gas+electricity 7,370 EUR/20%, others smaller); HS costs 33,286 EUR (labour 20,313 EUR/61%, gas+electricity 9,471 EUR/28%); fish sales 32,964 EUR at ~2.50 EUR/kg internal price (paper notes this was "vaguely reported to be 2.00 EUR/kg but was more likely 2.50 EUR/kg," p.6; break-even price stated as 2.78 EUR/kg); tomato sales 18,662 EUR at 3.50 EUR/kg average (range 3.0–5.5 EUR/kg over the year); electricity sales (CHP+PV, not split RAS/HS) 12,432 EUR; overall balance −5,950 EUR; ROI −1.3%; harvest ratio 1:0.4.
+- *ScenA (estimated, Table 2):* same facility footprint; RAS target 21,600 kg/a at FCR 1.09 (RAS potential per an unpublished cyclogram model was 24 t, reduced 10% for conservatism, p.3); HS target 41.0 kg/m²a (informed by Inagro Belgium's 53 kg/m²a with CO2 fertilization, reduced for no-CO2 conditions, p.3); RAS costs 47,211 EUR, HS costs 48,621 EUR; fish sales 54,000 EUR, tomato sales 45,920 EUR; balance +16,520 EUR; ROI 3.7%; payback 27 a (see ⚠️MATERIAL above); harvest ratio 1:0.61.
+- *ScenB (estimated, Table 2; greenhouse expanded 3.44× to 1,100 m² net-acreage):* HS costs 99,522 EUR (labour 65,313 EUR/66%); tomato sales 157,850 EUR; balance +77,548 EUR; ROI 12.5%; payback 8 a; harvest ratio 1:2.09; transfer-water model (p.5): assumed plant uptake 535 L/a at 2.3 plants/m² → optimal net-acreage 1,100 m², total HS water 1,350 m³/a, of which transfer (fish-effluent) water 1,006.5 m³ and additional fresh water 343.5 m³.
+- *ScenB debt-financed variant (Table 4, p.7):* total credit 790,000 EUR (facility 620,000 EUR @1.45%/15y, annuity 49,848 EUR/82%; land 30,000 EUR @1.75%/30y, annuity 1,332 EUR/2%; first-year operating costs 140,000 EUR @1.60%/15y, annuity 9,744 EUR/16%); total annuity 60,924 EUR; result 77,548 − 60,924 = 16,624 EUR; hypothetical payback 11.78 a (formula PP=15−(15r)/(s+r), verified by recomputation); "real" payback stated as 15 a because loan terms are fixed to whole years.
+- *ModelCase (Tables 5–6, p.8–9; extends ScenB, waives CHP/cooling, adds slaughter room/salesroom/office/social room, assumes direct-to-consumer sales at higher prices than InitS/ScenA/ScenB's internal company prices):* total annual costs 278,026 EUR (labour 41.5%, annuities 22.1%, energy 10.8%, operation support 6.7%, other 7.2%, fish 8.6%, plants 2.2%, water 0.9% — all independently re-summed and confirmed to match); fish fillet 43% yield rate (Hoffman et al. 1993) of 21,500 kg harvest = 9,245 kg fillet × 20 EUR/kg = 184,900 EUR; tomato 42,000 kg harvest, 5% not marketable, "sales" 39,900 kg × 4 EUR/kg → Table 6 states 168,000 EUR (see ⚠️MATERIAL above); total benefits 352,900 EUR; Results RAS+HS = 74,874 EUR ("~75 k EUR" cited in Discussion/Conclusion); hypothetical payback "around 7 years" (qualitative only, no exact figure given).
+- *Other:* price-sensitivity example (p.7): dropping ScenB's tomato price from 3.5 to 1.5 EUR/kg would cut benefits by ~90,000 EUR and make ScenB unprofitable (stated qualitatively, not independently verifiable from the given tables). Section 7.2 (p.10) speculates an FCR of 0.92 might be achievable for 1.3 kg African catfish (extrapolated from Hogendoorn 1983 and Nguyen 2016 data, recalculated by Bosma et al. 2017 for 500 g fish) — explicitly a future possibility, not InitS/ScenA/ScenB data.
+
+**Category fields left `NR`:** Fish Category, Plant Category, Water classification — the paper gives no controlled categorisation beyond naming the fish as "African catfish" (life stage not classified as a category) and the plant simply as "tomatoes" (no cultivar). Water type recorded as "Fresh water" per the paper's own wording (p.5: "fresh water to exchange process water").
+
+**`Statistically analysed` = `NR`, not `N`:** the paper performs no inferential statistical test anywhere (Methods 2.4, p.5, explicitly frames this as a cost–benefit/profitability analysis), but nowhere states "no statistical test was performed" — per SCHEMA.md, silence is `NR`, not `N`.
+
+**`Replicates (n)` = `NA`:** single, non-replicated production facility; the 12 fish tanks are staggered production batches within one system, not experimental replicates.
+
+**`AP` / `HYD` / `Tissue nitrate HYD` = `NA`:** no hydroponic-only or fish-only control/benchmark system exists in this study; it is a single DRAPS facility with no comparator arm.
+
+**Scanned PDF check:** clean text layer (not a scan); no OCR issue, not added to `NEEDS_OCR.md`.
+
+**plant_measurements.csv:** 0 rows. The paper reports no plant tissue analytes (no biochemistry, mineral, microbiology, or proximate measurements) — it is a production/economics paper with only aggregate tomato yield (kg, kg/m²) and no quality or nutrient-content analysis of any kind.
+
+**Water panel:** none exists to exclude — the paper reports no water-chemistry data whatsoever (no pH, DO, EC, temperature, TAN, NO2-N, or NO3-N values anywhere in the text, tables, or figures).
+
+**New tags introduced:** `Meta/Type/Field-trial`, `Meta/Fish/African-catfish`, `Meta/Plant/Tomato` (none pre-existed in the vault at time of writing; `TAGS.md` does not exist).
+
+**New wikilink targets introduced:** [[Gösta Baganz]], [[Daniela Baganz]], [[Georg Staaks]], [[Hendrik Monsees]], [[Werner Kloas]], [[African catfish (Clarias gariepinus)]], [[Feed Conversion Rate (FCR)]], [[Multi-loop (decoupled) aquaponics can reach profitability primarily by exploiting fish-effluent transfer water for a large plant unit, not by intensifying the aquaponic coupling itself]], [[Labour and fish feed are the dominant recurring cost drivers in commercial-scale aquaponics]], [[Aquaponic facility profitability is highly sensitive to achievable produce market price, not only to production efficiency]].
+
+---
+*Source: `Baganz et al. - 2020 - Profitability of multi‐loop aquaponics Year‐long .pdf`*
+
+---
+
+## Data Tables
+
+> [!note] Structured data extracted from this paper into the vault's `trials.csv` / `plant_measurements.csv` datasets. Fields the paper didn't report are omitted. [Download the full datasets](/trials.csv) ([measurements](/plant_measurements.csv)).
+
+### Trial Parameters
+
+#### baganzProfitabilityMultiLoopAquaponics2020-T1
+
+**Fish**
+
+| Field | Value |
+|---|---|
+| Fish | African catfish (Clarias gariepinus) |
+| FCR | 1.15 |
+| Fish biomass created (kg) | 13200 |
+| Fish trial duration (days) | 365 |
+
+**Water**
+
+| Field | Value |
+|---|---|
+| Water volume in the system | 26400 |
+| Water type | Fresh water (p.5) |
+
+**Plant**
+
+| Field | Value |
+|---|---|
+| Plant | Tomato (species/cultivar not stated) |
+
+**System & Setup**
+
+| Field | Value |
+|---|---|
+| System type | Double recirculating aquaponic system (DRAPS) (p.2) |
+| Media Details | NFT (50% of trenches) and drip irrigation (50% of trenches), 320-m trenches, 320 m2 net-acreage of 352 m2 greenhouse (p.3) |
+| Biological system already in use | Y (RAS operation started in 2016; InitS monitoring period (June 2017-May 2018) began over a year after RAS startup, and the biofilter/trickling filter (31 m3) was already established (p.2-3)) |
+| Climate control | Y (Gas-based combined heat and power (CHP) unit, heat-demand controlled, max 16 kW electricity output, supported by 12 kW-peak photovoltaic; greenhouse temporarily cooled by vapour compression chillers (p.3)) |
+| Nutrient supplemented | Y (Fertilizer cost line item of 547 EUR/year reported for InitS HS operations (Table 2, p.4); composition/method not specified) |
+| Equipment | 12 rectangular fish tanks (2.2 m3 each, 26.4 m3 total productive volume) with double-walled bottom outlet pipes and ball valves; 2 sedimentation tanks (1.6 m3 each); UV disinfection unit; pump sump; trickling filter bioreactor (31 m3); gas-fired CHP unit (16 kW electricity); 12 kW-peak photovoltaic array; vapour compression chillers (p.3) |
+| Combination | African catfish (Clarias gariepinus) and tomato (species not stated) in a double recirculating aquaponic system (DRAPS) at a commercial fishery facility, Waren, Germany (p.2-3) |
+
+**Site**
+
+| Field | Value |
+|---|---|
+| Region | Europe |
+| Country | Germany |
+
+**Results & Statistics**
+
+| Field | Value |
+|---|---|
+| Measured Unit | kg/a (fish and tomato yield); EUR (costs, benefits, balances); % (ROI, cost/benefit shares); a=annum (payback period, per the paper's stated SI/NIST convention, p.3) |
+
+**Experimental Remarks:** TRIAL DEFINITION: T1 = the Waren facility's Initial Situation (InitS), the only period with empirically recorded (not modelled/estimated) production and cost data, covering June 2017-May 2018 (p.2). No paired hydroponic-only or fish-only control exists; this is a single production-scale DRAPS facility (African catfish RAS + tomato greenhouse HS), commercially operated. Scenario A (ScenA), Scenario B (ScenB), and the ModelCase are the paper's own ex ante estimates/projections built on assumptions (KTBL horticultural reference data, an unpublished production cyclogram, literature-derived FCR extrapolations, own experience) rather than measured production outcomes; per SCHEMA.md they are not separate empirical trial arms and are not given their own trials.csv rows. Their reported figures are recorded below as NO COLUMN economic remarks for context, clearly labelled as estimated, not measured. \| WARN-MATERIAL Payback period (Scenario A): Table 2 (p.4) states ScenA payback period = '27 a'. Running text section 3.3 (p.7) states 'the payback period of ScenA would be around 34 years'. Recomputation (verification only, not derivation): Table 2's stated ScenA Simplified ROI = 3.7%, and Methods (2.4, p.5) states 'its reciprocal gives the payback period'; 1/0.037 = 27.0 years; independently, Investment (Table 1, ScenA) 448,833 EUR / Balance (Table 2, ScenA) 16,520 EUR = 27.17 years. Both match Table 2's '27 a', not the text's '34 years'. Recorded 27 (Table 2, corroborated by two independent recomputations); the '34 years' in section 3.3 is treated as the likely error. NO COLUMN (no dedicated payback-period column exists); affects the ScenA profitability narrative in Results 3.3 and the Conclusion. \| WARN-MATERIAL RAS productivity factor (ScenA/ScenB vs InitS): Section 3.2 (p.6) states RAS in ScenA operates at 'the 1.64-fold productivity' [vs InitS], matching Table 1's stated RAS Yield ratio of 1.64 and matching direct recomputation (21,600 kg / 13,200 kg = 1.636 = 1.64). Section 3.3 (p.7) instead states 'the increase of RAS productivity by factor 1.67 in ScenA and ScenB'. Recorded 1.64 (stated twice and independently verifiable); the single '1.67' occurrence is treated as a typo. NO COLUMN. \| WARN-MATERIAL ModelCase tomato sales revenue (Table 6, p.9): Table 6 lists 'Tomato sales' as 39,900 kg x 4 EUR/kg = 168,000 EUR, but 39,900 x 4 = 159,600, not 168,000. However 42,000 kg (the 'Tomato harvest' figure, before the stated 5% non-marketable deduction) x 4 EUR/kg = 168,000 EUR exactly, and the stated 'Total benefits' of 352,900 EUR only reconciles using 168,000 (184,900+168,000=352,900; using 159,600 gives 344,500). The ModelCase's headline revenue/profit figures (Total benefits 352,900 EUR; Results RAS+HS 74,874 EUR; the 'annual profit of around 75 k EUR' repeated in sections 3.4, 4.1 and the Conclusion) appear to have been computed from the pre-loss 42,000 kg harvest rather than the 39,900 kg marketable figure shown in the same table row, despite the stated 5% deduction. Recorded 168,000 EUR (the figure the paper's own total carries forward); both candidate figures given since this is a NO COLUMN economic figure with no dedicated cell. If 159,600 were used instead, ModelCase 'Results RAS+HS' would be approx. 66,474 EUR, not 74,874 EUR (~11% difference in the paper's headline profit number). \| WARN-CHECK Fish trial duration / Fish biomass created (InitS): the InitS RAS is a continuously operating, staggered-batch facility (12 tanks, only 2-3 stocked/harvested per batch at InitS start-up, p.6), not a single stocking-to-harvest cohort. The paper reports 'Fish yield [kg/a]' = 13,200 kg for InitS (Table 2) as an annual total across an unspecified number of overlapping batches, and states data were recorded 'over the span of a whole year... from June 2017 to May 2018' (p.2) - a monitoring/observation period, not a single batch's grow-out duration. No individual batch stocking date, harvest date, or per-batch duration is given anywhere. Recorded Fish trial duration = 365 days (UNIT CONVERSION ONLY: 'a whole year', p.2, converted to days) representing the InitS monitoring period, and Fish biomass created = 13,200 kg (the stated annual 'Fish yield', Table 2) as the closest available figure, though this is the sum of multiple staggered batches' output over a year rather than one cohort's final-minus-initial biomass gain as the column is used elsewhere in this vault. Flagged CHECK not BLOCK: a value is available and stated, but the 'single trial with a duration' concept does not map cleanly onto this facility's continuous multi-batch operation. Added to REVIEW.md. \| WARN-MINOR Investment sub-totals: Table 1 (p.3) gives SUM Investment 448,831 EUR (InitS), 448,833 EUR (ScenA), 620,617 EUR (ScenB); running text section 3.3 (p.7) instead gives 448,830 EUR (InitS/ScenA) and 620,615 EUR (ScenB). 1-2 EUR differences on six-figure sums; rounding noise, no cell affected. \| WARN-MINOR Table 2 category sub-totals: summing individual cost/benefit line items gives totals 1-2 EUR different from several printed Total/Balance rows (e.g. RAS Costs InitS: items sum to 36,722 vs printed 36,721; RAS/HS Balance InitS: components sum to -5,949 vs printed -5,950; RAS/HS Balance ScenB: components sum to 77,549 vs printed 77,548). Consistent with ordinary rounding of individually-rounded line items (verified by addition, not derivation); no cell affected. \| NOTE (not scored) Tomato yield 'kg/m2a' label (InitS): Table 2 labels InitS tomato yield '16.7 kg/m2a' (a=per annum, p.3), but tomato cultivation 'started late in January 2018' (p.3) within a window ending May 2018 - roughly 4 months of cultivation, not 12. 5,332/320=16.66=16.7, confirming the annualised label is nominal, not a true 12-month growing period. Only one figure given (kept as reported); noted for interpretation only. \| NOT DERIVED, left NR: Initial Stock density (only a final 'up to 300 kg/m3 at harvest time' figure given, p.6 - a final/harvest-time density, not initial, not convertible without inference; NO COLUMN note: final stocking density reached 300 kg/m3 with only 2 of 12 tanks stocked per batch during the suboptimal InitS start-up); SGR; Protein/N/P/K of feed; % of body weight (feed ration); Fish size initial/final (only aggregate annual yield in kg given; Discussion section 7.2's speculative '1.3 kg weight'/FCR 0.92 is explicitly hypothetical, not InitS data); Feed routine/regime; Total Feed (kg) (InitS feed cost 12,816 EUR at 86.3 ct/kg implies a total kg figure but it is not stated directly - left NR per no-derivation rule); Fish survival rate (p.3 gives 'the loss of fish accounted to 3% of the yield weight per batch', a weight-basis loss factor feeding the economic model, not a stated survival/mortality rate - not converted to '97%', a one-step derivation); Fish weight gain; Water recycle (flow rate never stated, only annual exchange volumes); Daily Water exchange rate; Aq pH/pHOptimal/FUE AP/FUE HYD/WUE/Dissolved Oxygen/EC/Water temperature/TAN-NH4-N/NO2-N/NO3-N (no water-chemistry parameters of any kind are reported anywhere in this paper); Plant Category, Days Plant after transplant, Plants/m2 (a planting density of '2.3 plants/m2' is stated only as an input to the ScenB transfer-water sizing model, not as InitS's actual density - left NR to avoid misattributing a modelled parameter to the empirical row); SPAD, Plant height, Leaf count, Plant fresh weight, Plant dry matter (no per-plant/per-area quality or morphology data, only aggregate kg yield); Statistic Details (no statistical test of any kind is reported); Lat/Long (Waren, MV, Germany named but no coordinates given); Average room Temperature. \| NO COLUMN (economic/profitability data, this paper's primary content): InitS (recorded, Table 2 p.4): Facility investment 448,831 EUR; RAS costs 36,721 EUR (feed 12,816 EUR/35%, labour 10,938 EUR/30%, gas+electricity 7,370 EUR/20%); HS costs 33,286 EUR (labour 20,313 EUR/61%, gas+electricity 9,471 EUR/28%); fish sales 32,964 EUR at approx 2.50 EUR/kg internal price (paper notes this was 'vaguely reported to be 2.00 EUR/kg but was more likely 2.50 EUR/kg', p.6; break-even price stated as 2.78 EUR/kg); tomato sales 18,662 EUR at 3.50 EUR/kg average (range 3.0-5.5 EUR/kg over the year); electricity sales (CHP+PV, not split RAS/HS) 12,432 EUR; overall balance -5,950 EUR; ROI -1.3%; harvest ratio 1:0.4. ScenA (estimated, Table 2): same facility footprint; RAS target 21,600 kg/a at FCR 1.09 (RAS potential per an unpublished cyclogram model was 24 t, reduced 10% for conservatism, p.3); HS target 41.0 kg/m2a (informed by Inagro Belgium's 53 kg/m2a with CO2 fertilization, reduced for no-CO2 conditions, p.3); RAS costs 47,211 EUR, HS costs 48,621 EUR; fish sales 54,000 EUR, tomato sales 45,920 EUR; balance +16,520 EUR; ROI 3.7%; payback 27 a (see WARN-MATERIAL above); harvest ratio 1:0.61. ScenB (estimated, Table 2; greenhouse expanded 3.44x to 1,100 m2 net-acreage): HS costs 99,522 EUR (labour 65,313 EUR/66%); tomato sales 157,850 EUR; balance +77,548 EUR; ROI 12.5%; payback 8 a; harvest ratio 1:2.09; transfer-water model (p.5): assumed plant uptake 535 L/a at 2.3 plants/m2 leading to optimal net-acreage 1,100 m2, total HS water 1,350 m3/a, of which transfer (fish-effluent) water 1,006.5 m3 and additional fresh water 343.5 m3. ScenB debt-financed variant (Table 4, p.7): total credit 790,000 EUR (facility 620,000 EUR at 1.45%/15y, annuity 49,848 EUR/82%; land 30,000 EUR at 1.75%/30y, annuity 1,332 EUR/2%; first-year operating costs 140,000 EUR at 1.60%/15y, annuity 9,744 EUR/16%); total annuity 60,924 EUR; result 77,548-60,924=16,624 EUR; hypothetical payback 11.78 a (formula PP=15-(15r)/(s+r), verified by recomputation); 'real' payback stated as 15 a because loan terms are fixed to whole years. ModelCase (Tables 5-6, p.8-9; extends ScenB, waives CHP/cooling, adds slaughter room/salesroom/office/social room, assumes direct-to-consumer sales at higher prices than InitS/ScenA/ScenB's internal company prices): total annual costs 278,026 EUR (labour 41.5%, annuities 22.1%, energy 10.8%, operation support 6.7%, other 7.2%, fish 8.6%, plants 2.2%, water 0.9% - independently re-summed and confirmed to match); fish fillet 43% yield rate (Hoffman et al. 1993) of 21,500 kg harvest = 9,245 kg fillet x 20 EUR/kg = 184,900 EUR; tomato 42,000 kg harvest, 5% not marketable, 'sales' 39,900 kg x 4 EUR/kg -> Table 6 states 168,000 EUR (see WARN-MATERIAL above); total benefits 352,900 EUR; Results RAS+HS = 74,874 EUR (~75 k EUR cited in Discussion/Conclusion); hypothetical payback 'around 7 years' (qualitative only, no exact figure given). Other: price-sensitivity example (p.7): dropping ScenB's tomato price from 3.5 to 1.5 EUR/kg would cut benefits by approx 90,000 EUR and make ScenB unprofitable (stated qualitatively, not independently verifiable from the given tables). Section 7.2 (p.10) speculates an FCR of 0.92 might be achievable for 1.3 kg African catfish (extrapolated from Hogendoorn 1983 and Nguyen 2016 data, recalculated by Bosma et al. 2017 for 500 g fish) - explicitly a future possibility, not InitS/ScenA/ScenB data. \| Category fields left NR: Fish Category, Plant Category, Water classification - the paper gives no controlled categorisation beyond naming the fish as 'African catfish' and the plant simply as 'tomatoes' (no cultivar). Water type recorded as 'Fresh water' per the paper's own wording (p.5: 'fresh water to exchange process water'). \| Statistically analysed = NR, not N: the paper performs no inferential statistical test anywhere (Methods 2.4, p.5, explicitly frames this as a cost-benefit/profitability analysis), but nowhere states 'no statistical test was performed' - per SCHEMA.md, silence is NR, not N. \| Replicates (n) = NA: single, non-replicated production facility; the 12 fish tanks are staggered production batches within one system, not experimental replicates. \| AP/HYD/Tissue nitrate HYD = NA: no hydroponic-only or fish-only control/benchmark system exists in this study; it is a single DRAPS facility with no comparator arm.
+

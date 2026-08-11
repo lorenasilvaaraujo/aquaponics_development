@@ -1,0 +1,101 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasProperty("citekey")
+formulas:
+  main_plant: |
+    if(file.hasTag("Meta/Plant/Lettuce"), "Lettuce",
+    if(file.hasTag("Meta/Plant/Tomato"), "Tomato",
+    if(file.hasTag("Meta/Plant/Basil"), "Basil",
+    if(file.hasTag("Meta/Plant/Cucumber"), "Cucumber",
+    if(file.hasTag("Meta/Plant/Pak-Choi"), "Pak Choi",
+    if(file.hasTag("Meta/Plant/Parsley"), "Parsley",
+    if(file.hasTag("Meta/Plant/Rocket"), "Rocket",
+    if(file.hasTag("Meta/Plant/Swiss-Chard"), "Swiss Chard",
+    if(file.hasTag("Meta/Plant/Watercress"), "Watercress",
+    "Other / multiple")))))))))
+  main_fish: |
+    if(file.hasTag("Meta/Fish/Tilapia"), "Tilapia",
+    if(file.hasTag("Meta/Fish/Koi"), "Koi",
+    if(file.hasTag("Meta/Fish/African-Catfish"), "African Catfish",
+    if(file.hasTag("Meta/Fish/African-catfish"), "African Catfish",
+    if(file.hasTag("Meta/Fish/Trout"), "Trout",
+    if(file.hasTag("Meta/Fish/Goldfish"), "Goldfish",
+    if(file.hasTag("Meta/Fish/Catfish"), "Catfish",
+    "Other / none stated")))))))
+  study_type: |
+    if(file.hasTag("Meta/Type/Experiment"), "Experiment",
+    if(file.hasTag("Meta/Type/Quasi-experiment"), "Quasi-experiment",
+    if(file.hasTag("Meta/Type/Narrative-Review"), "Narrative Review",
+    if(file.hasTag("Meta/Type/Systematic-Review"), "Systematic Review",
+    if(file.hasTag("Meta/Type/Meta-analysis"), "Meta-analysis",
+    if(file.hasTag("Meta/Type/Modelling"), "Modelling",
+    if(file.hasTag("Meta/Type/Exploratory"), "Exploratory",
+    if(file.hasTag("Meta/Type/Observational"), "Observational",
+    if(file.hasTag("Meta/Type/Case-Study"), "Case Study",
+    if(file.hasTag("Meta/Type/Technical-Note"), "Technical Note",
+    if(file.hasTag("Meta/Type/Field-trial"), "Field Trial",
+    if(file.hasTag("Meta/Type/Policy"), "Policy",
+    if(file.hasTag("Meta/Type/Methods"), "Methods", "Review"))))))))))))
+properties:
+  title:
+    displayName: Title
+  note.year:
+    displayName: Year
+  formula.main_plant:
+    displayName: Plant
+  formula.main_fish:
+    displayName: Fish
+  formula.study_type:
+    displayName: Study Type
+  note.status:
+    displayName: Status
+  note.quality:
+    displayName: Quality
+  note.trials:
+    displayName: Trials
+views:
+  - type: table
+    name: All Papers
+    groupBy:
+      property: formula.main_plant
+      direction: ASC
+    order:
+      - title
+      - note.year
+      - formula.main_plant
+      - formula.main_fish
+      - formula.study_type
+      - note.quality
+      - note.trials
+    sort:
+      - property: formula.main_plant
+        direction: ASC
+      - property: note.year
+        direction: DESC
+  - type: board
+    name: By Plant
+    groupBy:
+      property: formula.main_plant
+      direction: ASC
+    order:
+      - title
+      - note.year
+      - formula.study_type
+  - type: board
+    name: By Fish
+    groupBy:
+      property: formula.main_fish
+      direction: ASC
+    order:
+      - title
+      - note.year
+      - formula.main_plant
+  - type: cards
+    name: Cards
+    order:
+      - title
+      - note.year
+      - formula.main_plant
+      - formula.main_fish
+    limit: 60

@@ -1,31 +1,100 @@
 ---
-title: # Comparative life cycle assessment of aquaponics and hydroponics in the Midwestern United States
+title: "Comparative life cycle assessment of aquaponics and hydroponics in the Midwestern United States"
+citekey: "chenComparativeLifeCycle2020"
+year: 2020
+type: modelling
+doi: "10.1016/j.jclepro.2020.122888"
+url: "https://doi.org/10.1016/j.jclepro.2020.122888"
+trials: 0
 tags:
-- ReviewPaper
-- Meta/Type/Experiment
-- Meta/Region/
-- Meta/Fish/
-- Meta/Plant/
+  - Meta/Type/Modelling
+  - Meta/Region/NorthAmerica
+  - Meta/Fish/Tilapia
+status: unread
+quality:
 ---
 
 # Comparative life cycle assessment of aquaponics and hydroponics in the Midwestern United States
 
-## Metadata:
+## Metadata
 
-type: 📥
-* Cite key: chenComparativeLifeCycle2020
-* Tags: #review, #✔️, #aquaponics
-* Item Type: [[Article]]
-* Authors: [[Peng Chen]], [[Gaotian Zhu]], [[Hye-Ji Kim]], [[Paul B. Brown]], [[Jen-Yi Huang]]
-* Date: [[12/2020]]
-* Date Added: [[2021-02-05]]
-* DOI: [10.1016/j.jclepro.2020.122888](https://doi.org/10.1016/j.jclepro.2020.122888)
-zotero_url: * [Local library](zotero://select/items/1_LDXLBEAP)
-* PDF Attachments
-	- [Chen et al. - 2020 - Comparative life cycle assessment of aquaponics an.pdf](zotero://open-pdf/library/items/YYQX47WX)
+* **Cite key:** chenComparativeLifeCycle2020
+* **Item type:** Journal Article
+* **Authors:** [[P. Chen]], [[G. Zhu]], [[H.-J. Kim]], [[P.B. Brown]], [[J.-Y. Huang]]
+* **Affiliation:** Department of Forestry and Natural Resources, Purdue University (P. Chen, P.B. Brown); Department of Horticulture and Landscape Architecture, Purdue University (G. Zhu, H.-J. Kim); Department of Food Science, Purdue University (J.-Y. Huang); Environmental and Ecological Engineering, Purdue University (J.-Y. Huang) — all West Lafayette, IN, United States
+* **Journal:** Journal of Cleaner Production 275 (2020) 122888
+* **Date:** 12/2020
+* **Date added:** 2021-02-04
+* **DOI:** [10.1016/j.jclepro.2020.122888](https://doi.org/10.1016/j.jclepro.2020.122888)
+* **Funding:** USDA National Institute of Food and Agriculture, Hatch project 1014964; Hatch/Multi State project NE-1335 "Resource Management in Commercial Greenhouse Production"; Purdue University Research Funds
+* **URL:** https://doi.org/10.1016/j.jclepro.2020.122888
+* **PDF:** `Chen et al. - 2020 - Comparative life cycle assessment of aquaponics an.pdf`
 
->## Abstract
+> [!tip] Opinion
+>
+> A clean, internally well-cross-checked LCA — every headline ratio quoted in the text (the "almost twice" GWP/AD/AP/EP gaps, the 1.67-fold water-use gap, the ~7/21/3-fold emissions gaps, the ~9-fold KOH/Ca(OH)2 gap, the $16.21/$15.37 vegetable-value split) reproduces exactly from Table 1's raw numbers, which is not always true of papers this dense with ratios. Its central finding — aquaponics looks "better" than hydroponics only because fish are worth more per kg than vegetables, not because the aquaponic infrastructure is inherently more efficient — is an important, honestly-stated caveat (Section 3.3.3 shows the ranking flips under a mass-based FU and under renewable energy). Worth citing for the functional-unit sensitivity analysis alone. The underlying biological system (one unreplicated tank pair, one month, six co-grown plant species with only aggregate yield reported per species) is far too thin to support any agronomic claim beyond "consistent with literature FCR/yield ranges" — the paper itself does not attempt a statistical comparison of AP vs HYD, so none should be read into it.
 
-With high productivity and low land and water use, controlled-environment agriculture (CEA) like aquaponics and hydroponics has become a promising solution to feed the rapidly growing global population. However, both aquaponic and hydroponic systems require high energy input, leading to potential environmental burdens. This cradle-to-gate life cycle assessment (LCA), for the ﬁrst time, compared the environmental performance, on an economic basis, of aquaponics and hydroponics with identical system design in Indiana, US. For a one-month cultivation period, tilapia and six vegetables produced in the aquaponic system had almost twice the total value of the vegetables from the hydroponic system. Aquaponics produced 45% lower endpoint environmental impact than hydroponics. Electricity use for greenhouse heating and lighting, and water pumping and heating contributed to the majority of the environmental impacts of both systems, which was followed by the production of ﬁsh feed and fertilizers. However, changing the energy source from coal to wind power could make the hydroponic system more environment-friendly than the aquaponic system. This LCA study can provide CEA farmers with the groundwork to reduce the environmental cost of their production.
+## Abstract
 
+With high productivity and low land and water use, controlled-environment agriculture (CEA) like aquaponics and hydroponics has become a promising solution to feed the rapidly growing global population. However, both aquaponic and hydroponic systems require high energy input, leading to potential environmental burdens. This cradle-to-gate life cycle assessment (LCA), for the first time, compared the environmental performance, on an economic basis, of aquaponics and hydroponics with identical system design in Indiana, US. For a one-month cultivation period, tilapia and six vegetables produced in the aquaponic system had almost twice the total value of the vegetables from the hydroponic system. Aquaponics produced 45% lower endpoint environmental impact than hydroponics. Electricity use for greenhouse heating and lighting, and water pumping and heating contributed to the majority of the environmental impacts of both systems, which was followed by the production of fish feed and fertilizers. However, changing the energy source from coal to wind power could make the hydroponic system more environment-friendly than the aquaponic system. This LCA study can provide CEA farmers with the groundwork to reduce the environmental cost of their production.
 
+## Summary
+
+The authors built one aquaponic and one hydroponic system of identical physical design (350 L fish/nutrient tank, 20 L solids removal, 40 L two-stage biofilter, 350 L/1 m² plant growth bed) side by side in a Purdue University greenhouse and ran each for about a month (25 Feb–25 Mar 2019), stocking the aquaponic tank with Nile tilapia and growing six vegetable species (Swiss chard, kale, mustard green, cilantro, lettuce, arugula) in both systems. Using this single system's own operational data (water, electricity, feed, fertilizer/chemical inputs, nitrogen/phosphorus/ammonia emissions, and fish/vegetable yields) as the life-cycle inventory, they ran a cradle-to-gate LCA in SimaPro (CML-IA baseline midpoint impacts; Eco-indicator 99 endpoint impacts), using an economic functional unit (1 USD of product) rather than a mass or area functional unit because aquaponics and hydroponics produce different, unequally-priced product mixes. They found aquaponics had roughly half the environmental impact of hydroponics per dollar of product across the four energy-related midpoint categories they focus on (abiotic depletion, global warming, acidification, eutrophication) and about 1.8x lower endpoint damage — driven almost entirely by aquaponics' higher total product value (fish plus vegetables) rather than any efficiency advantage, since both systems consumed near-identical electricity. Sensitivity analyses showed the aquaponic advantage shrinks (but persists) under a mass-based functional unit, is sensitive to region/season (Midwest winter heating load is a major driver) and disappears (hydroponics becomes preferable) if the electricity source shifts from coal to wind power for GWP, acidification, and eutrophication. The paper is useful primarily as a methodological demonstration of how functional-unit choice and energy-source assumptions can flip an aquaponics-vs-hydroponics LCA verdict, not as a source of generalizable biological/agronomic yield data.
+
+---
+
+> [!info] Experiment data
+> - **Location:** Greenhouse, Purdue University, West Lafayette, IN, USA (Section 2.1; Midwestern United States per title)
+> - **Design:** Cradle-to-gate LCA comparing one aquaponic system and one hydroponic system, identical physical infrastructure, run in parallel for ~1 month (25 Feb–25 Mar 2019). No replication (one tank/system per treatment); no biological hypothesis test performed — the "comparison" reported is entirely in environmental-impact-category terms (CML-IA midpoint; Eco-indicator 99 endpoint), computed in SimaPro v8.3, using the systems' own measured inputs/outputs as life-cycle inventory (Table 1). Sensitivity analyses varied functional unit (economic vs. mass-based), produce price (USDA 2017-2019 series), season/region (via literature GWP figures), and electricity source (Indiana 88% coal vs. US mix vs. California mix vs. wind).
+> - **Replicates / n:** NA — single unreplicated aquaponic unit and single unreplicated hydroponic unit; the paper reports no statistics (no ANOVA, no significance test) anywhere on a biological outcome.
+> - **Duration:** ~1 month, stated as "one-month cultivation period" throughout, with the specific dates "conducted between February 25 and March 25, 2019" (Section 2.6) — that date range is 28 days, not exactly a calendar month; see Extraction notes (MINOR).
+> - **Organisms:** [[Nile tilapia (Oreochromis niloticus)]] / [[Swiss chard (Beta vulgaris)]], [[Kale (Brassica oleracea)]], [[Mustard green (Brassica juncea)]], [[Cilantro (Coriandrum sativum)]], [[Lettuce (Lactuca sativa)]], [[Arugula (Eruca vesicaria)]]
+> - **Statistics:** None reported for biological/agronomic outcomes. LCIA characterization only: CML-IA baseline v3.05 (midpoint), Eco-indicator 99 (H) v2.10 (endpoint), SimaPro v8.3.
+> - **[[Global Warming Potential]]:** Aquaponics 20.77 kg CO2 eq vs. Hydroponics 38.22 kg CO2 eq per functional unit (1 USD of product) — economic-FU basis (Section 3.2.1).
+> - **[[Feed Conversion Rate (FCR)]]:** 1.2 (tilapia, one-month period; Section 3.1) — self-consistent with reported 1920 g total feed / 1606 g total weight gain = 1.195.
+
+---
+
+## Life-cycle inventory (this paper's own operational data)
+
+**This paper:** Fish tank stocked with 6.4 kg Nile tilapia (stocking density 18.3 kg/m³), fed a commercial feed (AquaMax Sport Fish 500, ~42% protein by reference to a compositionally similar feed) at 64 g/day (1920 g total over the period). Tilapia gained 1606 g total tank biomass over the month (reported elsewhere in the paper as 0.99 g/day per fish, though fish count is not stated so this could not be cross-checked). FCR = 1.2. Total system water volume 700 L per unit (aquaponic or hydroponic), circulated at 125 L/h (5.6 h retention time); make-up water added over the month was 100 L (aquaponics) vs. 60 L (hydroponics) — a 1.67-fold difference, matching the paper's own statement. Both systems held pH at 6 (base solutions), DO above 6 mg/L, water temperature at 23°C; hydroponic EC held at 1.5 dS/m using HydroGro fertilizer + calcium nitrate (no nutrient solution used in the aquaponic loop). Six vegetable species grown simultaneously in each 1 m² growth bed (24-plant floating raft); total monthly fresh-weight yields (aquaponic vs. hydroponic, g/1.5 m² — note the yield figure is stated per 1.5 m² in Section 3.1 despite the growth bed being described as 1 m² in Section 2.1, see Extraction notes): Swiss chard 905/1077, kale 816/633, mustard green 889/643, cilantro 185/221, Boston lettuce 765/802, arugula 568/496; totals 4128 g (AP) vs. 3872 g (HYD).
+
+**Compared with:** the paper's own literature comparisons (not this paper's data, listed for context/citations-to-chase): Bailey and Ferrarezi (2017) commercial aquaponics (lettuce/kale/collards/Swiss chard/basil), 4840 g/1.5 m²/month; Barbosa et al. (2015) commercial hydroponic lettuce, 5125 g/1.5 m²/month; Romeo et al. (2018) vertical hydroponic croft, Lyon — fertilizer use efficiency N 0.0026/P 0.0013/K 0.0036 kg/kg vs. this paper's hydroponic N 0.0022/P 0.0018/K 0.0067 kg/kg; Avadí et al. (2015) and Davidson et al. (2011) RAS FCR benchmarks, Li et al. (2019) aquaponics FCR benchmark, all "comparable" to this paper's 1.2; Teichert-Coddington (1996) tilapia growth-rate benchmark (0.5 g/day days 0-85, up to 3 g/day days 86-180) against which this paper's one-month 0.99 g/day figure is flagged by the authors themselves as possibly non-representative of the full 180-day cycle.
+
+## Environmental impact results (LCA — no home in trials.csv schema)
+
+**This paper:** Midpoint impacts per functional unit (1 USD of product), aquaponics vs. hydroponics: abiotic depletion (fossil) 212.56 vs. 393.82 MJ; global warming potential 20.77 vs. 38.22 kg CO2 eq; acidification potential 0.13 vs. 0.24 kg SO2 eq; eutrophication potential 0.04 vs. 0.07 kg PO4³⁻ eq (Section 3.2.1) — aquaponics roughly half the impact of hydroponics in all four categories, attributed to aquaponics' higher total product value rather than lower absolute resource use (both systems used near-identical electricity). Endpoint (single-score) damage: hydroponics ~1.8x aquaponics (Fig. 3, values read from a bar chart, not stated numerically in text — recorded as approximate ratio only, not as point values, per the "never read values off a figure" rule). Electricity was the dominant contributor in both systems (aquaponics: AD 99.5%, GWP 98.8%, AP 99.0%, EP 90.8%; hydroponics: >99.9% for all four categories), with fish feed (aquaponics) and fertilizer (hydroponics) as distant second contributors (<2% each in this study). Emissions of NOx, NO3⁻, and PO4³⁻ from aquaponics were ~7-, 21-, and 3-fold higher than hydroponics respectively (Table 1), attributed to fish feed input and denitrification. Sensitivity analyses: switching from the economic FU to a mass-based FU (1 kg vegetables) narrowed but did not reverse the GWP gap (hydroponics still 46% higher); aquaponics' advantage held across the full range of vegetable prices tested (2017-2019 USDA series) and was less price-sensitive than hydroponics; switching the regional electricity mix from Indiana (88% coal) toward wind power reversed the ranking for GWP, AP, and EP (hydroponics becomes more sustainable than aquaponics), though not for AD.
+
+**Compared with:** #todo [[Maucieri et al. 2018]] — micro aquaponic LCA, electricity/materials >84% of impacts, system building 9-15%, allocated 91.6% of impacts to vegetables on a mass basis (vs. 72% in this paper). #todo [[Boxman et al. 2017]] — commercial-scale aquaponic LCA (US Virgin Islands), electricity contributed 74% GWP/93% AP/465% EP, fish feed second-highest contributor without supplemental lighting/heating (GWP 32%, AP 18%, EP 1217%); tropical-climate aquaponics produced 12x less GWP than this Midwest study. #todo [[Torrellas et al. 2012]] — hydroponic tomato LCA, nitrogen fertilizer dominated impacts (cited as consistent with this paper's HydroGro nitrogen-dominance finding for GWP/EP). #todo [[Bartzas et al. 2015]] — greenhouse vs. open-field lettuce/barley LCA, subtropical Italy. #todo [[Bojacá et al. 2014]] and [[Williams et al. 2006]] — Colombian vs. northern-European greenhouse tomato GWP, cited as a 127-fold regional gap.
+
+## Linked claims
+
+- [[Aquaponics can have lower environmental impact than hydroponics on an economic functional-unit basis]]
+- [[LCA functional-unit choice can reverse the ranking between aquaponics and hydroponics]]
+- [[Electricity use for greenhouse climate control is the dominant environmental impact driver in controlled-environment agriculture]]
+- [[Renewable electricity sourcing can make hydroponics more sustainable than aquaponics]]
+
+## Citations to chase
+
+- [ ] #todo Maucieri et al. (2018) — micro aquaponic system LCA; different mass-allocation split (91.6% to plants) worth comparing against this paper's 72%
+- [ ] #todo Boxman et al. (2017) — commercial-scale, tropical-climate (US Virgin Islands) aquaponic LCA; primary source for the "12x less GWP in the tropics" comparison
+- [ ] #todo Torrellas et al. (2012) — hydroponic tomato LCA; nitrogen-fertilizer-dominance finding
+- [ ] #todo Cohen et al. (2018) and Forchino et al. (2017) — prior aquaponics LCA studies using lettuce as main product, fish as co-product (cited as a methodological limitation this paper tries to address)
+- [ ] #todo Avadí et al. (2015) — source of the substitute fish-feed composition used for the inventory (actual commercial feed composition was undisclosed)
+- [ ] #todo Yang and Kim (2020a, 2020b, 2020c) and Yang and Kim (2019) — companion papers from the same Purdue system/dataset, likely reporting the biological/water-quality data (e.g. Table S1) in more depth
+
+## Extraction notes
+
+- WARN-MINOR Study duration: stated throughout as "one-month cultivation period" / "1-month operation" (abstract, Table 1 caption, Section 2.4) but the specific dates given (Section 2.6) are "February 25 and March 25, 2019," which is 28 days, not a full calendar month. Does not affect any cell (no trial row) — noted for completeness only, not a real contradiction since "one month" is used loosely/colloquially throughout and the precise date range is the more specific figure.
+- WARN-MINOR Water volume component sum: Section 2.1 states component volumes (350 L tank + 20 L solids removal + 40 L two-stage biofilter + 350 L plant growth bed = 760 L nominal) but then states "the total water volume in each aquaponic/hydroponic unit was 700 L." The 60 L gap is plausibly explained by components not being fully water-filled (e.g., partial biofilter/settling-tank fill), which the paper does not address either way. Not resolvable from the text; does not affect any extracted cell since no trial row is produced from this paper.
+- WARN-CHECK Plant yield areal basis: Section 2.1 describes the plant growth bed as "350 L; 1 m²" (i.e., 1 m² per system), but Section 3.1 reports vegetable yields as "g/1.5 m²/month" and compares to literature benchmarks also expressed per 1.5 m²/month (Bailey and Ferrarezi 2017; Barbosa et al. 2015). The paper never reconciles the 1 m² growth-bed footprint with the 1.5 m² yield-reporting basis (possibly the larger figure includes walkway/system footprint, or is simply an error carried from the cited benchmark papers' own reporting basis). Recorded both units as given by the paper (1 m² for physical bed, 1.5 m² for yield reporting) since it does not affect any trials.csv/plant.csv cell (no row produced) — flagging for awareness in case a future paper's areal yield needs to be compared against this one.
+- [not reported]: number of individual tilapia stocked (only total stocked biomass 6.4 kg and density 18.3 kg/m³ given, so per-fish weight/growth cannot be checked against the stated 0.99 g/day/fish figure); per-plant growth metrics for any of the six vegetable species (height, leaf count, SPAD, individual fresh weight — only aggregate bed-level fresh weight and market value per species are reported); replicates/n (design is explicitly unreplicated, one tank pair); statistical test (none performed on any biological/agronomic variable); precise latitude/longitude of the Purdue West Lafayette, IN greenhouse (only the named location given); water-quality trial means for DO/pH/EC/temperature (Table S1, supplementary material, not available in the main-text PDF — only setpoints/targets are given in Section 2.1, e.g. pH 6, DO >6 mg/L, 23°C, EC 1.5 dS/m, which are targets/setpoints, not measured trial means, and are therefore not equivalent to what SCHEMA.md's water-quality columns expect).
+- [unclear]: whether the "1606 g" tilapia weight-gain figure (Table 1) is the same quantity as the "0.99 g/day" per-fish growth rate cited in Section 3.1 discussion — plausible if there were ~50-55 fish in the tank, but fish count is never stated, so this cannot be confirmed and was not derived.
+- NO COLUMN: all eleven LCA midpoint impact categories (AD, GWP, AP, EP, plus the seven relegated to Supplementary Fig. S2: non-fossil AD, ozone depletion, human toxicity, freshwater/marine/terrestrial ecotoxicity, photochemical oxidation) and the Eco-indicator 99 endpoint single-score/damage-category results (human health, ecosystem quality, resources) have no home in trials.csv or plant_measurements.csv. Likewise the sensitivity-analysis outputs (price sensitivity, seasonal AD variation, region/energy-source scenario comparisons) and the life-cycle-inventory line items (per-ingredient fish-feed footprint, HydroGro/Ca(NO3)2 footprint, construction-material footprint, transportation footprint) are pure LCA outputs/inputs with no schema column. These are summarized qualitatively above under "Environmental impact results" instead.
+- **Type justification (modelling, not exploratory):** This paper's title, stated goal (Section 2.5: "identify the environmental impact hotspots... so more sustainable practices can be recommended"), methodology (SimaPro, CML-IA baseline, Eco-indicator 99), and entire Results/Discussion section are built around life-cycle impact-assessment outputs, not a biological/agronomic finding. The real, self-measured operational data from the single greenhouse system (fish stocking density, FCR, feed, water volumes, six vegetable species' yields) exists and is unreplicated with no statistical test — the profile SCHEMA.md/CLAUDE.md describe as "modelling ... using inventory/impact-assessment methodology without a live replicated biological trial." I considered routing this to `exploratory` with a single AP trial row (paired HYD control) because the inventory data is real, own-measured, and reasonably complete for the fish block (species, stocking density, FCR, feed, water volume, pH/DO/temp setpoints). I rejected this because (a) six plant species were grown simultaneously in one unreplicated bed with only aggregate per-species yield mass and market value reported — no per-plant growth metrics (height, leaf count, SPAD, individual fresh weight) exist to populate the `Plant` half of the schema meaningfully, and the schema's "one row per treatment" convention does not have a clean way to represent six co-grown species without either collapsing them into one row (losing species-level resolution) or creating six near-duplicate rows that share identical fish/water data purely to carry different `Plant` values (misrepresenting the design as six trials when it is one run); and (b) no statistical comparison of any biological outcome is attempted anywhere in the paper — the AP vs. HYD "comparison" that exists is entirely in LCA-impact-category terms. Per CLAUDE.md's own framing, this is modelling "even if it draws on one real system's data, because... the 'experiment,' if any, is the LCA methodology itself."
+- **plant.csv is 0 rows** because (per SCHEMA.md) only `experiment`, `quasi-experiment`, `field-trial`, and `exploratory` types produce trials.csv/plant.csv rows; this paper is classified `modelling` (see justification above), so both output CSVs are header-only by design, not because of missing data.
+- Severity tally: 0 BLOCK, 0 MATERIAL, 2 MINOR, 1 CHECK. No `quality:` score assigned in frontmatter — SCHEMA.md's quality-scoring table (`ok`/`caution`/`suspect`) is scored on BLOCK/MATERIAL counts against trials.csv cells, and this paper contributes no trial row for that scoring to apply to.
+
+---
+*Source: `Chen et al. - 2020 - Comparative life cycle assessment of aquaponics an.pdf`*

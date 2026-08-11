@@ -1,0 +1,468 @@
+---
+title: "Comparison of Water Quality and Growth on Leafy Vegetables in Far Eastern Catfish (Silurus asotus) Aquaponics and Hydroponic Culture"
+citekey: "kimComparisonWaterQuality2023"
+year: 2023
+type: experiment
+doi: "10.5338/KJEA.2023.42.4.46"
+url: "https://doi.org/10.5338/KJEA.2023.42.4.46"
+trials: 4
+quality: suspect
+tags:
+  - Meta/Type/Experiment
+  - Meta/Region/East-Asia
+  - Meta/Fish/Catfish
+  - Meta/Plant/Lettuce
+  - Meta/Plant/Chicory
+  - Meta/Plant/Endive
+status: read
+---
+
+# Comparison of Water Quality and Growth on Leafy Vegetables in Far Eastern Catfish (Silurus asotus) Aquaponics and Hydroponic Culture
+
+## Metadata
+
+* **Cite key:** kimComparisonWaterQuality2023
+* **Item type:** Journal Article
+* **Authors:** [[M. Kim]], [[C. Shim]], [[O. Park]], [[J. Lee]], [[J. Heo]]
+* **Affiliation:** Organic Agricultural Division, National Institute of Agricultural Sciences, Rural Development Administration, Wanju 55365, Korea (Kim, Shim, Park, Lee); Smart Farm Development Division, National Institute of Agricultural Sciences, Rural Development Administration, Wanju 55365, Korea (Heo)
+* **Journal:** Korean Journal of Environmental Agriculture 42(4) (2023) 408-417
+* **Date:** 12/2023 (published online 27 December 2023, printed 31 December 2023)
+* **Date added:** [not reported]
+* **DOI:** [10.5338/KJEA.2023.42.4.46](https://doi.org/10.5338/KJEA.2023.42.4.46)
+* **Funding:** Research program (PJ 015796) of the Rural Development Administration (RDA), Republic of Korea
+* **URL:** https://doi.org/10.5338/KJEA.2023.42.4.46
+* **PDF:** `Kim et al. - 2023 - Comparison of Water Quality and Growth on Leafy Ve.pdf`
+
+> [!tip] Opinion
+>
+> A tidy, well-instrumented single-system comparison (BFT-aquaponics vs conventional hydroponics, 4 leafy-vegetable cultivars, clear equipment description, biocontrol/biostimulant microbial monitoring) that is let down by internal bookkeeping: the plant-trial duration is given as both 60 and 30 days in different sections, the stated replicate count for the growth tables (n=4) doesn't match the Methods' own description of pooling into "3 zones", the harvest-time water-quality table (pH 4.5-4.8) and the season-long monthly monitoring table (pH 6.5-9.8) describe what should be the same recirculating loop at wildly different absolute pH/EC levels with no reconciliation, and the Results-section prose swaps Endive's and Chicory's fresh-weight figures outright. None of this necessarily undermines the qualitative finding (aquaponics outperformed hydroponics on nearly every growth and SPAD metric across all 4 cultivars), but every number should be re-checked against Table 2/3/4 directly rather than the prose before citing.
+
+## Abstract
+
+<!-- Verbatim from the paper. Private vault only — remove before making public. -->
+This study aimed to investigate the effects of an aquaponics system utilizing catfish recirculating water on the growth and water quality in lettuce and chicory cultivation. After 60 d of catfish cultivation in the BFT-AP, the survival rate was 96.0% and average weight gain was 178.5 g. The WGR grew by 241.4% and the SGR was 3.0%. A comparison between lettuce and chicory cultivation using BFT-AP and hydroponics revealed significant increases in shoot height, leaf count per week, and biomass of the cultivated lettuce and chicory. The SPAD values also increased significantly by 15.4-43.3%. Water quality analysis of the BFT-AP systems and crop cultivation beds showed significant differences, except for K and Na. The average NO3− concentration in the sediment pond was significantly higher at 45.3±1.0. Comparison of water temperature, pH, EC, DO, and ORP in the BFT-AP system and crop cultivation beds revealed similar monthly water temperatures from July to September. The pH in the catfish culture pond was 0.3-1.2 lower than that in the crop cultivation beds, and the EC was approximately 0.01-0.03 dS/m lower in the catfish culture pond than the crop cultivation beds. The monthly average ORP in the catfish culture bed steadily increased to 479.9 mV in October. Bacillus velezensis (AFB2-2) and Chlorella fusca (CF) were applied to the biological activation bed; the population density of CF showed a continuous increase, whereas that of AFB2-2 decreased after 15 d and gradually increased thereafter. Thus, the application of the recirculating aquaponics cultivation technology with catfish (BFT) enhances catfish cultivation and promotes the growth of lettuce and chicory. Therefore, it is considered suitable for the environment-friendly cultivation of lettuce and chicory.
+
+## Summary
+
+Researchers at Korea's National Institute of Agricultural Sciences ran a small-scale biofloc-technology aquaponics (BFT-AP) system growing Far Eastern catfish (Silurus asotus) for 60 days, then used the resulting recirculating water to grow two lettuce cultivars and two chicory-family cultivars (endive, common chicory) side by side against a conventional N-based hydroponic nutrient solution, in matched NFT beds. Catfish grew from 74.0 g to 252.5 g with 96.0% survival over 60 days. All four plant cultivars grew taller, produced more leaves, and gained more fresh weight on the aquaponic water than on the hydroponic solution, and three of the four showed significantly higher SPAD (chlorophyll) readings (chicory was the exception, not significant). The team also profiled water chemistry across the loop's compartments (fish tank, sediment tank, biofloc tank, crop bed) at harvest time, finding differences in pH, EC, and NO3 but not K or Na, and separately logged monthly water temperature/pH/EC/DO/ORP trends from July to October. A bacterium (Bacillus velezensis AFB2-2) and a microalga (Chlorella fusca), both developed in-house, were dosed into the biological activation bed and tracked by colony counts every 15 days; the alga grew steadily while the bacterium dipped early before recovering. The paper's own duration and replicate-count statements are inconsistent between sections (see Extraction notes), so absolute figures should be cross-checked against the tables before reuse.
+
+---
+
+> [!info] Experiment data
+> - **Location:** National Institute of Agricultural Sciences, Rural Development Administration, Wanju, Korea (glass greenhouse)
+> - **Design:** Single BFT-AP recirculating system (1 fish tank, 1 sediment tank, 1 biofloc pond, 1 shared NFT crop bed) vs single conventional/hydroponic NFT system, each growing 2 lettuce cultivars + 2 chicory-family cultivars simultaneously; treatment-mean comparison (unpaired) per cultivar
+> - **Replicates / n:** Fish: 1 tank (single replicate system), 50 fish (74.0±4.8 g each, ~3.7 kg / 5 kg/m² areal density). Plant growth/SPAD tables: stated "mean±SE of four replicates" (n=4) in Table 2/3 footnotes -- ⚠️MATERIAL, conflicts with the Methods statement of pooling into 3 measurement zones (see Extraction notes)
+> - **Duration:** Catfish trial 60 days (consistent throughout). Plant trial: ⚠️MATERIAL -- stated as 30 days in Results text (twice), Table 2/3 captions, and the Conclusion, but as 60 days in Methods; 30 days recorded in trials.csv (see Extraction notes)
+> - **Organisms:** [[Far Eastern catfish (Silurus asotus)]] / [[Lettuce (Lactuca sativa)]] cv. Cheongchima ("green") and cv. Jeokchukmyeon-sangchu ("red") / [[Endive (Cichorium endivia)]] / [[Chicory (Cichorium intybus)]]
+> - **Statistics:** Methods states an unpaired t-test (SAS package, p<0.001) for AP vs conventional treatment means; Table 2 footnote separately states LSD test (p=0.001); Table 3 footnote states LSD test (p=0.01); Fig. 3 caption states Duncan's test (95% CI) for microbial counts. Three procedures, two thresholds, not reconciled.
+> - **[[Feed Conversion Rate (FCR)]]:** [not reported]
+> - **[[Specific Growth Rate (SGR)]]:** 3.0% (Table 1); the footnote's own SGR formula, (final weight-initial weight)/days×100%, does not reproduce 3.0% from the stated inputs (74.0 g, 252.5 g, 60 d) under any straightforward reading -- recorded as stated regardless (⚠️MINOR, no cell impact beyond the SGR field itself, see Extraction notes)
+> - **[[Plant fresh weight]]:** BFT-AP outperformed hydroponics for all 4 cultivars -- green lettuce 28.5±4.5 vs 16.9±1.3 g/plant; red lettuce 20.1±3.2 vs 15.4±0.9; endive 24.2±1.9 vs 15.1±0.6; chicory 28.4±4.7 vs 21.8±1.7 (all p<0.001, Table 2)
+> - **[[SPAD]] (chlorophyll):** BFT-AP higher for green lettuce, red lettuce, and endive (p≤0.0014); chicory not significant (p=0.1488) (Table 3)
+
+## Water quality
+
+**This paper:** Two different, unreconciled pictures of the same recirculating loop. Table 4 (a single "harvest time" snapshot broken down by compartment, with an explicit MEAN±SE row) gives pH 4.5-4.8 (mean 4.7±0.1), EC 0.182-0.187 dS/m (mean 0.184±0.02), and NO3 40.0-46.0 ppm (mean 42.4±1.9), with the sediment pond significantly higher in NO3 (45.3±1.0) and K/Na showing no significant compartment differences. Table 5 (monthly Jul-Oct 2023 monitoring, no combined trial-mean) instead shows a much less acidic, more variable regime: Fishery-pond pH means 6.5-8.7 across months (crop bed 6.9-9.6), and crop-bed EC means only 0.08-0.11 dS/m. This extraction used Table 4's explicit mean row for the trials.csv cells (Aq pH, EC, NO3-N), per SCHEMA.md's preference for a stated trial-mean over an un-averaged time series, and recorded Table 5's temperature and DO only as ranges (no comparable summary exists for those). See Extraction notes for the full flag.
+
+**Compared with:**
+- #todo [[Rakocy et al. 1997]] — commercial-scale tilapia/lettuce aquaponic unit *(cited in Discussion, ref. 22)*
+- #todo [[Delaide et al. 2017]] — PAFF box small-scale aquaponic system, nutrient mass balance *(cited in Discussion, ref. 23)*
+- #todo [[Kim et al. 2019 (Kim SR et al.)]] — urban catfish aquaculture with biofloc/aquaponics, 151-day cycle, 78%+ survival *(cited in Discussion, ref. 21; same "Kim" surname group, different first-author initials, do not conflate with this paper)*
+
+## Fish growth
+
+**This paper:** Initial weight 74.0±4.8 g → final 252.5±7.5 g over 60 days; survival 96.0%; weight gain 178.5 g; WGR 241.4% (recomputed and confirmed: (12,626-3,698)/3,698×100 = 241.4%, matches exactly); SGR 3.0% (recompute did not reproduce this figure from the stated formula, see Extraction notes). Fed a commercial catfish pellet (44% crude protein, 8% fat, 1.8% phosphorus) at 3% of body weight once daily.
+
+**Compared with:**
+- #todo [[Kim et al. 2019 (Kim SR et al.)]] — urban BFT-aquaponic catfish culture, 2.8 g fingerlings to 171.3-235.5 g over 151 days, survival ≥78% *(p.415, Discussion)*
+- #todo [[Tsoumalakou et al. 2022]] — precise monitoring of lettuce functional responses to minimal nutrient supplementation in aquaponics; nutrient supplementation raised tilapia growth without affecting root microbiome *(p.415, Discussion, ref. 12)*
+
+## Plant growth and SPAD
+
+**This paper:** All 4 cultivars (green lettuce, red lettuce, endive, chicory) grew significantly taller, produced more leaves, and gained more fresh weight under BFT-AP than under the conventional hydroponic solution (Table 2, all p<0.001). SPAD (chlorophyll) was significantly higher under BFT-AP for green lettuce, red lettuce, and endive, but not for chicory (Table 3). See plant.csv for the full per-cultivar SPAD dataset (AP and HYD).
+
+**Compared with:**
+- #todo [[Lee et al. 2019]] — comparative growth/yield of Silurus asotus and leafy vegetables in hybrid BFT-aquaponics, semi-RAS, and hydroponics *(cited Introduction/Discussion, ref. 7)*
+- #todo [[Kim DW et al. 2021]] — dietary monobasic potassium phosphate effects on water quality and growth of gold mandarin fish + leafy vegetables in hybrid BFT-aquaponics *(cited Introduction, ref. 13)*
+- #todo [[Lee 2021]] — comparative growth of leafy vegetables in hybrid BFT-aquaponics with yellow koi fish (Cyprinus carpio) vs hydroponics *(cited Introduction, ref. 14)*
+- #todo [[Lee and Kim 2021]] — comparative growth of leafy vegetables in hybrid BFT-aquaponics with Japanese eel (Anguilla japonica) vs hydroponics *(cited Introduction, ref. 15)*
+- #todo [[Lee 2022]] — water quality change and growth of Siberian sturgeon, basil, and 4 leafy vegetables via auto/heterotrophic microorganisms in HBFT aquaponics *(cited Introduction, ref. 16)*
+
+## Linked claims
+
+- [[Aquaponic fish wastewater outperforms conventional hydroponic nutrient solutions for leafy vegetable yield]]
+- [[Bacillus and Chlorella biostimulants can be co-applied in a biofloc aquaponic loop]]
+
+## Citations to chase
+
+- [ ] #todo Kim SR, Jang JW, Kim BJ, Jang IK, Lim HJ, Kim SK (2019) — urban catfish aquaculture using biofloc and aquaponics systems, 151-day BFT-AP catfish cycle for comparison
+- [ ] #todo Tsoumalakou et al. (2022) — lettuce functional responses to minimal nutrient supplementation in aquaponics
+- [ ] #todo Lee DH, Kim JY, Lim SR, Kim DY, Kim KB, Kim JM, Kim JD (2019) — hybrid BFT-aquaponics/semi-RAS/hydroponics comparison, same catfish species
+- [ ] #todo Kim DW, Kim JS, Kim JD, Lee SW, Lee DH (2021) — hybrid BFT-aquaponic gold mandarin fish + leafy vegetables
+- [ ] #todo Lee DH (2021) — hybrid BFT-aquaponics with yellow koi fish vs hydroponics
+- [ ] #todo Lee DH, Kim JD (2021) — hybrid BFT-aquaponics with Japanese eel vs hydroponics
+- [ ] #todo Lee DH (2022) — Siberian sturgeon + basil + 4 leafy vegetables, HBFT aquaponics
+- [ ] #todo Rakocy JE, Bailey DS, Shultz KA, Cole WM (1997) — commercial-scale tilapia/lettuce aquaponic unit
+- [ ] #todo Delaide B, Delhaye G, Dermience M, Gott J, Soyeurt H, Jijakli MH (2017) — PAFF box small-scale aquaponic system
+
+## Extraction notes
+
+<!-- ⚠️ for internal contradictions in the paper. [not reported] / [unclear] for absent fields. -->
+
+- ⚠️**BLOCK (misattribution)** — **Endive/Chicory fresh weight swap.** Results text (p.412, "생체중에 미치는 영향은..." paragraph) states: "BFT-AP에서 재배한 청상추가 28.5±4.5 g/plant이었고 엔다이브가 28.4±4.7 g/plant으로 관행의 양액 수경재배보다 각각 68.6%와 60.3% 더 증가하였다" -- i.e. it attributes fresh weight 28.4±4.7 g/plant to **Endive**. Table 2 (p.412) unambiguously assigns 28.4±4.7 g/plant to **Chicory**'s AP fresh weight; Endive's real AP fresh weight (Table 2) is 24.2±1.9 g/plant. The paired percentage (60.3%) is internally correct *for Endive* using Endive's own real Table 2 values: (24.2-15.1)/15.1 = 60.3% exactly -- proving the *raw number* (not the percentage) was copy-pasted from the Chicory row. Table 2's per-species rows are unambiguous and internally self-consistent (row-grouped by species with matched Conventional-control rows and F-values), so **this extraction's trials.csv values (T1 green lettuce, T3 endive, T4 chicory) were sourced directly from Table 2 and are not corrupted by this passage.** Per CLAUDE.md, "misattribution is always BLOCK and always makes the paper suspect" -- `quality: suspect` set accordingly, independent of the BLOCK/MATERIAL count.
+
+- ⚠️**MATERIAL** — **Plant trial duration ("Days Plant after transplant").** Methods (p.410, "상추와 치커리 재배" section) states plant growth traits were measured "60일간 재배 후" (after 60 days of cultivation). Results body text (p.411, twice: "...수경 재배 30일 후..." and "...재배 30일 동안 재배한 후..."), both Table 2 and Table 3 captions (p.412, "cultivated for 30 days"), and the Conclusion (p.416, "상추와 치커리 재배 30일 후") all consistently state 30 days. **Recorded 30 days** (majority + explicit table captions + conclusion); Methods' "60 days" most likely carries over the separately-stated 60-day *catfish*-rearing duration from two paragraphs earlier in the same Methods section.
+
+- ⚠️**MATERIAL** — **Replicates (n) for growth/SPAD tables.** The Statistical-analysis Methods paragraph (p.411) states the experiment used only 1 replicate per treatment system, with individual plant/fish measurements pooled into "3개의 구역" (3 zones) to compute descriptive mean±SD. Table 2 and Table 3 footnotes (p.412) both instead state "Data represent the mean±SE of four replicates" (n=4). **Recorded Replicates (n) = 4**, tied directly to the ±SE figures used in every Height/Leaf count/Fresh weight/SPAD cell; the Methods "3 zones" statement conflicts and is recorded here as the unresolved alternative. Added to REVIEW.md.
+
+- ⚠️**MATERIAL** — **Harvest-time vs monthly water quality (pH, EC).** Table 4 ("...in harvest time", p.412) reports pH range 4.5-4.8 (mean 4.7±0.1) and EC 0.182-0.187 dS/m (mean 0.184±0.02) across BFT-AP compartments. Table 5 ("...during the study period", p.414, monthly Jul-Oct 2023) instead reports Fishery-pond pH means of 8.7/7.0/6.5/6.8 and crop-bed pH means of 9.6/7.4/7.3/6.9 across the same four months, and crop-bed EC means of only 0.11/0.08/0.11/0.10 dS/m -- roughly half of Table 4's range. Both describe the same recirculating loop over an overlapping period, with no reconciliation anywhere in the paper. **Table 4's explicit MEAN±SE row (crop-bed compartment: pH 4.7±0.1, EC 0.183±0.08) recorded** in trials.csv per SCHEMA.md's preference for a stated trial-mean summary over an un-averaged monthly time series; Table 5's monthly figures are the unresolved alternative. Added to REVIEW.md.
+
+- ⚠️**CHECK** — **NO3 vs NO3-N.** Methods (Water environment analysis, p.411) states Ca, K, Na, and "NO3-N" were measured, but Table 4's column header reads only "NO3 (ppm)" (no "-N" suffix), matching the Discussion/Conclusion/Abstract's usage. Treated as the same measurement (NO3-N) per the Methods statement and recorded under NO3-N (41.8±1.1 mg/L, crop-bed compartment); if the table literally means nitrate ion rather than nitrate-nitrogen, a ×4.43 conversion would apply, which was NOT performed (no derivation without an explicit statement).
+
+- ⚠️**CHECK** — **Plant "height" unit (mm vs cm).** Table 2's column is headed "Height (mm)" and running text repeats "mm" consistently (e.g. p.411, "16.4±2.4 mm", "17.6±1.2 mm"), yet Methods (p.410) describes the underlying trait as "총엽장(total leaf length)", not an explicit height measurement, and the reported values (11.8-28.2) are far more biologically plausible as **centimetres** for a 30-day-old lettuce/chicory transplant (an implied 1.2-2.8 cm plant would be implausibly small). **Not converted** -- recorded exactly as printed with the paper's stated unit, since silently reinterpreting the unit would be exactly the kind of inference CLAUDE.md prohibits. Added to REVIEW.md.
+
+- ⚠️**CHECK** — **Dispersion statistic is SE, not SD.** Table 2/3 footnotes state values are "mean±SE of four replicates" -- standard error, not standard deviation, despite the schema's "value ± sd" cell convention. All Height/Leaf count/Fresh weight/SPAD cells in trials.csv and plant.csv are recorded exactly as the paper states (±SE); not converted to SD (would require multiplying by √4, a derivation this extraction does not perform).
+
+- ⚠️**MINOR** — **SGR formula does not reproduce the stated SGR.** Table 1's own footnote defines SGR as "(final weight-initial weight)/days × 100%". Applying this to the stated inputs (74.0 g → 252.5 g over 60 d) gives (252.5-74.0)/60×100 = 297.5%, not the stated 3.0%; nor do the more standard SGR formulations (e.g. ln-based) reproduce 3.0% exactly. Only one SGR value appears anywhere in the paper (3.0%, Table 1/Abstract/Conclusion, self-consistent), so this is a formula-description problem, not a competing-values contradiction; **3.0% recorded as stated**, no cell impact beyond the SGR field itself. By contrast, the WGR formula on the same footnote line *does* reproduce the stated 241.4% exactly from the stated total weights (recomputed and confirmed).
+
+- ⚠️**MINOR** — **Red lettuce leaf-count percentage.** Results text (p.411) states "일반 치커리가... 관행의 양액수경재배보다 각각 37.5%와 45.5% 더 증가" pairing 37.5% with red lettuce's leaf count. Recomputing from Table 2's own red-lettuce values, (20.2-15.5)/15.5 = 30.3%, not 37.5%; the Abstract/Conclusion's summary range ("leaf count... 30.3-45.5%") matches the correctly-computed 30.3%, confirming the Results-text "37.5%" is the outlier. No trials.csv cell is affected (Table 2's raw leaf-count means, 20.2±1.6 vs 15.5±3.0, are used directly and are not in dispute).
+
+- ⚠️**MINOR** — **Treatment-arm naming inconsistency.** Table 2 labels the non-aquaponic treatment "Conventional"; Table 3 labels the identical treatment "Hydroponics". Same treatment, no cell impact (recorded as "HYD" throughout trials.csv/plant.csv).
+
+- **[not reported] grouped by field:**
+  - *Feed/fish:* FCR; SGR formula basis (see MINOR above); Total Feed (kg); Fish biomass created (kg) (initial/final total weights of 3,698 g / 12,626 g are both given, allowing later derivation, not performed here); Initial Stock density in kg/m³ (paper states an areal density, "5 kg/m²", not the volumetric kg/m³ the schema requires); N and K composition of the feed (only crude protein 44% and phosphorus 1.8% are given feed-composition columns; calcium 1%, moisture 14%, crude fat 8%, crude fiber 5%, crude ash 17% have no dedicated columns -- NO COLUMN); Water recycle (L/min, flow rate never stated, only air-pump flow rates); Water type/classification; Daily water exchange rate; pHOptimal; FUE AP/HYD; WUE; Tissue nitrate AP/HYD (leaf tissue nitrate was never measured -- only water NO3 and SPAD); Lat/Long (site given only as "Wanju 55365, Korea", no coordinates stated anywhere).
+  - *Plant:* Plants/m² (NFT bed holds 70 plants total across 4 cultivars × 2 treatments, not divided out); Plant dry matter (not measured/reported); AP / HYD generic yield columns (no area- or system-level yield metric beyond the per-plant Table 2 figures already captured in the dedicated Height/Leaf count/Fresh weight columns).
+- **[unclear]:** Whether Table 4's "NO3" and the Methods' "NO3-N" are the same measurement (see CHECK above). Whether Table 2's "mm" is a units error for "cm" (see CHECK above).
+- **NO COLUMN:** Water Ca (ppm, range 71.8-78.0, crop-bed highest at 75.8±2.9) and Na (ppm, range 53.0-57.0, no significant compartment difference) -- Table 4 measures both but trials.csv has no water-Ca/Na fields distinct from the feed-composition Ca/K columns. Water K (10.0±0 ppm uniformly, no significant compartment difference) similarly has no distinct water-K field. ORP (oxidation-reduction potential): Fishery-pond monthly means rose from 299.1 mV (Jul) to 479.9 mV (Oct), Table 5/Fig. 2A -- no schema column exists. Feed composition detail beyond Protein/P (calcium 1%, moisture 14%, crude fat 8%, crude fiber 5%, crude ash 17%). Bacterial/algal colony-density time course (Fig. 3): C. fusca 0.8±0.3×10³ → 6.1±3.3×10³ cfu/mL over 45 d; B. velezensis AFB2-2 19.2±2.1×10³ → dip below initial at 15 d → 28.5±9.3×10³ cfu/mL at 45 d -- no microbiology field in trials.csv (plant_measurements.csv is plant-tissue only, so this water/system-level microbial data has no home in either file).
+- **Water panel excluded from plant_measurements.csv:** Table 4 (pH, EC, Ca, K, Na, NO3 by compartment) and Table 5 (monthly temperature/pH/EC/DO/ORP) are both water chemistry, not plant tissue analytes, and were routed entirely to trials.csv per SCHEMA.md ("water chemistry does not belong [in plant_measurements.csv] regardless of how well it fits the column shape"). Nothing from either table was excluded for being "too valuable to discard" -- both fit trials.csv's existing water columns adequately (with the NO-COLUMN exceptions listed above).
+- **Candidate wikilink targets needing vault check (not yet resolved to canonical form):** `[[Far Eastern catfish (Silurus asotus)]]` vs a possible existing `[[Silurus asotus]]` or `[[Catfish]]` note; `[[Chicory (Cichorium intybus)]]` vs `[[Cichorium intybus]]`; `[[Endive (Cichorium endivia)]]` vs `[[Cichorium endivia]]`; `[[SPAD]]` vs `[[SPAD value]]` vs `[[Chlorophyll content]]`.
+- **Author name spelling:** zotero-export.csv lists the co-corresponding author as "Heo, Jeng-Wook"; the PDF itself (byline, ORCID block, and corresponding-author footnote) consistently spells it "Jeong-Wook Heo". The PDF spelling was used for the wikilink `[[J. Heo]]` and affiliation text; this is a metadata-quality note only, no CSV cell is affected.
+
+---
+*Source: `Kim et al. - 2023 - Comparison of Water Quality and Growth on Leafy Ve.pdf`*
+
+---
+
+## Data Tables
+
+> [!note] Structured data extracted from this paper into the vault's `trials.csv` / `plant_measurements.csv` datasets. Fields the paper didn't report are omitted. [Download the full datasets](/trials.csv) ([measurements](/plant_measurements.csv)).
+
+### Trial Parameters
+
+#### kimComparisonWaterQuality2023-T1
+
+**Fish**
+
+| Field | Value |
+|---|---|
+| Fish | Far Eastern catfish (Silurus asotus) |
+| SGR | 3.0 |
+| Protein | 44 |
+| P | 1.8 |
+| % of body weight | 3 |
+| Fish size initial | 74.0 +/- 4.8 |
+| Fish size final | 252.5 +/- 7.5 |
+| Feed routine | Once daily, 9:00 AM |
+| Feed regime | Commercial catfish feed pellets (Sajo Dong-A One Co., 'Megi Spring' No.2 and No.3); No.2 pellet (3.3 mm dia.) for first 30 days, then No.3 pellet (4.2 mm dia.) thereafter; fed at 3% of body weight/day; feed composition: crude protein 44%, crude fat 8%, calcium 1%, moisture 14%, phosphorus 1.8%, crude fiber 5%, crude ash 17% (NO COLUMN: fat/calcium/moisture/fiber/ash have no dedicated fields) |
+| Fish survival rate | 96.0 |
+| Fish weight gain | 178.5 |
+| Fish trial duration (days) | 60 |
+
+**Water**
+
+| Field | Value |
+|---|---|
+| Water volume in the system | NR (component volumes stated, not summed -- see Experimental Remarks: fish tank ~600 L, sediment tank 120 L, biofloc pond ~120 L, NFT recycle pond dims not fully legible in Fig.1B) |
+| Aq pH | 4.7 +/- 0.1 |
+| Dissolved Oxigen | 4.2-13.8 (range only, no trial mean reported; Fishery pond, Table 5) |
+| EC | 0.183 +/- 0.08 |
+| Water temperature | 13.9-39.7 (range only, no trial mean reported; Crop cultural bed, Table 5) |
+| NO3-N | 41.8 +/- 1.1 |
+
+**Plant**
+
+| Field | Value |
+|---|---|
+| Plant | Green lettuce (Lactuca sativa L.) |
+| Details | Cultivar 'Cheongchima' (청치마, per Methods 'cultivars' list); transplanted seedling purchased from an eco-friendly certified nursery; grown alongside red lettuce + 2 chicory-family cultivars in the same shared NFT bed per treatment. |
+| Plant Category | Leafy vegetable (paper title terminology; not explicitly categorised in-text) |
+| Days Plant after transplant | 30 |
+| SPAD (aquaponics) | 24.5 +/- 4.3 |
+| Plant height | 28.2 +/- 5.0 |
+| Leaf count | 16.5 +/- 2.4 |
+| Plant fresh weight | 28.5 +/- 4.5 |
+
+**System & Setup**
+
+| Field | Value |
+|---|---|
+| System type | NFT (nutrient film technique) |
+| Media Details | NFT channel 7.0 m (L) x 0.6 m (W) x 0.3 m (H), holds up to 70 plants total per bed shared across all 4 cultivars within a treatment; separate NFT beds for BFT-AP and conventional/hydroponic treatments, each on its own circulation loop (Fig. 1) |
+| Biological system already in use | Y (Bacillus velezensis AFB2-2 (antimicrobial / plant-growth-promoting bacterium, in-house isolate, ref. Kim et al. 2021 in-paper citation 17) and Chlorella fusca (biostimulant microalga, ref. Kim et al. 2018 in-paper citation 18), liquid-cultured and inoculated into the biological activation bed (Biofloc pond) at approx. 0.8+/-0.3x10^3 cfu/ml and 19.2+/-2.1x10^3 cfu/ml respectively at day 0; population density monitored every 15 d over 60 d (Fig. 3): C. fusca rose continuously to 6.1+/-3.3x10^3 cfu/ml by day 45; AFB2-2 dipped to below initial by day 15 then recovered to 28.5+/-9.3x10^3 cfu/ml by day 45.) |
+| Air supplement | Y (Air stones installed at fish-tank sides and bottom + oxygen generator SHD-150 (150 L/min) for the fish (BFT-AP) tank, to prevent biofloc/organic-matter settling and maintain DO; separate oxygen generator SHD-80 (80 L/min) supplying the biofloc pond, plus two bio-ball media sizes to promote aerobic nitrifying bacteria.) |
+| Climate control | Y (Glass greenhouse; mean daytime temperature approx. 30 degC, mean nighttime approx. 20 degC, relative humidity 70-85%; aluminum shading net deployed 12:00-15:00 to limit midday temperature rise; side windows opened at night to bring relative humidity down to 50-65%.) |
+| Nutrient supplemented | Y (Hydroponic (conventional) treatment only: N-based nutrient solution targeted at 100 mg/L N; macro-element concentrations NH4-N 0.42 mM, K+ 0.50 mM, Ca2+ 0.24 mM, Mg2+ 0.20 mM, NO3-N 1.32 mM, H2PO4- 0.05 mM, diluted in tap water, delivered via automatic dosing system to the NFT bed. BFT-AP (aquaponic) treatment: no nutrient solution added; plant bed fed solely by catfish-conditioned recirculating water routed fish tank -> sediment tank -> back to fish tank, with the NFT crop bed plumbed into that loop (Fig. 1).) |
+| Equipment | 0.6-ton (~600 L) cylindrical plastic fish tank (dia. 0.93 m x H 1.23 m); oxygen generator SHD-150 (150 L/min) + water heater DH-UT180 (2 kW) on fish tank; physical sediment tank 120 L (dia. 0.51 m x H 0.82 m); biofloc pond (same dims as sediment tank) with oxygen generator SHD-80 (80 L/min) and two bio-ball sizes (dia. 16 mm white, 26 mm black); NFT plant bed 7.0 x 0.6 x 0.3 m (70-plant capacity, shared across cultivars/treatments per system); recycle/sump pond for HYD/NFT loop (Fig. 1B, dims not fully legible); electronic scale MW-500 (CAS, Korea); ICP spectrophotometer Integra XL Dual (GBC Scientific, Mexico) for Ca/K/Na; SPAD chlorophyll meter CM-1000 (Spectrum Technologies) |
+| Control Parameters | Two culture-type treatments (BFT-AP vs conventional/Miyazaki-type hydroponics), 2 lettuce cultivars (cv. Cheongchima 'green', cv. Jeokchukmyeon 'red') + 2 chicory-family cultivars (endive, common chicory) planted uniformly in each treatment's shared NFT bed; catfish reared 60 d in BFT-AP tank only (single tank, 1 replicate system, individual fish pooled into 3 measurement zones per Methods, but Table 2/3 footnotes state n=4 replicates -- see Experimental Remarks); crop growth compared after stated cultivation period (30 d per Results/Table captions/Conclusion; Methods states 60 d -- see Experimental Remarks); unpaired t-test (SAS package, p<0.001, per Methods) used for AP vs conventional treatment-mean comparison; Table 2/3 footnotes separately state LSD test (p=0.001 and p=0.01 respectively) for per-species letter groupings; Fig. 3 caption states Duncan's test (95% CI) for biofloc microbial counts |
+| Combination | Far Eastern catfish (Silurus asotus) and Green lettuce (Lactuca sativa L.); BFT-aquaponics vs conventional/hydroponic N-based nutrient solution |
+
+**Site**
+
+| Field | Value |
+|---|---|
+| Region | East Asia |
+| Country | South Korea |
+| Average room Temperature | 20-30 (range: greenhouse mean daytime approx. 30 degC, mean nighttime approx. 20 degC) |
+
+**Results & Statistics**
+
+| Field | Value |
+|---|---|
+| Measured Unit | mm (height, as literally reported by the paper -- see WARN-CHECK on plausible cm mislabel); number/plant (leaf count); g/plant (fresh weight); SPAD units (chlorophyll, CM-1000 meter); ppm=ambient mg/L (water Ca/K/Na/NO3) |
+| Statistic Details | Methods (Statistical analysis) states data compiled in Microsoft Excel 2016, treatment means compared with SAS statistical package using an unpaired t-test between BFT-AP and conventional-hydroponic groups, significance level p<0.001, single replicate system per treatment with individual measurements pooled into 3 zones for descriptive mean+/-SD. Table 2 footnote separately states 'Different lowercase letters indicate significant difference according to LSD test at p=0.001' with 'mean+/-SE of four replicates' (n=4, not the 3 zones stated in Methods -- see Experimental Remarks). Table 3 footnote states LSD test at p=0.01, also 'four replicates'. Fig. 3 caption states Duncan's test at 95% confidence level for biofloc bacterial/algal counts. Three different named procedures (t-test / LSD / Duncan) and two different thresholds (0.001 / 0.01) are used across the paper without being reconciled. |
+| Statistically analysed | Y |
+| Replicates (n) | 4 |
+
+**Experimental Remarks:** TRIAL DEFINITION: T1 = BFT-AP treatment growing Green lettuce (Lactuca sativa L.), one of 4 leafy-vegetable cultivars (2 lettuce + 2 chicory-family) planted uniformly and simultaneously in the same shared NFT bed per treatment; paired control = the conventional/hydroponic (HYD) treatment on N-based nutrient solution, same cultivar, recorded in the HYD-paired notes below since Plant height/Leaf count/Plant fresh weight/SPAD have no dedicated HYD column in the schema. Only one aquaponic system (single BFT-AP tank) in this paper, generating one row per cultivar rather than per system, per CLAUDE.md's 'multiple species = separate trials' rule.  \| HYD-paired values (Table 2/3, p.412, no dedicated column): height 24.4 +/- 2.6 mm, leaf count 12.0 +/- 1.3 /plant, fresh weight 16.9 +/- 1.3 g/plant, SPAD 20.7 +/- 3.7 (Hydroponics/Conventional treatment, same cultivar). \| WARN-BLOCK (misattribution, paper-wide, affects quality score): Results narrative (p.412, 'Fresh weight' subsection) states 'BFT-AP에서 재배한 청상추가 28.5+/-4.5 g/plant이었고 엔다이브가 28.4+/-4.7 g/plant으로... 각각 68.6%와 60.3%' -- i.e. it attributes the fresh weight value 28.4+/-4.7 g/plant to ENDIVE. Table 2 (p.412) unambiguously assigns 28.4+/-4.7 g/plant to CHICORY's AP fresh weight; Endive's actual AP fresh weight (Table 2) is 24.2+/-1.9 g/plant. The accompanying percentage (60.3%) is internally correct FOR ENDIVE using Endive's own real Table-2 values ((24.2-15.1)/15.1=60.3%), confirming the raw number (not the percentage) was swapped from the Chicory row -- a copy/paste error, not a percentage-calculation error. This extraction sources Plant fresh weight directly from Table 2's unambiguous per-species rows (used here), so T1(green lettuce)/T3(endive)/T4(chicory) CSV cells are NOT corrupted by this passage, but per CLAUDE.md 'misattribution is always BLOCK and always makes the paper suspect,' quality is set to suspect regardless. \| WARN-MATERIAL Plant trial duration ('Days Plant after transplant'): Methods ('Lettuce and chicory cultivation', p.410) states plant growth traits were measured '60일간 재배 후' (after 60 days of cultivation). Results body text (p.411, twice), both Table 2 and Table 3 captions (p.412, 'cultivated for 30 days'), and the Conclusion (p.416, '상추와 치커리 재배 30일 후') all consistently state 30 days. Recorded 30 days (majority + explicit table captions + conclusion); Methods' '60 days' is very likely a copy of the separate 60-day catfish-rearing duration stated two paragraphs earlier in the same Methods section, not the plant duration. \| WARN-MATERIAL Replicates (n): Statistical-analysis Methods (p.411) states the experiment ran with only 1 replicate per treatment system, with individual measurements pooled into '3개의 구역' (3 zones) to compute descriptive mean+/-SD. Table 2 and Table 3 footnotes (p.412) both instead state 'mean+/-SE of four replicates' (n=4). Recorded Replicates (n) = 4, tied directly to the +/-SE figures used in every Height/Leaf count/Fresh weight/SPAD cell in this row; the Methods '3 zones' statement is not reconcilable with the tables' stated n=4 and is recorded here as the conflicting alternative. UNRESOLVED -- added to REVIEW.md. \| WARN-CHECK Plant height unit: Table 2 column header reads 'Height (mm)' and running text repeats 'mm' consistently (e.g. p.411 '16.4+/-2.4 mm', '17.6+/-1.2 mm'); Methods (p.410) describes the underlying trait as '총엽장(total leaf length)', not an explicit plant-height measurement. Values (11.8-28.2) are far more biologically plausible as CENTIMETRES for a 30-day-old lettuce/chicory transplant than as millimetres (an implied 1.2-2.8 cm plant would be implausibly small). NOT converted (would not be a value-preserving unit conversion, only a guess at the authors' intended unit) -- recorded exactly as printed, with the paper's own stated unit noted here. UNRESOLVED -- added to REVIEW.md. \| WARN-CHECK dispersion statistic: Table 2/3 footnotes state values are 'mean+/-SE of four replicates', i.e. standard ERROR, not standard deviation, despite the schema's 'value +/- sd' cell convention. Recorded exactly as the paper reports (+/-SE); not converted to SD (would require multiplying by sqrt(4), a derivation). \| WARN-MINOR: Table 2 labels the non-aquaponic treatment 'Conventional'; Table 3 labels the same treatment 'Hydroponics'. Same treatment, inconsistent naming across tables, no cell impact (recorded as 'HYD' throughout this file). \| NOT DERIVED, left NR: Plants/m2 (NFT bed stated to hold 70 plants total across L7.0 x W0.6 m, shared by 4 cultivars x 2 treatments -- dividing would be derivation); Total Feed (kg) and Fish biomass created (kg) (initial/final total fish weights of 3,698 g and 12,626 g are both stated in Table 1, from which an 8,928 g / 8.928 kg gain could be computed later, but is not derived here); Initial Stock density in kg/m3 (paper states an AREAL density '5 kg/m2' for the ~3.7 kg of catfish, not a volumetric kg/m3 figure the schema requires; tank is 0.93 m dia x 1.23 m H / ~0.6 m3 nominal capacity, which COULD yield an approx. volumetric density if divided, but that is derivation, so left NR). \| Fish Category, Water type, Water classification, pHOptimal, FUE AP/HYD, WUE, Tissue nitrate AP/HYD, Lat/Long, AP, HYD all NR/NA -- not stated or not categorised anywhere in the paper. \| WARN-MATERIAL water quality (Aq pH, EC, Water temperature, NO3-N): Table 4 ('Comparison of water quality... in harvest time', p.412) gives a single harvest-time snapshot with an explicit MEAN+/-SE row: pH range 4.5-4.8 (mean 4.7+/-0.1), EC range 0.182-0.187 dS/m (mean 0.184+/-0.02), NO3 range 40.0-46.0 ppm (mean 42.4+/-1.9), broken down by compartment (Fishery/Sediment/Biofloc/Crop). Table 5 ('Water temperature, DO, pH, EC and redox potential...during the study period', p.414) instead gives MONTHLY (Jul-Oct 2023) min/max/mean for Fishery pond and Crop cultural bed: Fishery pond pH means 8.7(Jul)/7.0(Aug)/6.5(Sep)/6.8(Oct), overall min 5.5-max 8.9; Crop bed pH means 9.6(Jul)/7.4(Aug)/7.3(Sep)/6.9(Oct), overall min 2.3-max 9.8. Crop-bed EC means (Table 5): 0.11(Jul)/0.08(Aug)/0.11(Sep)/0.10(Oct) dS/m -- roughly half of Table 4's 0.182-0.187 dS/m range. These two tables describe the same system in an overlapping period (crop grown into the same Jul-Oct window) yet report substantially different absolute pH and EC levels (pH ~4.5-4.8 vs ~6.5-9.8; EC ~0.18 vs ~0.08-0.11 dS/m). The paper never reconciles this. Per SCHEMA.md's preference for a stated trial-mean summary table over an un-averaged time series, Table 4's MEAN+/-SE (crop-bed compartment: pH 4.7+/-0.1, EC 0.183+/-0.08, NO3 41.8+/-1.1) is recorded in Aq pH / EC / NO3-N. Table 5's monthly figures are recorded only as a range for Water temperature (no comparable summary table exists for temperature: Crop bed range 13.9-39.7 degC across Jul-Oct, 'range only, no trial mean reported') and are otherwise kept only in this remark. UNRESOLVED -- added to REVIEW.md. Downstream effect: any interpretation of this system's ambient pH/EC regime depends entirely on which table is used. WARN-CHECK NO3 vs NO3-N: Methods (Water environment analysis, p.411) states Ca, K, Na, and 'NO3-N' were measured, but Table 4's own column header reads only 'NO3 (ppm)' (no '-N' suffix), and Discussion/Conclusion prose also say 'NO3' throughout. Treated as the same measurement (NO3-N) per the Methods statement and recorded under the NO3-N column; if the table literally means nitrate ion (NO3) rather than nitrate-nitrogen, the value would need x4.43 correction, which was NOT applied (no derivation). Fish-tank rearing setpoints (Methods, 'Experimental fish and rearing environment', p.409): DO maintained 7.0+/-1.0 mg/L, pH 6.6+/-0.5, water temp 23.0+/-1.0 degC during the 60-d catfish grow-out -- these are targets/setpoints for tank management, not measured trial means, and are NOT the same scope as Table 4/5's post-hoc water-quality analyses; not treated as conflicting with Table 4/5 per the 'setpoint vs measured, not a contradiction' rule, but noted here for context. Dissolved Oxygen: no DO column exists in Table 4 at all (only pH/EC/Ca/K/Na/NO3); Table 5 gives DO only for the Fishery pond (Crop bed has no DO column in Table 5/Fig.2B either) as monthly min/max with no combined trial-mean row: Jul 9.0-13.8 (mean 11.6), Aug 8.3-13.3 (mean 10.7), Sep 4.2-12.8 (mean 9.3), Oct 4.8-12.6 (mean 9.9). Recorded as the overall Fishery-pond range across all 4 months (4.2-13.8 ppm, range only, no single trial mean reported) since no crop-bed DO figure exists to prefer per the schema's compartment-preference rule. NO COLUMN: Table 4 Ca (ppm) and Na (ppm) have no dedicated trials.csv water column (schema only has TAN/NH4-N, NO2-N, NO3-N, EC, pH, DO, temperature). Ca: range 71.8-78.0 ppm (crop bed highest, 75.8+/-2.9, mean 73.6+/-2.1); Na: range 53.0-57.0 ppm, no significant compartment difference (mean 55.3+/-1.1). K (water, ppm) also has no column distinct from the feed-composition 'K' column; water K was uniformly 10.0+/-0 ppm across all compartments with no significant difference (F-value not computable, marked '-' in Table 4). ORP (oxidation-reduction potential, mV): Fishery-pond monthly means rose steadily from 299.1 (Jul) to 479.9 (Oct) (Table 5/Fig.2A); no ORP column exists in the schema.
+
+#### kimComparisonWaterQuality2023-T2
+
+**Fish**
+
+| Field | Value |
+|---|---|
+| Fish | Far Eastern catfish (Silurus asotus) |
+| SGR | 3.0 |
+| Protein | 44 |
+| P | 1.8 |
+| % of body weight | 3 |
+| Fish size initial | 74.0 +/- 4.8 |
+| Fish size final | 252.5 +/- 7.5 |
+| Feed routine | Once daily, 9:00 AM |
+| Feed regime | Commercial catfish feed pellets (Sajo Dong-A One Co., 'Megi Spring' No.2 and No.3); No.2 pellet (3.3 mm dia.) for first 30 days, then No.3 pellet (4.2 mm dia.) thereafter; fed at 3% of body weight/day; feed composition: crude protein 44%, crude fat 8%, calcium 1%, moisture 14%, phosphorus 1.8%, crude fiber 5%, crude ash 17% (NO COLUMN: fat/calcium/moisture/fiber/ash have no dedicated fields) |
+| Fish survival rate | 96.0 |
+| Fish weight gain | 178.5 |
+| Fish trial duration (days) | 60 |
+
+**Water**
+
+| Field | Value |
+|---|---|
+| Water volume in the system | NR (component volumes stated, not summed -- see Experimental Remarks: fish tank ~600 L, sediment tank 120 L, biofloc pond ~120 L, NFT recycle pond dims not fully legible in Fig.1B) |
+| Aq pH | 4.7 +/- 0.1 |
+| Dissolved Oxigen | 4.2-13.8 (range only, no trial mean reported; Fishery pond, Table 5) |
+| EC | 0.183 +/- 0.08 |
+| Water temperature | 13.9-39.7 (range only, no trial mean reported; Crop cultural bed, Table 5) |
+| NO3-N | 41.8 +/- 1.1 |
+
+**Plant**
+
+| Field | Value |
+|---|---|
+| Plant | Red lettuce (Lactuca sativa L.) |
+| Details | Cultivar 'Jeokchukmyeon-sangchu' (적축면상추, per Methods 'cultivars' list); transplanted seedling purchased from an eco-friendly certified nursery; grown alongside green lettuce + 2 chicory-family cultivars in the same shared NFT bed per treatment. |
+| Plant Category | Leafy vegetable (paper title terminology; not explicitly categorised in-text) |
+| Days Plant after transplant | 30 |
+| SPAD (aquaponics) | 36.5 +/- 9.1 |
+| Plant height | 16.4 +/- 2.4 |
+| Leaf count | 20.2 +/- 1.6 |
+| Plant fresh weight | 20.1 +/- 3.2 |
+
+**System & Setup**
+
+| Field | Value |
+|---|---|
+| System type | NFT (nutrient film technique) |
+| Media Details | NFT channel 7.0 m (L) x 0.6 m (W) x 0.3 m (H), holds up to 70 plants total per bed shared across all 4 cultivars within a treatment; separate NFT beds for BFT-AP and conventional/hydroponic treatments, each on its own circulation loop (Fig. 1) |
+| Biological system already in use | Y (Bacillus velezensis AFB2-2 (antimicrobial / plant-growth-promoting bacterium, in-house isolate, ref. Kim et al. 2021 in-paper citation 17) and Chlorella fusca (biostimulant microalga, ref. Kim et al. 2018 in-paper citation 18), liquid-cultured and inoculated into the biological activation bed (Biofloc pond) at approx. 0.8+/-0.3x10^3 cfu/ml and 19.2+/-2.1x10^3 cfu/ml respectively at day 0; population density monitored every 15 d over 60 d (Fig. 3): C. fusca rose continuously to 6.1+/-3.3x10^3 cfu/ml by day 45; AFB2-2 dipped to below initial by day 15 then recovered to 28.5+/-9.3x10^3 cfu/ml by day 45.) |
+| Air supplement | Y (Air stones installed at fish-tank sides and bottom + oxygen generator SHD-150 (150 L/min) for the fish (BFT-AP) tank, to prevent biofloc/organic-matter settling and maintain DO; separate oxygen generator SHD-80 (80 L/min) supplying the biofloc pond, plus two bio-ball media sizes to promote aerobic nitrifying bacteria.) |
+| Climate control | Y (Glass greenhouse; mean daytime temperature approx. 30 degC, mean nighttime approx. 20 degC, relative humidity 70-85%; aluminum shading net deployed 12:00-15:00 to limit midday temperature rise; side windows opened at night to bring relative humidity down to 50-65%.) |
+| Nutrient supplemented | Y (Hydroponic (conventional) treatment only: N-based nutrient solution targeted at 100 mg/L N; macro-element concentrations NH4-N 0.42 mM, K+ 0.50 mM, Ca2+ 0.24 mM, Mg2+ 0.20 mM, NO3-N 1.32 mM, H2PO4- 0.05 mM, diluted in tap water, delivered via automatic dosing system to the NFT bed. BFT-AP (aquaponic) treatment: no nutrient solution added; plant bed fed solely by catfish-conditioned recirculating water routed fish tank -> sediment tank -> back to fish tank, with the NFT crop bed plumbed into that loop (Fig. 1).) |
+| Equipment | 0.6-ton (~600 L) cylindrical plastic fish tank (dia. 0.93 m x H 1.23 m); oxygen generator SHD-150 (150 L/min) + water heater DH-UT180 (2 kW) on fish tank; physical sediment tank 120 L (dia. 0.51 m x H 0.82 m); biofloc pond (same dims as sediment tank) with oxygen generator SHD-80 (80 L/min) and two bio-ball sizes (dia. 16 mm white, 26 mm black); NFT plant bed 7.0 x 0.6 x 0.3 m (70-plant capacity, shared across cultivars/treatments per system); recycle/sump pond for HYD/NFT loop (Fig. 1B, dims not fully legible); electronic scale MW-500 (CAS, Korea); ICP spectrophotometer Integra XL Dual (GBC Scientific, Mexico) for Ca/K/Na; SPAD chlorophyll meter CM-1000 (Spectrum Technologies) |
+| Control Parameters | Two culture-type treatments (BFT-AP vs conventional/Miyazaki-type hydroponics), 2 lettuce cultivars (cv. Cheongchima 'green', cv. Jeokchukmyeon 'red') + 2 chicory-family cultivars (endive, common chicory) planted uniformly in each treatment's shared NFT bed; catfish reared 60 d in BFT-AP tank only (single tank, 1 replicate system, individual fish pooled into 3 measurement zones per Methods, but Table 2/3 footnotes state n=4 replicates -- see Experimental Remarks); crop growth compared after stated cultivation period (30 d per Results/Table captions/Conclusion; Methods states 60 d -- see Experimental Remarks); unpaired t-test (SAS package, p<0.001, per Methods) used for AP vs conventional treatment-mean comparison; Table 2/3 footnotes separately state LSD test (p=0.001 and p=0.01 respectively) for per-species letter groupings; Fig. 3 caption states Duncan's test (95% CI) for biofloc microbial counts |
+| Combination | Far Eastern catfish (Silurus asotus) and Red lettuce (Lactuca sativa L.); BFT-aquaponics vs conventional/hydroponic N-based nutrient solution |
+
+**Site**
+
+| Field | Value |
+|---|---|
+| Region | East Asia |
+| Country | South Korea |
+| Average room Temperature | 20-30 (range: greenhouse mean daytime approx. 30 degC, mean nighttime approx. 20 degC) |
+
+**Results & Statistics**
+
+| Field | Value |
+|---|---|
+| Measured Unit | mm (height, as literally reported by the paper -- see WARN-CHECK on plausible cm mislabel); number/plant (leaf count); g/plant (fresh weight); SPAD units (chlorophyll, CM-1000 meter); ppm=ambient mg/L (water Ca/K/Na/NO3) |
+| Statistic Details | Methods (Statistical analysis) states data compiled in Microsoft Excel 2016, treatment means compared with SAS statistical package using an unpaired t-test between BFT-AP and conventional-hydroponic groups, significance level p<0.001, single replicate system per treatment with individual measurements pooled into 3 zones for descriptive mean+/-SD. Table 2 footnote separately states 'Different lowercase letters indicate significant difference according to LSD test at p=0.001' with 'mean+/-SE of four replicates' (n=4, not the 3 zones stated in Methods -- see Experimental Remarks). Table 3 footnote states LSD test at p=0.01, also 'four replicates'. Fig. 3 caption states Duncan's test at 95% confidence level for biofloc bacterial/algal counts. Three different named procedures (t-test / LSD / Duncan) and two different thresholds (0.001 / 0.01) are used across the paper without being reconciled. |
+| Statistically analysed | Y |
+| Replicates (n) | 4 |
+
+**Experimental Remarks:** TRIAL DEFINITION: T2 = BFT-AP treatment growing Red lettuce (Lactuca sativa L.), one of 4 leafy-vegetable cultivars (2 lettuce + 2 chicory-family) planted uniformly and simultaneously in the same shared NFT bed per treatment; paired control = the conventional/hydroponic (HYD) treatment on N-based nutrient solution, same cultivar, recorded in the HYD-paired notes below since Plant height/Leaf count/Plant fresh weight/SPAD have no dedicated HYD column in the schema. Only one aquaponic system (single BFT-AP tank) in this paper, generating one row per cultivar rather than per system, per CLAUDE.md's 'multiple species = separate trials' rule.  \| HYD-paired values (Table 2/3, p.412, no dedicated column): height 13.1 +/- 1.3 mm, leaf count 15.5 +/- 3.0 /plant, fresh weight 15.4 +/- 0.9 g/plant, SPAD 21.2 +/- 5.0 (Hydroponics/Conventional treatment, same cultivar). \| WARN-BLOCK (misattribution, paper-wide, affects quality score): Results narrative (p.412, 'Fresh weight' subsection) states 'BFT-AP에서 재배한 청상추가 28.5+/-4.5 g/plant이었고 엔다이브가 28.4+/-4.7 g/plant으로... 각각 68.6%와 60.3%' -- i.e. it attributes the fresh weight value 28.4+/-4.7 g/plant to ENDIVE. Table 2 (p.412) unambiguously assigns 28.4+/-4.7 g/plant to CHICORY's AP fresh weight; Endive's actual AP fresh weight (Table 2) is 24.2+/-1.9 g/plant. The accompanying percentage (60.3%) is internally correct FOR ENDIVE using Endive's own real Table-2 values ((24.2-15.1)/15.1=60.3%), confirming the raw number (not the percentage) was swapped from the Chicory row -- a copy/paste error, not a percentage-calculation error. This extraction sources Plant fresh weight directly from Table 2's unambiguous per-species rows (used here), so T1(green lettuce)/T3(endive)/T4(chicory) CSV cells are NOT corrupted by this passage, but per CLAUDE.md 'misattribution is always BLOCK and always makes the paper suspect,' quality is set to suspect regardless. \| WARN-MATERIAL Plant trial duration ('Days Plant after transplant'): Methods ('Lettuce and chicory cultivation', p.410) states plant growth traits were measured '60일간 재배 후' (after 60 days of cultivation). Results body text (p.411, twice), both Table 2 and Table 3 captions (p.412, 'cultivated for 30 days'), and the Conclusion (p.416, '상추와 치커리 재배 30일 후') all consistently state 30 days. Recorded 30 days (majority + explicit table captions + conclusion); Methods' '60 days' is very likely a copy of the separate 60-day catfish-rearing duration stated two paragraphs earlier in the same Methods section, not the plant duration. \| WARN-MATERIAL Replicates (n): Statistical-analysis Methods (p.411) states the experiment ran with only 1 replicate per treatment system, with individual measurements pooled into '3개의 구역' (3 zones) to compute descriptive mean+/-SD. Table 2 and Table 3 footnotes (p.412) both instead state 'mean+/-SE of four replicates' (n=4). Recorded Replicates (n) = 4, tied directly to the +/-SE figures used in every Height/Leaf count/Fresh weight/SPAD cell in this row; the Methods '3 zones' statement is not reconcilable with the tables' stated n=4 and is recorded here as the conflicting alternative. UNRESOLVED -- added to REVIEW.md. \| WARN-CHECK Plant height unit: Table 2 column header reads 'Height (mm)' and running text repeats 'mm' consistently (e.g. p.411 '16.4+/-2.4 mm', '17.6+/-1.2 mm'); Methods (p.410) describes the underlying trait as '총엽장(total leaf length)', not an explicit plant-height measurement. Values (11.8-28.2) are far more biologically plausible as CENTIMETRES for a 30-day-old lettuce/chicory transplant than as millimetres (an implied 1.2-2.8 cm plant would be implausibly small). NOT converted (would not be a value-preserving unit conversion, only a guess at the authors' intended unit) -- recorded exactly as printed, with the paper's own stated unit noted here. UNRESOLVED -- added to REVIEW.md. \| WARN-CHECK dispersion statistic: Table 2/3 footnotes state values are 'mean+/-SE of four replicates', i.e. standard ERROR, not standard deviation, despite the schema's 'value +/- sd' cell convention. Recorded exactly as the paper reports (+/-SE); not converted to SD (would require multiplying by sqrt(4), a derivation). \| WARN-MINOR: Table 2 labels the non-aquaponic treatment 'Conventional'; Table 3 labels the same treatment 'Hydroponics'. Same treatment, inconsistent naming across tables, no cell impact (recorded as 'HYD' throughout this file). \| NOT DERIVED, left NR: Plants/m2 (NFT bed stated to hold 70 plants total across L7.0 x W0.6 m, shared by 4 cultivars x 2 treatments -- dividing would be derivation); Total Feed (kg) and Fish biomass created (kg) (initial/final total fish weights of 3,698 g and 12,626 g are both stated in Table 1, from which an 8,928 g / 8.928 kg gain could be computed later, but is not derived here); Initial Stock density in kg/m3 (paper states an AREAL density '5 kg/m2' for the ~3.7 kg of catfish, not a volumetric kg/m3 figure the schema requires; tank is 0.93 m dia x 1.23 m H / ~0.6 m3 nominal capacity, which COULD yield an approx. volumetric density if divided, but that is derivation, so left NR). \| Fish Category, Water type, Water classification, pHOptimal, FUE AP/HYD, WUE, Tissue nitrate AP/HYD, Lat/Long, AP, HYD all NR/NA -- not stated or not categorised anywhere in the paper. \| WARN-MATERIAL water quality (Aq pH, EC, Water temperature, NO3-N): Table 4 ('Comparison of water quality... in harvest time', p.412) gives a single harvest-time snapshot with an explicit MEAN+/-SE row: pH range 4.5-4.8 (mean 4.7+/-0.1), EC range 0.182-0.187 dS/m (mean 0.184+/-0.02), NO3 range 40.0-46.0 ppm (mean 42.4+/-1.9), broken down by compartment (Fishery/Sediment/Biofloc/Crop). Table 5 ('Water temperature, DO, pH, EC and redox potential...during the study period', p.414) instead gives MONTHLY (Jul-Oct 2023) min/max/mean for Fishery pond and Crop cultural bed: Fishery pond pH means 8.7(Jul)/7.0(Aug)/6.5(Sep)/6.8(Oct), overall min 5.5-max 8.9; Crop bed pH means 9.6(Jul)/7.4(Aug)/7.3(Sep)/6.9(Oct), overall min 2.3-max 9.8. Crop-bed EC means (Table 5): 0.11(Jul)/0.08(Aug)/0.11(Sep)/0.10(Oct) dS/m -- roughly half of Table 4's 0.182-0.187 dS/m range. These two tables describe the same system in an overlapping period (crop grown into the same Jul-Oct window) yet report substantially different absolute pH and EC levels (pH ~4.5-4.8 vs ~6.5-9.8; EC ~0.18 vs ~0.08-0.11 dS/m). The paper never reconciles this. Per SCHEMA.md's preference for a stated trial-mean summary table over an un-averaged time series, Table 4's MEAN+/-SE (crop-bed compartment: pH 4.7+/-0.1, EC 0.183+/-0.08, NO3 41.8+/-1.1) is recorded in Aq pH / EC / NO3-N. Table 5's monthly figures are recorded only as a range for Water temperature (no comparable summary table exists for temperature: Crop bed range 13.9-39.7 degC across Jul-Oct, 'range only, no trial mean reported') and are otherwise kept only in this remark. UNRESOLVED -- added to REVIEW.md. Downstream effect: any interpretation of this system's ambient pH/EC regime depends entirely on which table is used. WARN-CHECK NO3 vs NO3-N: Methods (Water environment analysis, p.411) states Ca, K, Na, and 'NO3-N' were measured, but Table 4's own column header reads only 'NO3 (ppm)' (no '-N' suffix), and Discussion/Conclusion prose also say 'NO3' throughout. Treated as the same measurement (NO3-N) per the Methods statement and recorded under the NO3-N column; if the table literally means nitrate ion (NO3) rather than nitrate-nitrogen, the value would need x4.43 correction, which was NOT applied (no derivation). Fish-tank rearing setpoints (Methods, 'Experimental fish and rearing environment', p.409): DO maintained 7.0+/-1.0 mg/L, pH 6.6+/-0.5, water temp 23.0+/-1.0 degC during the 60-d catfish grow-out -- these are targets/setpoints for tank management, not measured trial means, and are NOT the same scope as Table 4/5's post-hoc water-quality analyses; not treated as conflicting with Table 4/5 per the 'setpoint vs measured, not a contradiction' rule, but noted here for context. Dissolved Oxygen: no DO column exists in Table 4 at all (only pH/EC/Ca/K/Na/NO3); Table 5 gives DO only for the Fishery pond (Crop bed has no DO column in Table 5/Fig.2B either) as monthly min/max with no combined trial-mean row: Jul 9.0-13.8 (mean 11.6), Aug 8.3-13.3 (mean 10.7), Sep 4.2-12.8 (mean 9.3), Oct 4.8-12.6 (mean 9.9). Recorded as the overall Fishery-pond range across all 4 months (4.2-13.8 ppm, range only, no single trial mean reported) since no crop-bed DO figure exists to prefer per the schema's compartment-preference rule. NO COLUMN: Table 4 Ca (ppm) and Na (ppm) have no dedicated trials.csv water column (schema only has TAN/NH4-N, NO2-N, NO3-N, EC, pH, DO, temperature). Ca: range 71.8-78.0 ppm (crop bed highest, 75.8+/-2.9, mean 73.6+/-2.1); Na: range 53.0-57.0 ppm, no significant compartment difference (mean 55.3+/-1.1). K (water, ppm) also has no column distinct from the feed-composition 'K' column; water K was uniformly 10.0+/-0 ppm across all compartments with no significant difference (F-value not computable, marked '-' in Table 4). ORP (oxidation-reduction potential, mV): Fishery-pond monthly means rose steadily from 299.1 (Jul) to 479.9 (Oct) (Table 5/Fig.2A); no ORP column exists in the schema.
+
+#### kimComparisonWaterQuality2023-T3
+
+**Fish**
+
+| Field | Value |
+|---|---|
+| Fish | Far Eastern catfish (Silurus asotus) |
+| SGR | 3.0 |
+| Protein | 44 |
+| P | 1.8 |
+| % of body weight | 3 |
+| Fish size initial | 74.0 +/- 4.8 |
+| Fish size final | 252.5 +/- 7.5 |
+| Feed routine | Once daily, 9:00 AM |
+| Feed regime | Commercial catfish feed pellets (Sajo Dong-A One Co., 'Megi Spring' No.2 and No.3); No.2 pellet (3.3 mm dia.) for first 30 days, then No.3 pellet (4.2 mm dia.) thereafter; fed at 3% of body weight/day; feed composition: crude protein 44%, crude fat 8%, calcium 1%, moisture 14%, phosphorus 1.8%, crude fiber 5%, crude ash 17% (NO COLUMN: fat/calcium/moisture/fiber/ash have no dedicated fields) |
+| Fish survival rate | 96.0 |
+| Fish weight gain | 178.5 |
+| Fish trial duration (days) | 60 |
+
+**Water**
+
+| Field | Value |
+|---|---|
+| Water volume in the system | NR (component volumes stated, not summed -- see Experimental Remarks: fish tank ~600 L, sediment tank 120 L, biofloc pond ~120 L, NFT recycle pond dims not fully legible in Fig.1B) |
+| Aq pH | 4.7 +/- 0.1 |
+| Dissolved Oxigen | 4.2-13.8 (range only, no trial mean reported; Fishery pond, Table 5) |
+| EC | 0.183 +/- 0.08 |
+| Water temperature | 13.9-39.7 (range only, no trial mean reported; Crop cultural bed, Table 5) |
+| NO3-N | 41.8 +/- 1.1 |
+
+**Plant**
+
+| Field | Value |
+|---|---|
+| Plant | Endive (Cichorium endivia) |
+| Details | Transplanted seedling purchased from an eco-friendly certified nursery; grown alongside 2 lettuce cultivars + common chicory in the same shared NFT bed per treatment. |
+| Plant Category | Leafy vegetable (paper title terminology; not explicitly categorised in-text) |
+| Days Plant after transplant | 30 |
+| SPAD (aquaponics) | 50.5 +/- 15.0 |
+| Plant height | 17.6 +/- 1.2 |
+| Leaf count | 22.2 +/- 1.8 |
+| Plant fresh weight | 24.2 +/- 1.9 |
+
+**System & Setup**
+
+| Field | Value |
+|---|---|
+| System type | NFT (nutrient film technique) |
+| Media Details | NFT channel 7.0 m (L) x 0.6 m (W) x 0.3 m (H), holds up to 70 plants total per bed shared across all 4 cultivars within a treatment; separate NFT beds for BFT-AP and conventional/hydroponic treatments, each on its own circulation loop (Fig. 1) |
+| Biological system already in use | Y (Bacillus velezensis AFB2-2 (antimicrobial / plant-growth-promoting bacterium, in-house isolate, ref. Kim et al. 2021 in-paper citation 17) and Chlorella fusca (biostimulant microalga, ref. Kim et al. 2018 in-paper citation 18), liquid-cultured and inoculated into the biological activation bed (Biofloc pond) at approx. 0.8+/-0.3x10^3 cfu/ml and 19.2+/-2.1x10^3 cfu/ml respectively at day 0; population density monitored every 15 d over 60 d (Fig. 3): C. fusca rose continuously to 6.1+/-3.3x10^3 cfu/ml by day 45; AFB2-2 dipped to below initial by day 15 then recovered to 28.5+/-9.3x10^3 cfu/ml by day 45.) |
+| Air supplement | Y (Air stones installed at fish-tank sides and bottom + oxygen generator SHD-150 (150 L/min) for the fish (BFT-AP) tank, to prevent biofloc/organic-matter settling and maintain DO; separate oxygen generator SHD-80 (80 L/min) supplying the biofloc pond, plus two bio-ball media sizes to promote aerobic nitrifying bacteria.) |
+| Climate control | Y (Glass greenhouse; mean daytime temperature approx. 30 degC, mean nighttime approx. 20 degC, relative humidity 70-85%; aluminum shading net deployed 12:00-15:00 to limit midday temperature rise; side windows opened at night to bring relative humidity down to 50-65%.) |
+| Nutrient supplemented | Y (Hydroponic (conventional) treatment only: N-based nutrient solution targeted at 100 mg/L N; macro-element concentrations NH4-N 0.42 mM, K+ 0.50 mM, Ca2+ 0.24 mM, Mg2+ 0.20 mM, NO3-N 1.32 mM, H2PO4- 0.05 mM, diluted in tap water, delivered via automatic dosing system to the NFT bed. BFT-AP (aquaponic) treatment: no nutrient solution added; plant bed fed solely by catfish-conditioned recirculating water routed fish tank -> sediment tank -> back to fish tank, with the NFT crop bed plumbed into that loop (Fig. 1).) |
+| Equipment | 0.6-ton (~600 L) cylindrical plastic fish tank (dia. 0.93 m x H 1.23 m); oxygen generator SHD-150 (150 L/min) + water heater DH-UT180 (2 kW) on fish tank; physical sediment tank 120 L (dia. 0.51 m x H 0.82 m); biofloc pond (same dims as sediment tank) with oxygen generator SHD-80 (80 L/min) and two bio-ball sizes (dia. 16 mm white, 26 mm black); NFT plant bed 7.0 x 0.6 x 0.3 m (70-plant capacity, shared across cultivars/treatments per system); recycle/sump pond for HYD/NFT loop (Fig. 1B, dims not fully legible); electronic scale MW-500 (CAS, Korea); ICP spectrophotometer Integra XL Dual (GBC Scientific, Mexico) for Ca/K/Na; SPAD chlorophyll meter CM-1000 (Spectrum Technologies) |
+| Control Parameters | Two culture-type treatments (BFT-AP vs conventional/Miyazaki-type hydroponics), 2 lettuce cultivars (cv. Cheongchima 'green', cv. Jeokchukmyeon 'red') + 2 chicory-family cultivars (endive, common chicory) planted uniformly in each treatment's shared NFT bed; catfish reared 60 d in BFT-AP tank only (single tank, 1 replicate system, individual fish pooled into 3 measurement zones per Methods, but Table 2/3 footnotes state n=4 replicates -- see Experimental Remarks); crop growth compared after stated cultivation period (30 d per Results/Table captions/Conclusion; Methods states 60 d -- see Experimental Remarks); unpaired t-test (SAS package, p<0.001, per Methods) used for AP vs conventional treatment-mean comparison; Table 2/3 footnotes separately state LSD test (p=0.001 and p=0.01 respectively) for per-species letter groupings; Fig. 3 caption states Duncan's test (95% CI) for biofloc microbial counts |
+| Combination | Far Eastern catfish (Silurus asotus) and Endive (Cichorium endivia); BFT-aquaponics vs conventional/hydroponic N-based nutrient solution |
+
+**Site**
+
+| Field | Value |
+|---|---|
+| Region | East Asia |
+| Country | South Korea |
+| Average room Temperature | 20-30 (range: greenhouse mean daytime approx. 30 degC, mean nighttime approx. 20 degC) |
+
+**Results & Statistics**
+
+| Field | Value |
+|---|---|
+| Measured Unit | mm (height, as literally reported by the paper -- see WARN-CHECK on plausible cm mislabel); number/plant (leaf count); g/plant (fresh weight); SPAD units (chlorophyll, CM-1000 meter); ppm=ambient mg/L (water Ca/K/Na/NO3) |
+| Statistic Details | Methods (Statistical analysis) states data compiled in Microsoft Excel 2016, treatment means compared with SAS statistical package using an unpaired t-test between BFT-AP and conventional-hydroponic groups, significance level p<0.001, single replicate system per treatment with individual measurements pooled into 3 zones for descriptive mean+/-SD. Table 2 footnote separately states 'Different lowercase letters indicate significant difference according to LSD test at p=0.001' with 'mean+/-SE of four replicates' (n=4, not the 3 zones stated in Methods -- see Experimental Remarks). Table 3 footnote states LSD test at p=0.01, also 'four replicates'. Fig. 3 caption states Duncan's test at 95% confidence level for biofloc bacterial/algal counts. Three different named procedures (t-test / LSD / Duncan) and two different thresholds (0.001 / 0.01) are used across the paper without being reconciled. |
+| Statistically analysed | Y |
+| Replicates (n) | 4 |
+
+**Experimental Remarks:** TRIAL DEFINITION: T3 = BFT-AP treatment growing Endive (Cichorium endivia), one of 4 leafy-vegetable cultivars (2 lettuce + 2 chicory-family) planted uniformly and simultaneously in the same shared NFT bed per treatment; paired control = the conventional/hydroponic (HYD) treatment on N-based nutrient solution, same cultivar, recorded in the HYD-paired notes below since Plant height/Leaf count/Plant fresh weight/SPAD have no dedicated HYD column in the schema. Only one aquaponic system (single BFT-AP tank) in this paper, generating one row per cultivar rather than per system, per CLAUDE.md's 'multiple species = separate trials' rule. WARN-BLOCK misattribution directly involves this species' Table 2 fresh-weight value (see below) -- Table 2's own 24.2+/-1.9 g/plant used here, unaffected. \| HYD-paired values (Table 2/3, p.412, no dedicated column): height 11.8 +/- 2.7 mm, leaf count 16.0 +/- 1.1 /plant, fresh weight 15.1 +/- 0.6 g/plant, SPAD 30.5 +/- 8.2 (Hydroponics/Conventional treatment, same cultivar). \| WARN-BLOCK (misattribution, paper-wide, affects quality score): Results narrative (p.412, 'Fresh weight' subsection) states 'BFT-AP에서 재배한 청상추가 28.5+/-4.5 g/plant이었고 엔다이브가 28.4+/-4.7 g/plant으로... 각각 68.6%와 60.3%' -- i.e. it attributes the fresh weight value 28.4+/-4.7 g/plant to ENDIVE. Table 2 (p.412) unambiguously assigns 28.4+/-4.7 g/plant to CHICORY's AP fresh weight; Endive's actual AP fresh weight (Table 2) is 24.2+/-1.9 g/plant. The accompanying percentage (60.3%) is internally correct FOR ENDIVE using Endive's own real Table-2 values ((24.2-15.1)/15.1=60.3%), confirming the raw number (not the percentage) was swapped from the Chicory row -- a copy/paste error, not a percentage-calculation error. This extraction sources Plant fresh weight directly from Table 2's unambiguous per-species rows (used here), so T1(green lettuce)/T3(endive)/T4(chicory) CSV cells are NOT corrupted by this passage, but per CLAUDE.md 'misattribution is always BLOCK and always makes the paper suspect,' quality is set to suspect regardless. \| WARN-MATERIAL Plant trial duration ('Days Plant after transplant'): Methods ('Lettuce and chicory cultivation', p.410) states plant growth traits were measured '60일간 재배 후' (after 60 days of cultivation). Results body text (p.411, twice), both Table 2 and Table 3 captions (p.412, 'cultivated for 30 days'), and the Conclusion (p.416, '상추와 치커리 재배 30일 후') all consistently state 30 days. Recorded 30 days (majority + explicit table captions + conclusion); Methods' '60 days' is very likely a copy of the separate 60-day catfish-rearing duration stated two paragraphs earlier in the same Methods section, not the plant duration. \| WARN-MATERIAL Replicates (n): Statistical-analysis Methods (p.411) states the experiment ran with only 1 replicate per treatment system, with individual measurements pooled into '3개의 구역' (3 zones) to compute descriptive mean+/-SD. Table 2 and Table 3 footnotes (p.412) both instead state 'mean+/-SE of four replicates' (n=4). Recorded Replicates (n) = 4, tied directly to the +/-SE figures used in every Height/Leaf count/Fresh weight/SPAD cell in this row; the Methods '3 zones' statement is not reconcilable with the tables' stated n=4 and is recorded here as the conflicting alternative. UNRESOLVED -- added to REVIEW.md. \| WARN-CHECK Plant height unit: Table 2 column header reads 'Height (mm)' and running text repeats 'mm' consistently (e.g. p.411 '16.4+/-2.4 mm', '17.6+/-1.2 mm'); Methods (p.410) describes the underlying trait as '총엽장(total leaf length)', not an explicit plant-height measurement. Values (11.8-28.2) are far more biologically plausible as CENTIMETRES for a 30-day-old lettuce/chicory transplant than as millimetres (an implied 1.2-2.8 cm plant would be implausibly small). NOT converted (would not be a value-preserving unit conversion, only a guess at the authors' intended unit) -- recorded exactly as printed, with the paper's own stated unit noted here. UNRESOLVED -- added to REVIEW.md. \| WARN-CHECK dispersion statistic: Table 2/3 footnotes state values are 'mean+/-SE of four replicates', i.e. standard ERROR, not standard deviation, despite the schema's 'value +/- sd' cell convention. Recorded exactly as the paper reports (+/-SE); not converted to SD (would require multiplying by sqrt(4), a derivation). \| WARN-MINOR: Table 2 labels the non-aquaponic treatment 'Conventional'; Table 3 labels the same treatment 'Hydroponics'. Same treatment, inconsistent naming across tables, no cell impact (recorded as 'HYD' throughout this file). \| NOT DERIVED, left NR: Plants/m2 (NFT bed stated to hold 70 plants total across L7.0 x W0.6 m, shared by 4 cultivars x 2 treatments -- dividing would be derivation); Total Feed (kg) and Fish biomass created (kg) (initial/final total fish weights of 3,698 g and 12,626 g are both stated in Table 1, from which an 8,928 g / 8.928 kg gain could be computed later, but is not derived here); Initial Stock density in kg/m3 (paper states an AREAL density '5 kg/m2' for the ~3.7 kg of catfish, not a volumetric kg/m3 figure the schema requires; tank is 0.93 m dia x 1.23 m H / ~0.6 m3 nominal capacity, which COULD yield an approx. volumetric density if divided, but that is derivation, so left NR). \| Fish Category, Water type, Water classification, pHOptimal, FUE AP/HYD, WUE, Tissue nitrate AP/HYD, Lat/Long, AP, HYD all NR/NA -- not stated or not categorised anywhere in the paper. \| WARN-MATERIAL water quality (Aq pH, EC, Water temperature, NO3-N): Table 4 ('Comparison of water quality... in harvest time', p.412) gives a single harvest-time snapshot with an explicit MEAN+/-SE row: pH range 4.5-4.8 (mean 4.7+/-0.1), EC range 0.182-0.187 dS/m (mean 0.184+/-0.02), NO3 range 40.0-46.0 ppm (mean 42.4+/-1.9), broken down by compartment (Fishery/Sediment/Biofloc/Crop). Table 5 ('Water temperature, DO, pH, EC and redox potential...during the study period', p.414) instead gives MONTHLY (Jul-Oct 2023) min/max/mean for Fishery pond and Crop cultural bed: Fishery pond pH means 8.7(Jul)/7.0(Aug)/6.5(Sep)/6.8(Oct), overall min 5.5-max 8.9; Crop bed pH means 9.6(Jul)/7.4(Aug)/7.3(Sep)/6.9(Oct), overall min 2.3-max 9.8. Crop-bed EC means (Table 5): 0.11(Jul)/0.08(Aug)/0.11(Sep)/0.10(Oct) dS/m -- roughly half of Table 4's 0.182-0.187 dS/m range. These two tables describe the same system in an overlapping period (crop grown into the same Jul-Oct window) yet report substantially different absolute pH and EC levels (pH ~4.5-4.8 vs ~6.5-9.8; EC ~0.18 vs ~0.08-0.11 dS/m). The paper never reconciles this. Per SCHEMA.md's preference for a stated trial-mean summary table over an un-averaged time series, Table 4's MEAN+/-SE (crop-bed compartment: pH 4.7+/-0.1, EC 0.183+/-0.08, NO3 41.8+/-1.1) is recorded in Aq pH / EC / NO3-N. Table 5's monthly figures are recorded only as a range for Water temperature (no comparable summary table exists for temperature: Crop bed range 13.9-39.7 degC across Jul-Oct, 'range only, no trial mean reported') and are otherwise kept only in this remark. UNRESOLVED -- added to REVIEW.md. Downstream effect: any interpretation of this system's ambient pH/EC regime depends entirely on which table is used. WARN-CHECK NO3 vs NO3-N: Methods (Water environment analysis, p.411) states Ca, K, Na, and 'NO3-N' were measured, but Table 4's own column header reads only 'NO3 (ppm)' (no '-N' suffix), and Discussion/Conclusion prose also say 'NO3' throughout. Treated as the same measurement (NO3-N) per the Methods statement and recorded under the NO3-N column; if the table literally means nitrate ion (NO3) rather than nitrate-nitrogen, the value would need x4.43 correction, which was NOT applied (no derivation). Fish-tank rearing setpoints (Methods, 'Experimental fish and rearing environment', p.409): DO maintained 7.0+/-1.0 mg/L, pH 6.6+/-0.5, water temp 23.0+/-1.0 degC during the 60-d catfish grow-out -- these are targets/setpoints for tank management, not measured trial means, and are NOT the same scope as Table 4/5's post-hoc water-quality analyses; not treated as conflicting with Table 4/5 per the 'setpoint vs measured, not a contradiction' rule, but noted here for context. Dissolved Oxygen: no DO column exists in Table 4 at all (only pH/EC/Ca/K/Na/NO3); Table 5 gives DO only for the Fishery pond (Crop bed has no DO column in Table 5/Fig.2B either) as monthly min/max with no combined trial-mean row: Jul 9.0-13.8 (mean 11.6), Aug 8.3-13.3 (mean 10.7), Sep 4.2-12.8 (mean 9.3), Oct 4.8-12.6 (mean 9.9). Recorded as the overall Fishery-pond range across all 4 months (4.2-13.8 ppm, range only, no single trial mean reported) since no crop-bed DO figure exists to prefer per the schema's compartment-preference rule. NO COLUMN: Table 4 Ca (ppm) and Na (ppm) have no dedicated trials.csv water column (schema only has TAN/NH4-N, NO2-N, NO3-N, EC, pH, DO, temperature). Ca: range 71.8-78.0 ppm (crop bed highest, 75.8+/-2.9, mean 73.6+/-2.1); Na: range 53.0-57.0 ppm, no significant compartment difference (mean 55.3+/-1.1). K (water, ppm) also has no column distinct from the feed-composition 'K' column; water K was uniformly 10.0+/-0 ppm across all compartments with no significant difference (F-value not computable, marked '-' in Table 4). ORP (oxidation-reduction potential, mV): Fishery-pond monthly means rose steadily from 299.1 (Jul) to 479.9 (Oct) (Table 5/Fig.2A); no ORP column exists in the schema.
+
+#### kimComparisonWaterQuality2023-T4
+
+**Fish**
+
+| Field | Value |
+|---|---|
+| Fish | Far Eastern catfish (Silurus asotus) |
+| SGR | 3.0 |
+| Protein | 44 |
+| P | 1.8 |
+| % of body weight | 3 |
+| Fish size initial | 74.0 +/- 4.8 |
+| Fish size final | 252.5 +/- 7.5 |
+| Feed routine | Once daily, 9:00 AM |
+| Feed regime | Commercial catfish feed pellets (Sajo Dong-A One Co., 'Megi Spring' No.2 and No.3); No.2 pellet (3.3 mm dia.) for first 30 days, then No.3 pellet (4.2 mm dia.) thereafter; fed at 3% of body weight/day; feed composition: crude protein 44%, crude fat 8%, calcium 1%, moisture 14%, phosphorus 1.8%, crude fiber 5%, crude ash 17% (NO COLUMN: fat/calcium/moisture/fiber/ash have no dedicated fields) |
+| Fish survival rate | 96.0 |
+| Fish weight gain | 178.5 |
+| Fish trial duration (days) | 60 |
+
+**Water**
+
+| Field | Value |
+|---|---|
+| Water volume in the system | NR (component volumes stated, not summed -- see Experimental Remarks: fish tank ~600 L, sediment tank 120 L, biofloc pond ~120 L, NFT recycle pond dims not fully legible in Fig.1B) |
+| Aq pH | 4.7 +/- 0.1 |
+| Dissolved Oxigen | 4.2-13.8 (range only, no trial mean reported; Fishery pond, Table 5) |
+| EC | 0.183 +/- 0.08 |
+| Water temperature | 13.9-39.7 (range only, no trial mean reported; Crop cultural bed, Table 5) |
+| NO3-N | 41.8 +/- 1.1 |
+
+**Plant**
+
+| Field | Value |
+|---|---|
+| Plant | Chicory (Cichorium intybus) |
+| Details | Referred to in-text as common/general chicory (일반 치커리) to distinguish from endive (also Cichorium, called 'chicory' generically in the English title); transplanted seedling purchased from an eco-friendly certified nursery; grown alongside 2 lettuce cultivars + endive in the same shared NFT bed per treatment. |
+| Plant Category | Leafy vegetable (paper title terminology; not explicitly categorised in-text) |
+| Days Plant after transplant | 30 |
+| SPAD (aquaponics) | 31.9 +/- 7.1 (ns vs HYD, Table 3: F=2.20, Pr>F=0.1488, only species/analyte pair without a significant AP-HYD difference) |
+| Plant height | 16.2 +/- 1.2 |
+| Leaf count | 62.0 +/- 6.2 |
+| Plant fresh weight | 28.4 +/- 4.7 |
+
+**System & Setup**
+
+| Field | Value |
+|---|---|
+| System type | NFT (nutrient film technique) |
+| Media Details | NFT channel 7.0 m (L) x 0.6 m (W) x 0.3 m (H), holds up to 70 plants total per bed shared across all 4 cultivars within a treatment; separate NFT beds for BFT-AP and conventional/hydroponic treatments, each on its own circulation loop (Fig. 1) |
+| Biological system already in use | Y (Bacillus velezensis AFB2-2 (antimicrobial / plant-growth-promoting bacterium, in-house isolate, ref. Kim et al. 2021 in-paper citation 17) and Chlorella fusca (biostimulant microalga, ref. Kim et al. 2018 in-paper citation 18), liquid-cultured and inoculated into the biological activation bed (Biofloc pond) at approx. 0.8+/-0.3x10^3 cfu/ml and 19.2+/-2.1x10^3 cfu/ml respectively at day 0; population density monitored every 15 d over 60 d (Fig. 3): C. fusca rose continuously to 6.1+/-3.3x10^3 cfu/ml by day 45; AFB2-2 dipped to below initial by day 15 then recovered to 28.5+/-9.3x10^3 cfu/ml by day 45.) |
+| Air supplement | Y (Air stones installed at fish-tank sides and bottom + oxygen generator SHD-150 (150 L/min) for the fish (BFT-AP) tank, to prevent biofloc/organic-matter settling and maintain DO; separate oxygen generator SHD-80 (80 L/min) supplying the biofloc pond, plus two bio-ball media sizes to promote aerobic nitrifying bacteria.) |
+| Climate control | Y (Glass greenhouse; mean daytime temperature approx. 30 degC, mean nighttime approx. 20 degC, relative humidity 70-85%; aluminum shading net deployed 12:00-15:00 to limit midday temperature rise; side windows opened at night to bring relative humidity down to 50-65%.) |
+| Nutrient supplemented | Y (Hydroponic (conventional) treatment only: N-based nutrient solution targeted at 100 mg/L N; macro-element concentrations NH4-N 0.42 mM, K+ 0.50 mM, Ca2+ 0.24 mM, Mg2+ 0.20 mM, NO3-N 1.32 mM, H2PO4- 0.05 mM, diluted in tap water, delivered via automatic dosing system to the NFT bed. BFT-AP (aquaponic) treatment: no nutrient solution added; plant bed fed solely by catfish-conditioned recirculating water routed fish tank -> sediment tank -> back to fish tank, with the NFT crop bed plumbed into that loop (Fig. 1).) |
+| Equipment | 0.6-ton (~600 L) cylindrical plastic fish tank (dia. 0.93 m x H 1.23 m); oxygen generator SHD-150 (150 L/min) + water heater DH-UT180 (2 kW) on fish tank; physical sediment tank 120 L (dia. 0.51 m x H 0.82 m); biofloc pond (same dims as sediment tank) with oxygen generator SHD-80 (80 L/min) and two bio-ball sizes (dia. 16 mm white, 26 mm black); NFT plant bed 7.0 x 0.6 x 0.3 m (70-plant capacity, shared across cultivars/treatments per system); recycle/sump pond for HYD/NFT loop (Fig. 1B, dims not fully legible); electronic scale MW-500 (CAS, Korea); ICP spectrophotometer Integra XL Dual (GBC Scientific, Mexico) for Ca/K/Na; SPAD chlorophyll meter CM-1000 (Spectrum Technologies) |
+| Control Parameters | Two culture-type treatments (BFT-AP vs conventional/Miyazaki-type hydroponics), 2 lettuce cultivars (cv. Cheongchima 'green', cv. Jeokchukmyeon 'red') + 2 chicory-family cultivars (endive, common chicory) planted uniformly in each treatment's shared NFT bed; catfish reared 60 d in BFT-AP tank only (single tank, 1 replicate system, individual fish pooled into 3 measurement zones per Methods, but Table 2/3 footnotes state n=4 replicates -- see Experimental Remarks); crop growth compared after stated cultivation period (30 d per Results/Table captions/Conclusion; Methods states 60 d -- see Experimental Remarks); unpaired t-test (SAS package, p<0.001, per Methods) used for AP vs conventional treatment-mean comparison; Table 2/3 footnotes separately state LSD test (p=0.001 and p=0.01 respectively) for per-species letter groupings; Fig. 3 caption states Duncan's test (95% CI) for biofloc microbial counts |
+| Combination | Far Eastern catfish (Silurus asotus) and Chicory (Cichorium intybus); BFT-aquaponics vs conventional/hydroponic N-based nutrient solution |
+
+**Site**
+
+| Field | Value |
+|---|---|
+| Region | East Asia |
+| Country | South Korea |
+| Average room Temperature | 20-30 (range: greenhouse mean daytime approx. 30 degC, mean nighttime approx. 20 degC) |
+
+**Results & Statistics**
+
+| Field | Value |
+|---|---|
+| Measured Unit | mm (height, as literally reported by the paper -- see WARN-CHECK on plausible cm mislabel); number/plant (leaf count); g/plant (fresh weight); SPAD units (chlorophyll, CM-1000 meter); ppm=ambient mg/L (water Ca/K/Na/NO3) |
+| Statistic Details | Methods (Statistical analysis) states data compiled in Microsoft Excel 2016, treatment means compared with SAS statistical package using an unpaired t-test between BFT-AP and conventional-hydroponic groups, significance level p<0.001, single replicate system per treatment with individual measurements pooled into 3 zones for descriptive mean+/-SD. Table 2 footnote separately states 'Different lowercase letters indicate significant difference according to LSD test at p=0.001' with 'mean+/-SE of four replicates' (n=4, not the 3 zones stated in Methods -- see Experimental Remarks). Table 3 footnote states LSD test at p=0.01, also 'four replicates'. Fig. 3 caption states Duncan's test at 95% confidence level for biofloc bacterial/algal counts. Three different named procedures (t-test / LSD / Duncan) and two different thresholds (0.001 / 0.01) are used across the paper without being reconciled. |
+| Statistically analysed | Y |
+| Replicates (n) | 4 |
+
+**Experimental Remarks:** TRIAL DEFINITION: T4 = BFT-AP treatment growing Chicory (Cichorium intybus), one of 4 leafy-vegetable cultivars (2 lettuce + 2 chicory-family) planted uniformly and simultaneously in the same shared NFT bed per treatment; paired control = the conventional/hydroponic (HYD) treatment on N-based nutrient solution, same cultivar, recorded in the HYD-paired notes below since Plant height/Leaf count/Plant fresh weight/SPAD have no dedicated HYD column in the schema. Only one aquaponic system (single BFT-AP tank) in this paper, generating one row per cultivar rather than per system, per CLAUDE.md's 'multiple species = separate trials' rule. WARN-BLOCK misattribution (see below) wrongly reassigns THIS species' true Table 2 fresh-weight value (28.4+/-4.7 g/plant) to Endive in Results prose (p.412); Table 2's own value used here, unaffected. \| HYD-paired values (Table 2/3, p.412, no dedicated column): height 12.0 +/- 0.9 mm, leaf count 42.6 +/- 8.7 /plant, fresh weight 21.8 +/- 1.7 g/plant, SPAD 28.6 +/- 6.9 (ns) (Hydroponics/Conventional treatment, same cultivar). \| WARN-BLOCK (misattribution, paper-wide, affects quality score): Results narrative (p.412, 'Fresh weight' subsection) states 'BFT-AP에서 재배한 청상추가 28.5+/-4.5 g/plant이었고 엔다이브가 28.4+/-4.7 g/plant으로... 각각 68.6%와 60.3%' -- i.e. it attributes the fresh weight value 28.4+/-4.7 g/plant to ENDIVE. Table 2 (p.412) unambiguously assigns 28.4+/-4.7 g/plant to CHICORY's AP fresh weight; Endive's actual AP fresh weight (Table 2) is 24.2+/-1.9 g/plant. The accompanying percentage (60.3%) is internally correct FOR ENDIVE using Endive's own real Table-2 values ((24.2-15.1)/15.1=60.3%), confirming the raw number (not the percentage) was swapped from the Chicory row -- a copy/paste error, not a percentage-calculation error. This extraction sources Plant fresh weight directly from Table 2's unambiguous per-species rows (used here), so T1(green lettuce)/T3(endive)/T4(chicory) CSV cells are NOT corrupted by this passage, but per CLAUDE.md 'misattribution is always BLOCK and always makes the paper suspect,' quality is set to suspect regardless. \| WARN-MATERIAL Plant trial duration ('Days Plant after transplant'): Methods ('Lettuce and chicory cultivation', p.410) states plant growth traits were measured '60일간 재배 후' (after 60 days of cultivation). Results body text (p.411, twice), both Table 2 and Table 3 captions (p.412, 'cultivated for 30 days'), and the Conclusion (p.416, '상추와 치커리 재배 30일 후') all consistently state 30 days. Recorded 30 days (majority + explicit table captions + conclusion); Methods' '60 days' is very likely a copy of the separate 60-day catfish-rearing duration stated two paragraphs earlier in the same Methods section, not the plant duration. \| WARN-MATERIAL Replicates (n): Statistical-analysis Methods (p.411) states the experiment ran with only 1 replicate per treatment system, with individual measurements pooled into '3개의 구역' (3 zones) to compute descriptive mean+/-SD. Table 2 and Table 3 footnotes (p.412) both instead state 'mean+/-SE of four replicates' (n=4). Recorded Replicates (n) = 4, tied directly to the +/-SE figures used in every Height/Leaf count/Fresh weight/SPAD cell in this row; the Methods '3 zones' statement is not reconcilable with the tables' stated n=4 and is recorded here as the conflicting alternative. UNRESOLVED -- added to REVIEW.md. \| WARN-CHECK Plant height unit: Table 2 column header reads 'Height (mm)' and running text repeats 'mm' consistently (e.g. p.411 '16.4+/-2.4 mm', '17.6+/-1.2 mm'); Methods (p.410) describes the underlying trait as '총엽장(total leaf length)', not an explicit plant-height measurement. Values (11.8-28.2) are far more biologically plausible as CENTIMETRES for a 30-day-old lettuce/chicory transplant than as millimetres (an implied 1.2-2.8 cm plant would be implausibly small). NOT converted (would not be a value-preserving unit conversion, only a guess at the authors' intended unit) -- recorded exactly as printed, with the paper's own stated unit noted here. UNRESOLVED -- added to REVIEW.md. \| WARN-CHECK dispersion statistic: Table 2/3 footnotes state values are 'mean+/-SE of four replicates', i.e. standard ERROR, not standard deviation, despite the schema's 'value +/- sd' cell convention. Recorded exactly as the paper reports (+/-SE); not converted to SD (would require multiplying by sqrt(4), a derivation). \| WARN-MINOR: Table 2 labels the non-aquaponic treatment 'Conventional'; Table 3 labels the same treatment 'Hydroponics'. Same treatment, inconsistent naming across tables, no cell impact (recorded as 'HYD' throughout this file). \| NOT DERIVED, left NR: Plants/m2 (NFT bed stated to hold 70 plants total across L7.0 x W0.6 m, shared by 4 cultivars x 2 treatments -- dividing would be derivation); Total Feed (kg) and Fish biomass created (kg) (initial/final total fish weights of 3,698 g and 12,626 g are both stated in Table 1, from which an 8,928 g / 8.928 kg gain could be computed later, but is not derived here); Initial Stock density in kg/m3 (paper states an AREAL density '5 kg/m2' for the ~3.7 kg of catfish, not a volumetric kg/m3 figure the schema requires; tank is 0.93 m dia x 1.23 m H / ~0.6 m3 nominal capacity, which COULD yield an approx. volumetric density if divided, but that is derivation, so left NR). \| Fish Category, Water type, Water classification, pHOptimal, FUE AP/HYD, WUE, Tissue nitrate AP/HYD, Lat/Long, AP, HYD all NR/NA -- not stated or not categorised anywhere in the paper. \| WARN-MATERIAL water quality (Aq pH, EC, Water temperature, NO3-N): Table 4 ('Comparison of water quality... in harvest time', p.412) gives a single harvest-time snapshot with an explicit MEAN+/-SE row: pH range 4.5-4.8 (mean 4.7+/-0.1), EC range 0.182-0.187 dS/m (mean 0.184+/-0.02), NO3 range 40.0-46.0 ppm (mean 42.4+/-1.9), broken down by compartment (Fishery/Sediment/Biofloc/Crop). Table 5 ('Water temperature, DO, pH, EC and redox potential...during the study period', p.414) instead gives MONTHLY (Jul-Oct 2023) min/max/mean for Fishery pond and Crop cultural bed: Fishery pond pH means 8.7(Jul)/7.0(Aug)/6.5(Sep)/6.8(Oct), overall min 5.5-max 8.9; Crop bed pH means 9.6(Jul)/7.4(Aug)/7.3(Sep)/6.9(Oct), overall min 2.3-max 9.8. Crop-bed EC means (Table 5): 0.11(Jul)/0.08(Aug)/0.11(Sep)/0.10(Oct) dS/m -- roughly half of Table 4's 0.182-0.187 dS/m range. These two tables describe the same system in an overlapping period (crop grown into the same Jul-Oct window) yet report substantially different absolute pH and EC levels (pH ~4.5-4.8 vs ~6.5-9.8; EC ~0.18 vs ~0.08-0.11 dS/m). The paper never reconciles this. Per SCHEMA.md's preference for a stated trial-mean summary table over an un-averaged time series, Table 4's MEAN+/-SE (crop-bed compartment: pH 4.7+/-0.1, EC 0.183+/-0.08, NO3 41.8+/-1.1) is recorded in Aq pH / EC / NO3-N. Table 5's monthly figures are recorded only as a range for Water temperature (no comparable summary table exists for temperature: Crop bed range 13.9-39.7 degC across Jul-Oct, 'range only, no trial mean reported') and are otherwise kept only in this remark. UNRESOLVED -- added to REVIEW.md. Downstream effect: any interpretation of this system's ambient pH/EC regime depends entirely on which table is used. WARN-CHECK NO3 vs NO3-N: Methods (Water environment analysis, p.411) states Ca, K, Na, and 'NO3-N' were measured, but Table 4's own column header reads only 'NO3 (ppm)' (no '-N' suffix), and Discussion/Conclusion prose also say 'NO3' throughout. Treated as the same measurement (NO3-N) per the Methods statement and recorded under the NO3-N column; if the table literally means nitrate ion (NO3) rather than nitrate-nitrogen, the value would need x4.43 correction, which was NOT applied (no derivation). Fish-tank rearing setpoints (Methods, 'Experimental fish and rearing environment', p.409): DO maintained 7.0+/-1.0 mg/L, pH 6.6+/-0.5, water temp 23.0+/-1.0 degC during the 60-d catfish grow-out -- these are targets/setpoints for tank management, not measured trial means, and are NOT the same scope as Table 4/5's post-hoc water-quality analyses; not treated as conflicting with Table 4/5 per the 'setpoint vs measured, not a contradiction' rule, but noted here for context. Dissolved Oxygen: no DO column exists in Table 4 at all (only pH/EC/Ca/K/Na/NO3); Table 5 gives DO only for the Fishery pond (Crop bed has no DO column in Table 5/Fig.2B either) as monthly min/max with no combined trial-mean row: Jul 9.0-13.8 (mean 11.6), Aug 8.3-13.3 (mean 10.7), Sep 4.2-12.8 (mean 9.3), Oct 4.8-12.6 (mean 9.9). Recorded as the overall Fishery-pond range across all 4 months (4.2-13.8 ppm, range only, no single trial mean reported) since no crop-bed DO figure exists to prefer per the schema's compartment-preference rule. NO COLUMN: Table 4 Ca (ppm) and Na (ppm) have no dedicated trials.csv water column (schema only has TAN/NH4-N, NO2-N, NO3-N, EC, pH, DO, temperature). Ca: range 71.8-78.0 ppm (crop bed highest, 75.8+/-2.9, mean 73.6+/-2.1); Na: range 53.0-57.0 ppm, no significant compartment difference (mean 55.3+/-1.1). K (water, ppm) also has no column distinct from the feed-composition 'K' column; water K was uniformly 10.0+/-0 ppm across all compartments with no significant difference (F-value not computable, marked '-' in Table 4). ORP (oxidation-reduction potential, mV): Fishery-pond monthly means rose steadily from 299.1 (Jul) to 479.9 (Oct) (Table 5/Fig.2A); no ORP column exists in the schema.
+
+### Plant Measurements
+
+| Trial | System | Category | Analyte | Value | Unit | Sig. | Location |
+|---|---|---|---|---|---|---|---|
+| kimComparisonWaterQuality2023-T1 | AP | biochemistry | Chlorophyll content (SPAD) | 24.5 ± 4.3 | SPAD units | a (p=0.0014 vs HYD, LSD p=0.01, F=12.58) | Table 3, p.412 |
+| kimComparisonWaterQuality2023-T1 | HYD | biochemistry | Chlorophyll content (SPAD) | 20.7 ± 3.7 | SPAD units | b (p=0.0014 vs AP, LSD p=0.01, F=12.58) | Table 3, p.412 |
+| kimComparisonWaterQuality2023-T2 | AP | biochemistry | Chlorophyll content (SPAD) | 36.5 ± 9.1 | SPAD units | a (p=0.0001 vs HYD, LSD p=0.01, F=50.07) | Table 3, p.412 |
+| kimComparisonWaterQuality2023-T2 | HYD | biochemistry | Chlorophyll content (SPAD) | 21.2 ± 5.0 | SPAD units | b (p=0.0001 vs AP, LSD p=0.01, F=50.07) | Table 3, p.412 |
+| kimComparisonWaterQuality2023-T3 | AP | biochemistry | Chlorophyll content (SPAD) | 50.5 ± 15.0 | SPAD units | a (p=0.0001 vs HYD, LSD p=0.01, F=68.54) | Table 3, p.412 |
+| kimComparisonWaterQuality2023-T3 | HYD | biochemistry | Chlorophyll content (SPAD) | 30.5 ± 8.2 | SPAD units | b (p=0.0001 vs AP, LSD p=0.01, F=68.54) | Table 3, p.412 |
+| kimComparisonWaterQuality2023-T4 | AP | biochemistry | Chlorophyll content (SPAD) | 31.9 ± 7.1 | SPAD units | ns (a) (p=0.1488 vs HYD, LSD p=0.01, F=2.20) | Table 3, p.412 |
+| kimComparisonWaterQuality2023-T4 | HYD | biochemistry | Chlorophyll content (SPAD) | 28.6 ± 6.9 | SPAD units | ns (a) (p=0.1488 vs AP, LSD p=0.01, F=2.20) | Table 3, p.412 |
+
