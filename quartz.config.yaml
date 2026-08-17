@@ -168,13 +168,14 @@ plugins:
       localGraph:
         fontSize: 0.9
         focusOnHover: true
-        opacityScale: 0
+        opacityScale: 0.01
         drag: false
       globalGraph:
         fontSize: 0.9
         focusOnHover: true
-        opacityScale: 0
+        opacityScale: 0.01
         drag: false
+        depth: 3
     layout:
       position: right
       priority: 10
