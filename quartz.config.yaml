@@ -164,6 +164,13 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      localGraph:
+        fontSize: 0.9
+        focusOnHover: true
+      globalGraph:
+        fontSize: 0.9
+        focusOnHover: true
     layout:
       position: right
       priority: 10
