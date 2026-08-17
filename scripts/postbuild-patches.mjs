@@ -72,6 +72,17 @@ function hideBasesFromListings() {
 //          used for paper/author nodes.
 //       3. `Ke` (applies the dim opacity to inactive nodes) had its dim
 //          factor dropped from .2 to .05 - "very light" per the request.
+//   - Hover was found to be unreliable on the full-screen graph specifically
+//     (large canvas, ~100+ interactive objects) while staying reliable on
+//     the small sidebar graph and while drag/click (a separate, D3-driven
+//     code path) kept working fine everywhere - consistent with PixiJS's own
+//     documented hit-testing cost scaling with object count, not anything in
+//     this config. Rather than keep depending on PixiJS's own pointerover
+//     system for hover, this drives it from the same manual, D3-based
+//     hit-test drag already uses successfully (`Je`, which finds the
+//     nearest node to a point by walking simulation positions directly) via
+//     a plain mousemove listener on the canvas - sidestepping PixiJS's
+//     event system for hover entirely rather than trying to fix it.
 function patchGraphScript() {
   const dir = "public/static/scripts"
   const patches = [
@@ -110,6 +121,17 @@ function patchGraphScript() {
       name: "very-light dim for non-highlighted nodes",
       target: "_u!==null&&Oe&&(F=l.active?1:.2)",
       replacement: "_u!==null&&Oe&&(F=l.active?1:.05)",
+    },
+    {
+      name: "D3-driven hover (replaces unreliable PixiJS pointerover)",
+      target: 'a.select(Z.canvas).call(Qe)}else for(var k=0;k<L.length;k++)',
+      replacement:
+        'a.select(Z.canvas).call(Qe).on("mousemove.hoverfix",function(i){' +
+        "if(Eu)return;" +
+        "var pt=a.pointer(i,Z.canvas),hit=Je({x:pt[0],y:pt[1]}),nid=hit?hit.id:null;" +
+        "nid!==_u&&(Wu(nid),Au())" +
+        '}).on("mouseleave.hoverfix",function(){_u!==null&&(Wu(null),Au())})' +
+        "}else for(var k=0;k<L.length;k++)",
     },
   ]
 
