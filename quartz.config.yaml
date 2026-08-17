@@ -169,10 +169,12 @@ plugins:
         fontSize: 0.9
         focusOnHover: true
         opacityScale: 0
+        drag: false
       globalGraph:
         fontSize: 0.9
         focusOnHover: true
         opacityScale: 0
+        drag: false
     layout:
       position: right
       priority: 10
