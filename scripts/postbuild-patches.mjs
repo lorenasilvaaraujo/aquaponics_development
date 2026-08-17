@@ -129,6 +129,22 @@ function patchGraphScript() {
       replacement: "_u!==null&&Oe&&(F=l.active?1:.05)",
     },
     {
+      name: "hit-test finds closest node, not first match (pre-existing plugin bug)",
+      // Je() (the hit-test drag uses, and that hover now reuses) returns the
+      // *first* node in iteration order whose hit radius contains the
+      // point, not the *closest* one. Big hub nodes (tags with many papers,
+      // e.g. "Experiment" with 76) pull lots of other nodes tightly around
+      // them in the force layout, so their large circles overlap with many
+      // smaller neighboring nodes - the scan often matches one of those
+      // instead of the big node actually under the cursor. Smaller/less-
+      // connected nodes (most papers) rarely have this overlap, which is
+      // why hover worked for them but not for the big tag hubs.
+      target:
+        "Je=function(i){for(var l=(i.x-P.x)/P.k,F=(i.y-P.y)/P.k,A=0;A<nu.length;A++){var v=nu[A],j=l-v.x-R/2,N=F-v.y-O/2,K=Math.sqrt(j*j+N*N),gu=ae(v);if(K<gu+5)return v}return null}",
+      replacement:
+        "Je=function(i){for(var l=(i.x-P.x)/P.k,F=(i.y-P.y)/P.k,best=null,bd=1/0,A=0;A<nu.length;A++){var v=nu[A],j=l-v.x-R/2,N=F-v.y-O/2,K=Math.sqrt(j*j+N*N),gu=ae(v);K<gu+5&&K<bd&&(best=v,bd=K)}return best}",
+    },
+    {
       name: "reset label alpha when hover ends (pre-existing plugin bug)",
       // qe() sets a hovered label's alpha to 1, but its "not hovered" branch
       // only ever reset the label's *scale*, never its *alpha* back down -
