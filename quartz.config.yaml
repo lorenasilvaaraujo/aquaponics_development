@@ -173,7 +173,6 @@ plugins:
         fontSize: 0.9
         focusOnHover: true
         opacityScale: 0.01
-        depth: 3
     layout:
       position: right
       priority: 10
