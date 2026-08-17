@@ -83,6 +83,12 @@ function hideBasesFromListings() {
 //     nearest node to a point by walking simulation positions directly) via
 //     a plain mousemove listener on the canvas - sidestepping PixiJS's
 //     event system for hover entirely rather than trying to fix it.
+//   - With hover actually firing reliably, a latent bug in the plugin's own
+//     `qe()` (label alpha/scale updates) became visible: it sets a hovered
+//     label's alpha to 1 but never resets it back down, so labels got stuck
+//     visible after hovering. Fixed to restore each label's proper resting
+//     state (matching the "always-on for multi-paper tags" patch above)
+//     whenever it isn't the currently-hovered node.
 function patchGraphScript() {
   const dir = "public/static/scripts"
   const patches = [
@@ -121,6 +127,18 @@ function patchGraphScript() {
       name: "very-light dim for non-highlighted nodes",
       target: "_u!==null&&Oe&&(F=l.active?1:.2)",
       replacement: "_u!==null&&Oe&&(F=l.active?1:.05)",
+    },
+    {
+      name: "reset label alpha when hover ends (pre-existing plugin bug)",
+      // qe() sets a hovered label's alpha to 1, but its "not hovered" branch
+      // only ever reset the label's *scale*, never its *alpha* back down -
+      // so once any label had been hovered, it stayed visible forever. This
+      // bug predates all these patches; it just never surfaced before
+      // because hover rarely fired at all through PixiJS's own system.
+      target:
+        "_u===A.simulationData.id?(A.label.alpha=1,A.label.scale.set(l)):A.label.scale.set(i)",
+      replacement:
+        '_u===A.simulationData.id?(A.label.alpha=1,A.label.scale.set(l)):(A.label.scale.set(i),A.label.alpha=A.simulationData.id.startsWith("tags/")&&ae(A.simulationData)>3?1:0)',
     },
     {
       name: "D3-driven hover (replaces unreliable PixiJS pointerover)",
