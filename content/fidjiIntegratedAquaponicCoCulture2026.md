@@ -7,11 +7,11 @@ doi: "10.1002/fsn3.71333"
 url: "https://doi.org/10.1002/fsn3.71333"
 trials: 5
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Africa
-  - Meta/Fish/Tilapia
-  - Meta/Fish/African-catfish
-  - Meta/Plant/Eggplant
+  - Type/Experiment
+  - Region/Africa
+  - Fish/Tilapia
+  - Fish/African-catfish
+  - Plant/Eggplant
 status: unread
 quality: suspect
 ---
@@ -91,13 +91,6 @@ Five identical replicate-backed coupled aquaponic units (one per treatment; "ten
 **This paper:** DO, pH, water temperature, EC, TAN/ammonium, nitrite, and nitrate were all reported as trial means (with SD) separately for the hydroponic ("HP") and aquaponic/fish-tank ("AP") compartments of each treatment's coupled system (Table 9), rather than as a single system-wide mean. Values were described by the authors as within optimal/acceptable ranges for both fish species throughout. A PCA (Figure 5) found ammonia, nitrite, and temperature had the strongest positive association with fish growth, and EC a negative one, in the two principal components explaining ~74% of variance.
 
 **Compared with:** (no external water-quality benchmarks cited by name in this section beyond the general FAO/WHO/aquaculture-suitability ranges already noted in Extraction notes)
-
-## Linked claims
-
-- [[Fish co-culture ratio does not affect Nile tilapia growth or survival in aquaponics]]
-- [[African catfish growth declines with lower stocking proportion in co-culture]]
-- [[Heavy metals in aquaponic fish flesh can remain below safety thresholds across a range of co-culture ratios]]
-- [[Aquaponic eggplant yield is insensitive to fish co-culture ratio when total biomass is held constant]]
 
 ## Citations to chase
 

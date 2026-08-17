@@ -7,8 +7,8 @@ doi: "10.1007/s10668-024-05254-5"
 url: "https://doi.org/10.1007/s10668-024-05254-5"
 trials: 0
 tags:
-  - Meta/Type/Review
-  - Meta/Region/
+  - Type/Review
+  - Region/
 status: unread
 quality:
 ---

@@ -7,9 +7,9 @@ doi: "10.1016/j.scienta.2020.109733"
 url: "https://doi.org/10.1016/j.scienta.2020.109733"
 trials: 6
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/Europe
+  - Plant/Basil
 status: read
 quality: ok
 ---
@@ -80,12 +80,6 @@ Genovese basil was sown directly into 250 mL pots of peat-based substrate and gr
 - #todo Woitke & Schitzler (2005) — PGPR benefits depend on treatment timing, inoculum dose, and environmental conditions; cited to explain the absence of a growth effect here. *(p.5)*
 - #todo Bhattacharyya & Jha (2012) — PGPR isolates typically increase height, root length and dry matter in potato/tomato/maize/wheat, contrasted with this paper's null growth result. *(p.5)*
 - #todo Burger & Jackson (2003) — microbial nitrate immobilization is greater under organic than conventional cropping systems, cited to support the PGPR/nitrate mechanism hypothesis. *(p.5-6)*
-
-## Linked claims
-
-- [[PGPR inoculation can reduce leaf nitrate content without improving basil growth or yield]]
-- [[Replacing mineral fertilizer with organic fertilizer in a soilless nutrient solution reduces basil growth and yield while also reducing leaf nitrate content]]
-- [[Organic fertilizer nitrogen availability lags mineral fertilizer under cool greenhouse temperatures, limiting plant growth]]
 
 ## Citations to chase
 

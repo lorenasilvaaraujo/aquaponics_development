@@ -7,10 +7,10 @@ doi: "10.1371/journal.pone.0183056"
 url: "https://doi.org/10.1371/journal.pone.0183056"
 trials: 2
 tags:
-  - Meta/Type/Exploratory
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Tomato
+  - Type/Exploratory
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Tomato
 status: unread
 quality: caution
 ---
@@ -82,11 +82,6 @@ The authors ran three parallel, single-unit recirculating systems for 154 days a
 - #todo [[Rakocy, Masser and Losordo 2006]] -- integrating fish and plant culture (SRAC), cited for the general aquaponic pH-compromise problem (~pH 7 commonly reported) that motivates the coupled-vs-decoupled comparison (p.2)
 - #todo [[Lattauschke 2004]] -- greenhouse tomato cultivation management guide, source of the >140 mg/L NO3-N and P/K minimum nutrient requirement thresholds cited against this paper's own measured concentrations (p.13-14)
 - #todo [[Monsees et al. 2017]] (Aquacult Environ Interact, ref. 30; a companion paper by an overlapping author subset, not the paper under review here) -- potential of aquacultural sludge treatment for aquaponics, cited regarding P/K recycling from fish sludge as an alternative to fertilizer supplementation (p.13)
-
-## Linked claims
-
-- [[Decoupled aquaponics systems outperform single-loop coupled systems]]
-- [[Decoupled aquaponics allows independent optimization of fish and plant pH]]
 
 ## Citations to chase
 

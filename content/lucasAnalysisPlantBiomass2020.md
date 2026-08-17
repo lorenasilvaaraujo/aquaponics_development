@@ -7,9 +7,9 @@ doi: ""
 url: ""
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/North-America
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -53,10 +53,6 @@ Not extractable. The Table of Contents lists Chapter 2 sections "2.1 Experimenta
 
 ## Results (as available)
 Not extractable. The Table of Contents lists Chapter 3 "3.1 Environmental and Water Conditions" (p.15), "3.2 Lettuce Biomass Production" (p.16), and "3.3 Root Growth Response" (p.18), plus Table 1 (environmental growth conditions, Trial 1 and Trial 2) and Table 2 (lettuce fresh mass, dry mass, and root length, Trial 1 and Trial 2, as Mean ± SD), and Figures 1–6 (system schematics, photos, root-length box plot, a linear regression of fresh mass vs. root length, and root-condition photos). None of this content is present in the PDF.
-
-## Linked claims
-- [[Decoupled aquaponics separates fish and plant water loops]]
-- [[Aquaponic environments can outperform hydroponics for plant growth]]
 
 ## Citations to chase
 - [ ] #todo Godfray et al. 2010 — cited (p.1) on food security/sustainable production drivers; check if already in vault.

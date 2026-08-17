@@ -7,10 +7,10 @@ doi: "10.17660/ActaHortic.2020.1296.14"
 url: "https://doi.org/10.17660/ActaHortic.2020.1296.14"
 trials: 3
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/NorthAmerica
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Tomato
+  - Type/Experiment
+  - Region/NorthAmerica
+  - Fish/Tilapia
+  - Plant/Tomato
 status: unread
 quality: ok
 ---
@@ -78,12 +78,6 @@ Researchers at Universidad Autónoma Chapingo (Mexico) grew tomato under a hydro
 **This paper:** The only fish-related finding stated is qualitative: "Nutrient complementation to the aquaponic system did not decrease the weight, length and width of the fishes" (Results and Conclusions, verbatim, repeated near-identically in both sections). No fish species, stocking density, initial/final measurements, feed regime, or any numeric value is given anywhere in this document to support or quantify this claim.
 
 **Compared with:** (no external literature comparison given for the fish-performance finding)
-
-## Linked claims
-
-- [[Aquaponic tomato yield can match hydroponic yield even without nutrient complementation]]
-- [[Complementing aquaponic nutrient solution with macronutrients increases leaf and fruit tissue nutrient concentration]]
-- [[Nutrient complementation of aquaponic water does not impair fish growth]]
 
 ## Citations to chase
 

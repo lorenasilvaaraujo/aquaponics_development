@@ -7,10 +7,10 @@ doi: "10.1016/j.desal.2017.11.024"
 url: "https://doi.org/10.1016/j.desal.2017.11.024"
 trials: 0
 tags:
-  - Meta/Type/Modelling
-  - Meta/Region/Africa
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
+  - Type/Modelling
+  - Region/Africa
+  - Fish/Tilapia
+  - Plant/Lettuce
 status: unread
 ---
 
@@ -77,11 +77,6 @@ The authors extend an existing AnyLogic system-dynamics model of a decoupled thr
 - Tilamur/INAPRO (Lorquí, Murcia, Spain) — research; Nile tilapia; tomato; RAS 45 m3, HP 400 m2 / 3 m3; 2 loops; RAS discharge 7%/day; secondary clarifier mineralization; HP fertilization 60%.
 - IGB Berlin/ASTAF-PRO (Germany) — research; Nile tilapia; tomato; RAS 16.5 m3, HP 6.5 m2 / 0.6 m3; 2 loops; RAS discharge 2.8%/day; HP fertilization 38.1% (for lettuce, as stated in the table despite tomato being listed as the plant species — [unclear], possibly a table transcription inconsistency in the source paper itself, not corrected here).
 - Inagro vzw (Rumbeke-Beitem, Belgium) — research; pike perch; tomato; RAS 160 m3, HP 340 m2 (HP volume n/a); 3 loops (RAS, HP, sludge-to-biogas); RAS discharge 16%/day; HP discharge zero (footnoted as dependent on tomato life stage/weather since RAS and greenhouse were not co-designed); mineralization via biogas; HP fertilization n/a.
-
-## Linked claims
-- [[Decoupled aquaponics requires nutrient/water trade-offs between RAS and hydroponic loops]]
-- [[Desalination technology can rebalance nutrient concentrations between RAS and hydroponic loops]]
-- [[High NH4 concentrations preferred by hydroponics are lethal to fish]]
 
 ## Citations to chase
 - [ ] #todo Goddek et al. (2016) — Navigating towards decoupled aquaponic systems: a system dynamics design approach, Water 8:303. Source of the base model and RAS/lettuce parameters used in this paper; check vault for existing note before creating a new one (six Goddek papers being processed in this vault batch).

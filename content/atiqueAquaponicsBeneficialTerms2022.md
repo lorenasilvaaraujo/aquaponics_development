@@ -7,10 +7,10 @@ doi: "10.3390/w14091447"
 url: "https://doi.org/10.3390/w14091447"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/RainbowTrout
-  - Meta/Plant/Spinach
+  - Type/Experiment
+  - Region/Europe
+  - Fish/RainbowTrout
+  - Plant/Spinach
 status: unread
 quality: suspect
 ---
@@ -94,13 +94,6 @@ The authors ran a 42-day, fully replicated (n=3 per arm) side-by-side comparison
 - #todo [[Howgate 2004]] — review cited for GSM/MIB uptake kinetics and sensory detection thresholds (700–900 ng/kg) used throughout the Discussion. *(p. 13)*
 - #todo [[Maher and Goldman 2017]] — reported much higher GSM concentrations in beet (43,000–17,300 ng/kg) than found in this study's spinach. *(p. 14)* *[secondary, cites original beet-breeding study]*
 - #todo [[Suurnäkki et al. 2020]] and [[Burr et al. 2012]] — cited as typical RAS GSM/MIB water-concentration ranges (5–25 ng/L GSM, 50–130 ng/L MIB), broadly consistent with this study's own measured range (2–8 ng/L GSM, 13–36 ng/L MIB). *(p. 13)*
-
-## Linked claims
-
-- [[Aquaponic fish can outgrow RAS-only fish under matched feed intake]]
-- [[Plants in a coupled aquaponic loop speed up biofilter nitrification onset relative to fish-only RAS]]
-- [[Off-flavor compounds (GSM, MIB) can accumulate in edible plant tissue in a coupled aquaponic system]]
-- [[Spinach grows equivalently in aquaponics and hydroponics despite different nutrient sources]]
 
 ## Citations to chase
 

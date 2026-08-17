@@ -7,9 +7,9 @@ doi: "10.3390/agronomy10091414"
 url: "https://doi.org/10.3390/agronomy10091414"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/NorthAmerica
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/NorthAmerica
+  - Plant/Basil
 status: unread
 quality: ok
 ---

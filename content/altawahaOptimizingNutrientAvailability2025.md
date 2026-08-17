@@ -7,8 +7,8 @@ doi: "10.3390/nitrogen6010003"
 url: "https://doi.org/10.3390/nitrogen6010003"
 trials: 0
 tags:
-  - Meta/Type/Narrative-Review
-  - Meta/Region/Global
+  - Type/Narrative-Review
+  - Region/Global
 status: unread
 ---
 
@@ -98,12 +98,6 @@ This mini-review makes the conceptual case for decoupled recirculating aquaponic
 
 **Compared with:**
 - #todo [[Li Zhu Takagaki Yamori Yang 2015]] — RZT effect on hydroponically grown lettuce growth and mineral content, the review's primary RZT evidence *(p.12-13, ref 133)*
-
-## Linked claims
-
-- [[Decoupled aquaponics systems outperform single-loop coupled systems]]
-- [[Urea can supplement nitrate as an aquaponic nitrogen source]]
-- [[Iron is the most limiting micronutrient in aquaponic systems]]
 
 ## Citations to chase
 

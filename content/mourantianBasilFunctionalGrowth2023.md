@@ -7,10 +7,10 @@ doi: "10.7717/peerj.15664"
 url: "https://doi.org/10.7717/peerj.15664"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Basil
 status: unread
 quality: ok
 ---
@@ -84,13 +84,6 @@ The authors compared basil (cv. Genovese) grown in a pilot-scale greenhouse unde
 - #todo [[Tsoumalakou et al. 2023b]] -- spinach, CAP-like system, Fe deficiency linked to chlorosis from day 10, same mechanism argued here for basil
 - #todo [[Samborska-Skutnik et al. 2020]] -- radish, Fe deficiency disrupted light absorption and QA activity, cited to support the CAP PSII-down-regulation mechanism (p.19)
 - #todo [[Kalaji et al. 2018]] -- rapeseed, nutrient deficiency reduces PSII energy-capture and electron-transport quantum yield, cited as corroborating mechanism (p.19)
-
-## Linked claims
-
-- [[Coupled aquaponics reduces leaf nutrient sufficiency compared with hydroponics]]
-- [[Decoupled aquaponics matches hydroponic growth and nutrient status while using less fertilizer]]
-- [[Nutrient deficiency down-regulates PSII photochemistry in aquaponics-grown plants]]
-- [[Nutrient-limited plants shift biomass allocation toward roots]]
 
 ## Citations to chase
 

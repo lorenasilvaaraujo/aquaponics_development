@@ -7,13 +7,13 @@ doi: "no DOI found"
 url: "NR"
 trials: 0
 tags:
-  - Meta/Type/Case-Study
-  - Meta/Region/Caribbean
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Tomato
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Pak-Choi
-  - Meta/Plant/Chinese-Cabbage
+  - Type/Case-Study
+  - Region/Caribbean
+  - Fish/Tilapia
+  - Plant/Tomato
+  - Plant/Lettuce
+  - Plant/Pak-Choi
+  - Plant/Chinese-Cabbage
 status: unread
 quality:
 ---
@@ -116,13 +116,6 @@ This is a technical/design paper describing the raft-based (floating hydroponics
 
 **Compared with:**
 - #todo [[Bailey, Rakocy, Cole and Shultz 1994]] — the economic analysis this paper's profit-potential claim is based on; not this paper's own cost/revenue data *(p.107)*. *[secondary]*
-
-## Linked claims
-
-- [[Aquaponic systems recover fish-feed nutrients that would otherwise be discharged as waste]]
-- [[Raft hydroponics can substitute for a dedicated biofilter at an optimum plant-to-fish ratio]]
-- [[Continuous stock-splitting maintains a stable feeding rate in recirculating aquaculture]]
-- [[Aquaponic system water rarely reaches commercial hydroponic nutrient concentrations without substantial feed input]]
 
 ## Citations to chase
 

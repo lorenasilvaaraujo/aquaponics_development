@@ -7,9 +7,9 @@ doi: "10.1007/s10499-018-0293-8"
 url: "https://doi.org/10.1007/s10499-018-0293-8"
 trials: 1
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Region/Europe
-  - Meta/Plant/Lettuce
+  - Type/Quasi-experiment
+  - Region/Europe
+  - Plant/Lettuce
 status: unread
 quality: caution
 ---
@@ -72,11 +72,6 @@ The authors compared lettuce (cv. Cosmopolia, butterhead type) grown in two para
 - #todo [[Suhl et al. 2016]] — Advanced aquaponics: intensive tomato production in aquaponics vs conventional hydroponics (Agric Water Manag 178:335-344); cited as a contrasting case that found no significant production advantage for aquaponics (tomato).
 - #todo [[Kloas et al. 2015]] — new concept for aquaponic systems (Aquac Environ Interact 7:179-192), cited as foundational work motivating decoupled multi-loop system design.
 - #todo [[Goddek et al. 2016]] — Navigating towards decoupled aquaponic systems (Water 8:303), cited alongside Kloas et al. 2015 for the decoupled multi-loop rationale.
-
-## Linked claims
-- [[RAS-derived water can enhance hydroponic lettuce growth despite elevated sodium]]
-- [[Sodium accumulation in RAS-supplemented hydroponic systems can be lower than expected]]
-- [[Decoupled aquaponic systems allow independent nutrient optimisation for fish and plants]]
 
 ## Citations to chase
 - [ ] #todo Sonneveld C, Voogt W (2009) — Plant nutrition in future greenhouse production (in: Plant Nutrition of Greenhouse Crops), source of the 0.5-0.8 mmol/L Na+ uptake benchmark under high-sodium conditions.

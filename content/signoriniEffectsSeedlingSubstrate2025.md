@@ -7,10 +7,10 @@ doi: "10.3390/plants14131929"
 url: "https://doi.org/10.3390/plants14131929"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Basil
 status: unread
 quality: ok
 ---
@@ -100,14 +100,6 @@ This paper reports two sequential experiments at the University of Naples Federi
 - #todo [[Eck et al. 2021]] — root microbiome composition of lettuces of varying age in aquaponics; cited (with Kasozi) for the nitrifying-bacteria/nutrient-solubility mechanism. *(p.11)*
 - #todo [[Kasozi et al. 2021]] — review of the complex aquaponic microbiome and bacterial ecosystem significance; cited alongside Eck. *(p.11)*
 - #todo [[Tuckeldoe et al. 2023]] — effect of coconut coir substrate on yield/nutritional quality of sweet pepper; cited for coconut fiber's high CEC enhancing nutrient availability. *(p.11)*
-
-## Linked claims
-
-- [[Decoupled aquaponics achieves comparable leaf yield to hydroponics in lemon basil]]
-- [[Aquaponic cultivation increases flavonoid content relative to hydroponics]]
-- [[Aquaponic cultivation increases stem and root calcium and magnesium uptake relative to hydroponics]]
-- [[Coconut fiber-perlite substrate is a viable rock wool alternative for seedling germination]]
-- [[Mild salinity/osmotic stress in aquaponic solution may drive elevated flavonoid content]]
 
 ## Citations to chase
 

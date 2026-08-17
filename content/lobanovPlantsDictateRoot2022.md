@@ -7,10 +7,10 @@ doi: "10.3389/fmicb.2022.848057"
 url: "https://doi.org/10.3389/fmicb.2022.848057"
 trials: 3
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -73,12 +73,6 @@ The authors ran a decoupled aquaponic/hydroponic system at Wageningen UR (Bleisw
 No numeric relative-abundance, diversity-index, or OTU-count values are stated in running text or tables anywhere in the paper — all compositional results are conveyed exclusively through cluster dendrograms (Figure 2, Supplementary Figs. 1-2), a dissimilarity heatmap (Figure 3), PCA biplots (Figure 4), and co-occurrence network diagrams (Figure 5, Supplementary Figs. 3-4). Per the vault's "never read a value off a figure" rule this means the paper contributes **zero rows to plant.csv** (see Extraction notes).
 
 Qualitative findings (p. 4-9): a core microbiome was noted as present in "9-10 out of 28 treatments" (p.4, this is a count of treatments sharing OTUs, not an abundance value); aquaculture-impacted (BF) and probiotic-supplemented treatments were each more internally similar than to other groups; soil-inoculated treatments did not cluster consistently; probiotic treatments were the least internally consistent group; the facility water supply (WS) was described as relatively enriched in several phyla (Bacillariophyta, Chlamydiae, Aquificae, Candidatus Saccharibacteria) compared to RAS/BF, and RAS/BF were enriched in Fusobacteria, Nitrospirae, and Lentisphaerae (p.9) — again, no percentages or counts given.
-
-## Linked claims
-
-- [[Plants exert stronger control over rhizosphere composition than upstream water source in soil-less systems]]
-- [[Sterilization of aquaponic/hydroponic source water does not measurably change root microbial community composition]]
-- [[Probiotic addition perturbs root microbial community consistency more than source water or sterilization]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.3390/agriengineering3010006"
 url: "https://doi.org/10.3390/agriengineering3010006"
 trials: 3
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/African-Catfish
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/Europe
+  - Fish/African-Catfish
+  - Plant/Basil
 status: unread
 quality: ok
 ---
@@ -85,12 +85,6 @@ The authors ran a 36-day decoupled aquaponics trial at the FishGlassHouse (Unive
 - #todo [[Rakocy, Masser & Losordo 2006]] -- cited for a typical aquaponic EC range of 300-600 uS/cm, much lower than this study's 2155.9 uS/cm mean. *(p.102)*
 - #todo [[Bittsanszky, Uzinger, Gyulai, Mathis, Junge, Villarroel, Kotzen & Komives 2016]] -- aquaponic nutrient-solution phosphate/potassium levels, cited as the aquaponic-specific (vs. hydroponic) comparison basis for this study's low P/K. *(p.102-103)*
 - #todo [[Lopez-Millan, Grusak, Abadia & Abadia 2013]] -- review of iron deficiency in plants, cited to support the interpretation that this study's ~1%-of-optimal Fe concentration drove the observed leaf chlorosis/necrosis. *(p.103)*
-
-## Linked claims
-
-- [[Dynamic root floating technique maintains root activity and biomass production better than raft or grow pipes at high water temperature]]
-- [[Decoupled aquaponic effluent without fertilizer supplementation is phosphorus-, potassium- and iron-deficient relative to standard hydroponic basil nutrient targets]]
-- [[Reduced fish feeding rate can stabilize aquaponic water chemistry at the cost of fish growth performance]]
 
 ## Citations to chase
 

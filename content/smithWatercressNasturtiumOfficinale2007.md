@@ -7,10 +7,10 @@ doi: "10.33915/etd.4336"
 url: "https://doi.org/10.33915/etd.4336"
 trials: 4
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Brook-Trout
-  - Meta/Plant/Watercress
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Brook-Trout
+  - Plant/Watercress
 status: unread
 quality: ok
 ---
@@ -103,14 +103,6 @@ Smith grew watercress (Nasturtium officinale) on floating PVC/poultry-netting ra
 **Compared with:**
 - #todo [[Shear 1968]] -- commercial watercress yields of ~2550 bunches per 93 m2 per cutting; the author's theoretical per-cutting yield (3000 bunches/93 m2 equivalent) is higher on a bunch-count basis (p.73-74)
 - #todo [[The Growing Edge 2002]] -- hydroponic watercress yields of 1.5-2.0 kg/m2/month reported in summer from protected systems; the author's theoretical mass-based yield (0.20-0.38 kg/m2/month) is lower, a conflicting picture the author attributes to bunch-count vs. mass-per-area being different yield metrics (p.74)
-
-## Linked claims
-
-- [[Watercress growth in flow-through aquaculture effluent increases with water velocity]]
-- [[Growing medium permeability affects root access to aquaponic effluent nutrients]]
-- [[Watercress grown in dilute flow-through aquaculture effluent does not differ from watercress grown in unfertilized water]]
-- [[Light intensity limits aquaponic crop growth more than effluent nutrient concentration in unheated greenhouse production]]
-- [[Hydroponic nutrient solution outperforms flow-through aquaculture effluent for watercress growth under matched light]]
 
 ## Citations to chase
 

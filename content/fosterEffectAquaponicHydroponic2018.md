@@ -7,10 +7,10 @@ doi: "10.15368/theses.2018.128"
 url: "https://digitalcommons.calpoly.edu/theses/1948"
 trials: 9
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Kale
+  - Type/Experiment
+  - Region/North-America
+  - Plant/Lettuce
+  - Plant/Kale
 status: unread
 quality: ok
 ---
@@ -77,13 +77,6 @@ Foster built a single four-tier NFT vertical-farm system at Cal Poly: the top th
 
 **Compared with:**
 - #todo [[Author Year]] — finding (unit). *(p. X)*
-
-## Linked claims
-
-- [[Aquaponics can match hydroponic yield for some plant species but not others]]
-- [[Fish stocking density unmatched to plant load causes aquaponic EC drift]]
-- [[LED photoperiod cycling can cause stem etiolation in lettuce]]
-- [[Nutrient supply in aquaponic solution does not scale proportionally to plant tissue uptake]]
 
 ## Citations to chase
 

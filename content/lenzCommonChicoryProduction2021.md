@@ -7,10 +7,10 @@ doi: "10.1016/j.scienta.2021.109946"
 url: "https://doi.org/10.1016/j.scienta.2021.109946"
 trials: 4
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-America
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Chicory
+  - Type/Experiment
+  - Region/South-America
+  - Fish/Tilapia
+  - Plant/Chicory
 status: read
 quality: ok
 ---
@@ -89,12 +89,6 @@ The authors ran two linked but structurally separate experiments in Santa Catari
 - #todo [[Yeo et al. 2004]] — RAS sludge conditions soil and releases nutrients slowly; this paper's results explicitly said to corroborate that. *(p.10)*
 - #todo [[Cerozi and Fitzsimmons 2017]] — modeled 13.1% of aquaponic P as unavailable, sequestered in solids/sludge; used to explain this study's low dissolved-P efficiency. *(p.8)*
 - #todo [[de Almeida et al. 2013]] — chicory (almeirão) leaf P under complete Hoagland solution (6.70 g kg⁻¹) vs P-omitted solution (2.00 g kg⁻¹), used as an external benchmark for this paper's leaf P values (1.73–2.25 g kg⁻¹). *(p.8)*
-
-## Linked claims
-
-- [[Aquaponic sludge is a viable soil fertilizer, not just waste]]
-- [[Substrate hydroponic media can reverse a floating-raft yield advantage across cultivation cycles due to organic matter accumulation]]
-- [[Floating raft systems give faster nutrient uptake than gravel/substrate systems in aquaponics]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.1590/1807-1929/agriambi.v27n9p746-754"
 url: "https://doi.org/10.1590/1807-1929/agriambi.v27n9p746-754"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-America
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/South-America
+  - Fish/Tilapia
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -80,12 +80,6 @@ The authors grew iceberg lettuce (cv. Lucy Brown) in NFT (nutrient film techniqu
 
 **Compared with:**
 - #todo [[Gualberto et al. 1999]] — original HS nutrient recipe (NPK+8 nutrients, Forth Hortaliças) used as the hydroponic control formulation in this study *(p.747)*.
-
-## Linked claims
-
-- [[Channel slope affects nutrient film technique lettuce production independently of nutrient source]]
-- [[Aquaponic wastewater from a higher-protein fish diet increases nitrogen and phosphorus accumulation in lettuce shoot tissue]]
-- [[Potassium accumulation in lettuce shoot is not affected by aquaponic vs hydroponic nutrient source]]
 
 ## Citations to chase
 

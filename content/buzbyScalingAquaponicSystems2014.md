@@ -7,11 +7,11 @@ doi: "10.1016/j.aquaeng.2014.09.002"
 url: "https://doi.org/10.1016/j.aquaeng.2014.09.002"
 trials: 5
 tags:
-  - Meta/Type/Exploratory
-  - Meta/Region/North-America
-  - Meta/Fish/Trout
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Nasturtium
+  - Type/Exploratory
+  - Region/North-America
+  - Fish/Trout
+  - Plant/Lettuce
+  - Plant/Nasturtium
 status: read
 quality: ok
 ---
@@ -82,13 +82,6 @@ Buzby and Lin developed a rapid batch method for measuring nutrient removal by a
 **Compared with:**
 - #todo [[Clarkson 1985]] — nutrient uptake regulated by growth rate and nutrient demand, cited to interpret the high early-stage phosphate removal. *(p.42)*
 - #todo [[Adler et al. 2003]] — proposes a "conveyor" cropping system (staggered cohorts by age along the channel) as a way to keep nutrient removal more consistent over time than a single-age batch planting; cited as a design implication of this paper's age-effect finding. *(p.42)*
-
-## Linked claims
-
-- [[Nasturtium removes both TAN and nitrate from aquaponic effluent while lettuce removes only TAN]]
-- [[Younger plants remove phosphate faster per unit biomass than older plants in aquaponic systems]]
-- [[Low water temperature and low dissolved inorganic nitrogen concentration favor ammonium over nitrate uptake in aquaponic lettuce]]
-- [[Isolating the plant component from the fish component allows rapid measurement of aquaponic nutrient removal rates]]
 
 ## Citations to chase
 

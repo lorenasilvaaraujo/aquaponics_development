@@ -7,10 +7,10 @@ doi: "NR"
 url: "https://scholarworks.uaeu.ac.ae/bio_theses/15"
 trials: 3
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Middle-East
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Tomato
+  - Type/Experiment
+  - Region/Middle-East
+  - Fish/Tilapia
+  - Plant/Tomato
 status: unread
 quality: suspect
 ---
@@ -70,12 +70,6 @@ Total tomato yield over the harvest period was significantly higher in the 120 f
 ## Resource consumption
 
 Water and electricity consumption did not differ significantly between densities (Table 13); feed consumption was significantly higher in the two higher-density units. Per-unit-input efficiency ratios (kg fish/tomato per kWh, per m³ water, per kg feed — Table 14) favoured 140 fish/m³ for fish output and 120 fish/m³ for tomato output; no dedicated efficiency-ratio column exists in this schema (routed to Experimental Remarks).
-
-## Linked claims
-
-- [[Stocking density affects tilapia growth and feed conversion in aquaponics]]
-- [[Aquaponic stocking density does not affect harvested-plant proximate or mineral composition]]
-- [[Aquaponics balances fish and plant output at an intermediate stocking density]]
 
 ## Citations to chase
 

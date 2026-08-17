@@ -8,10 +8,10 @@ url: "https://doi.org/10.20546/ijcmas.2017.604.124"
 trials: 1
 quality: ok
 tags:
-  - Meta/Type/Exploratory
-  - Meta/Region/South-Asia
-  - Meta/Fish/Guppy
-  - Meta/Plant/Spinach
+  - Type/Exploratory
+  - Region/South-Asia
+  - Fish/Guppy
+  - Plant/Spinach
 status: unread
 ---
 
@@ -68,12 +68,6 @@ Ranawade, Tidke and Kate built a low-cost, DIY aquaponic and hydroponic rig from
 **This paper:** Protein (Folin-Lowry method) and carbohydrate (Anthrone method) content were both marginally higher in aquaponic spinach (2.9%, 3.9%) than hydroponic (2.7%, 3.8%) and traditional (2.6%, 3.8%), which the authors attribute generically to the aquaponic nutrient source without further mechanistic explanation. Total chlorophyll (Arnon method, spectrophotometric) showed the opposite pattern -- highest in traditionally grown spinach (0.07%) and equal in aquaponic/hydroponic spinach (0.06% each). No basis (fresh vs dry weight) is stated for any of the three percentages, and no statistical test was applied to any comparison.
 
 **Compared with:** (no external literature comparison given for the biochemical results specifically)
-
-## Linked claims
-
-- [[Aquaponic yield can exceed traditional soil-based yield for leafy greens]]
-- [[Aquaponic and hydroponic systems can shorten germination time relative to soil cultivation]]
-- [[Growing medium and nutrient source are difficult to disentangle in low-cost DIY aquaponic comparisons]]
 
 ## Citations to chase
 

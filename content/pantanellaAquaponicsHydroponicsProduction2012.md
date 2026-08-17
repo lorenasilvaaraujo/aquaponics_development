@@ -7,10 +7,10 @@ doi: "10.17660/ActaHortic.2012.927.109"
 url: "https://doi.org/10.17660/ActaHortic.2012.927.109"
 trials: 4
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -86,13 +86,6 @@ The authors ran two sequential 4-week (nominally) summer crop cycles of romaine 
 **This paper:** SPAD readings were significantly different among all three treatments at most timepoints (p<0.001), generally following HYD > AP-HD > AP-LD at the 2-week mid-cycle reading in both crops, but converging or reversing by harvest: at crop-1 harvest AP-HD and HYD were statistically equal (34.1, 34.7) and both above AP-LD (28.8); at crop-2 harvest AP-HD was highest (34.0) and AP-LD and HYD were statistically equal (30.9, 30.2). The paper does not discuss the crop-2 harvest reversal (HYD dropping to match the lowest aquaponic treatment) explicitly.
 
 **Compared with:** (no external literature comparison given for chlorophyll/SPAD specifically)
-
-## Linked claims
-
-- [[Aquaponic and hydroponic lettuce yields converge once aquaponic dissolved nitrogen exceeds a threshold concentration]]
-- [[Aquaponic lettuce tissue nitrate is not higher than hydroponic lettuce]]
-- [[pH-buffering reagent choice, not aquaponics per se, drives aquaponic-vs-hydroponic leaf mineral differences]]
-- [[Higher fish stocking density raises aquaponic water nutrient concentrations and narrows the yield gap with hydroponics]]
 
 ## Citations to chase
 

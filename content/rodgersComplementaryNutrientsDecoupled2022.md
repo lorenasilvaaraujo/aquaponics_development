@@ -7,10 +7,10 @@ doi: "10.3390/horticulturae8020111"
 url: "https://doi.org/10.3390/horticulturae8020111"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Koi
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Koi
+  - Plant/Basil
 status: unread
 quality: ok
 ---
@@ -81,12 +81,6 @@ The authors grew Genovese basil in 4 L mini deep-water-culture buckets under thr
 **This paper:** Solution nutrient concentrations (Table 3, a genuine data table) differed significantly across treatments for NO3-N, P, Ca, Mg, S, Fe, Mn, Zn, B, Cu, and Mo, generally CON > DAP+ > DAP, except Fe and (single-measurement) B where DAP+ was highest, and P/Zn/Cu/Mo where DAP+ and DAP were statistically equal and both below CON. K did not differ across treatments. Leaf tissue nutrient concentrations (Figure 4, bar chart only, no data table) differed significantly only for Mg, Mn, and B: Mg and B were lower in DAP+ than DAP (CON not different from either), while Mn did not differ between DAP+ and CON but was lower in DAP; all other measured leaf elements (N, P, K, Ca, S, Fe, Zn, Cu, Mo) were not significantly different among treatments. The authors flag this as a genuine unresolved puzzle in their own Discussion (Section 4.3): leaf Mg was *lower* in DAP+ than DAP despite DAP+ having *higher* solution Mg, and visual deficiency symptoms (interveinal chlorosis) were more severe in DAP than DAP+ -- a three-way contradiction (solution concentration vs. leaf tissue vs. visual symptom) the authors explicitly say they could not resolve, speculating the magnesium-sulfate form used in the complementary blend may not be well taken up.
 
 **Compared with:** (no external literature comparison given for the solution-vs-tissue nutrient contradiction specifically; presented as the authors' own unresolved finding)
-
-## Linked claims
-
-- [[Complementary chemical fertilizer improves decoupled aquaponic basil growth but does not fully close the gap with conventional hydroponics]]
-- [[Unsupplemented decoupled aquaponic nutrient solution underperforms conventional hydroponics for basil]]
-- [[Solution nutrient concentration and leaf tissue nutrient concentration can disagree in aquaponic systems]]
 
 ## Citations to chase
 

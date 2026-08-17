@@ -7,12 +7,12 @@ doi: "[no DOI found]"
 url: "https://openknowledge.fao.org/handle/20.500.14283/i4021e"
 trials: 0
 tags:
-  - Meta/Type/Narrative-Review
-  - Meta/Region/Global
-  - Meta/Fish/Tilapia
-  - Meta/Fish/Carp
-  - Meta/Fish/Catfish
-  - Meta/Fish/Trout
+  - Type/Narrative-Review
+  - Region/Global
+  - Fish/Tilapia
+  - Fish/Carp
+  - Fish/Catfish
+  - Fish/Trout
 status: unread
 ---
 
@@ -103,13 +103,6 @@ This is FAO Fisheries and Aquaculture Technical Paper No. 589, a 262-page practi
 **PDF quality:** Clean, fully extractable text layer throughout the pages read; no OCR artifacts or garbled tables encountered. Some inline chemical-formula subscripts (e.g. NH₃, NO₂⁻, NO₃⁻, H⁺) render with digits/superscripts detached from their base characters in raw text extraction (a PDF-extraction layout artifact, not a content error) — verified against the surrounding prose context in every case where this occurred in the material read.
 
 **Sampling caveat, stated plainly per CLAUDE.md's guidance for long-book PDFs:** No claim is made that every page, table, or numeric figure in this 262-page manual has been checked. Contradiction-checking (the ⚠️ tiers) was performed only within the ~120 pages actually read in depth (Chapters 1, 2, 3, 6, 7, 8, and Appendixes 1, 4, 7); Chapters 4, 5, 9, the Glossary, and Appendixes 2, 3, 5 (partial), 6 and 8 were sampled only via their Contents-page section headings and were not read in body-text detail, so any contradictions confined to those unread sections would not have been caught here.
-
-## Linked claims
-- [[The feed rate ratio balances an aquaponic unit using grams of daily fish feed per square metre of plant growing area]]
-- [[Aquaponic water quality management requires a compromise between the separate tolerance ranges of fish, plants and nitrifying bacteria]]
-- [[Iron, potassium and calcium are the nutrients most likely to become deficient in aquaponic systems supplied only by fish feed]]
-- [[Maximum recommended aquaponic fish stocking density is approximately 20 kilograms per 1000 litres of water]]
-- [[Synthetic chemical pesticides cannot be used in aquaponics because they are toxic to fish and beneficial bacteria]]
 
 ## Citations to chase
 - [ ] #todo James Rakocy (University of the Virgin Islands) — UVI-model feeding-rate-ratio and system-design research, named as foundational in Section 1.5 (p. 7) — **already in this vault** as `rakocyAquaponicsIntegrationFish1994`; not re-added, but worth checking whether that entry covers the specific UVI feeding-rate-ratio figures this manual draws on.

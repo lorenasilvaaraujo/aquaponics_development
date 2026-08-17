@@ -7,9 +7,9 @@ doi: "10.3390/agronomy13061436"
 url: "https://doi.org/10.3390/agronomy13061436"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/Europe
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -90,13 +90,6 @@ This paper is included in the vault purely as a **conceptual comparator**, not a
 ## Biocontrol (Trichoderma, UV-C)
 
 **This paper:** T. atrobrunneum strain T720 survived to the end of all trials once inoculated, including under UV-C treatment and through the BP pH crash from ~8 to ~4.5; it could not be detected in un-inoculated systems (presence/absence only — extent of colonisation not quantified). The only significant Trichoderma-driven effect on plant growth reported was a significant shoot-height increase in BP + Trichoderma versus HP and SO. UV-C-treated systems had significantly lower nutrient-solution iron (probably EDTA degradation by UV-C) but no observed plant iron-deficiency symptoms, and higher root fresh weight in HP+UV-C.
-
-## Linked claims
-
-- [[Bioponics uses non-fish organic nutrient sources analogous in function to aquaponics]]
-- [[Aquaponic and bioponic yields are typically lower than conventional hydroponics]]
-- [[Organic/bio-based nutrient solutions reduce leaf nitrate accumulation compared to mineral hydroponics]]
-- [[Electrical conductivity is an unreliable nutrient-status proxy in organic nutrient solutions]]
 
 ## Citations to chase
 

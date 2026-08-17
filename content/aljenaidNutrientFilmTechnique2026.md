@@ -7,10 +7,10 @@ doi: "10.1371/journal.pone.0340364"
 url: "https://doi.org/10.1371/journal.pone.0340364"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Middle-East
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Coriander
+  - Type/Experiment
+  - Region/Middle-East
+  - Fish/Tilapia
+  - Plant/Coriander
 status: unread
 quality: ok
 ---
@@ -100,12 +100,6 @@ Researchers at UAE University ran six identical vertical PVC-pipe NFT systems (p
 - #todo [[Delaide 2017]] — mineral elements in aquaponics and their impact on lettuce productivity, 39% fresh-mass increase in aquaponics *(ref [93], p.16)*
 - #todo [[Nishanth et al. 2024]] — aquaponics as climate-smart technology vs conventional production, same UAE research group *(ref [10], p.2)*
 - #todo [[Subramanian & Belal 2022]] — cucumber and tilapia aquaponics under UAE climatic conditions, same institution/farm *(ref [36], p.4)*
-
-## Linked claims
-
-- [[Aquaponics can match or exceed hydroponic plant growth]]
-- [[Aquaponic nutrient cycling improves mineral accumulation in leafy crops]]
-- [[Hydroponic nutrient solutions can outperform fish waste on individual minerals like potassium]]
 
 ## Citations to chase
 

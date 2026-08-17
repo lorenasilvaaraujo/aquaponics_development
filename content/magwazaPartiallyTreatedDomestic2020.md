@@ -7,9 +7,9 @@ doi: "10.1016/j.heliyon.2020.e05745"
 url: "https://doi.org/10.1016/j.heliyon.2020.e05745"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Africa
-  - Meta/Plant/Tomato
+  - Type/Experiment
+  - Region/Africa
+  - Plant/Tomato
 status: unread
 quality: caution
 ---
@@ -77,12 +77,6 @@ The authors grew tomato ('Monica', determinate) in three parallel media-based hy
 
 **Compared with:**
 - #todo [[Hisamitsu et al. 2001]] — zinc/iron as structural components of chlorophyll-synthesis proteins/enzymes, cited to explain the higher chlorophyll content of micronutrient-rich wastewater-fed plants.
-
-## Linked claims
-
-- [[Domestic wastewater alone is insufficient as a hydroponic nutrient source for tomato]]
-- [[Partial commercial fertilizer supplementation can offset wastewater macronutrient deficiency]]
-- [[Anaerobic digestion effluent is enriched in micronutrients but deficient in N P K Ca relative to commercial hydroponic fertilizer]]
 
 ## Citations to chase
 

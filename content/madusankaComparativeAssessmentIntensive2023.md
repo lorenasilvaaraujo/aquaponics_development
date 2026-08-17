@@ -7,10 +7,10 @@ doi: ""
 url: "https://www.researchgate.net/publication/375338001"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-Asia
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Tomato
+  - Type/Experiment
+  - Region/South-Asia
+  - Fish/Tilapia
+  - Plant/Tomato
 status: unread
 quality: caution
 ---
@@ -106,12 +106,6 @@ The authors compared three tomato-growing systems in a greenhouse in Welimada, S
 **Type classification:** `experiment` — CRD with 5 replicates, three defined treatment arms, ANOVA + Tukey at p<=0.05 throughout (Section 2.9, p.7). Clearly meets the `experiment` bar, not `quasi-experiment` or `exploratory`.
 
 **Trial count / definition:** Only DWCAS is an aquaponic treatment; OBS and DWCHS are both non-aquaponic controls (fertigated substrate culture and pure hydroponics respectively). Per schema, one row per aquaponic treatment → **one trial row** (T1 = DWCAS). DWCHS was chosen as the paired HYD control because it is the physically identical bucket/DWC system differing only in nutrient source (fish effluent + mineral top-up vs. mineral solution only) — the cleanest isolation of the "aquaponics effect." OBS values are recorded in Experimental Remarks as a secondary, structurally different comparison arm (different substrate/media entirely), not as the HYD column.
-
-## Linked claims
-
-- [[Aquaponic tomato yield can approach hydroponic yield while reducing mineral fertilizer use]]
-- [[Fertilizer use efficiency can be higher in aquaponics than hydroponics even when total yield is lower]]
-- [[Non-recirculating aquaponic designs can avoid direct fertilizer contact with fish water]]
 
 ## Citations to chase
 

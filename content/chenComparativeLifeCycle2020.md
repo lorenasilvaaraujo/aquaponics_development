@@ -7,9 +7,9 @@ doi: "10.1016/j.jclepro.2020.122888"
 url: "https://doi.org/10.1016/j.jclepro.2020.122888"
 trials: 0
 tags:
-  - Meta/Type/Modelling
-  - Meta/Region/NorthAmerica
-  - Meta/Fish/Tilapia
+  - Type/Modelling
+  - Region/NorthAmerica
+  - Fish/Tilapia
 status: unread
 quality:
 ---
@@ -67,13 +67,6 @@ The authors built one aquaponic and one hydroponic system of identical physical 
 **This paper:** Midpoint impacts per functional unit (1 USD of product), aquaponics vs. hydroponics: abiotic depletion (fossil) 212.56 vs. 393.82 MJ; global warming potential 20.77 vs. 38.22 kg CO2 eq; acidification potential 0.13 vs. 0.24 kg SO2 eq; eutrophication potential 0.04 vs. 0.07 kg PO4³⁻ eq (Section 3.2.1) — aquaponics roughly half the impact of hydroponics in all four categories, attributed to aquaponics' higher total product value rather than lower absolute resource use (both systems used near-identical electricity). Endpoint (single-score) damage: hydroponics ~1.8x aquaponics (Fig. 3, values read from a bar chart, not stated numerically in text — recorded as approximate ratio only, not as point values, per the "never read values off a figure" rule). Electricity was the dominant contributor in both systems (aquaponics: AD 99.5%, GWP 98.8%, AP 99.0%, EP 90.8%; hydroponics: >99.9% for all four categories), with fish feed (aquaponics) and fertilizer (hydroponics) as distant second contributors (<2% each in this study). Emissions of NOx, NO3⁻, and PO4³⁻ from aquaponics were ~7-, 21-, and 3-fold higher than hydroponics respectively (Table 1), attributed to fish feed input and denitrification. Sensitivity analyses: switching from the economic FU to a mass-based FU (1 kg vegetables) narrowed but did not reverse the GWP gap (hydroponics still 46% higher); aquaponics' advantage held across the full range of vegetable prices tested (2017-2019 USDA series) and was less price-sensitive than hydroponics; switching the regional electricity mix from Indiana (88% coal) toward wind power reversed the ranking for GWP, AP, and EP (hydroponics becomes more sustainable than aquaponics), though not for AD.
 
 **Compared with:** #todo [[Maucieri et al. 2018]] — micro aquaponic LCA, electricity/materials >84% of impacts, system building 9-15%, allocated 91.6% of impacts to vegetables on a mass basis (vs. 72% in this paper). #todo [[Boxman et al. 2017]] — commercial-scale aquaponic LCA (US Virgin Islands), electricity contributed 74% GWP/93% AP/465% EP, fish feed second-highest contributor without supplemental lighting/heating (GWP 32%, AP 18%, EP 1217%); tropical-climate aquaponics produced 12x less GWP than this Midwest study. #todo [[Torrellas et al. 2012]] — hydroponic tomato LCA, nitrogen fertilizer dominated impacts (cited as consistent with this paper's HydroGro nitrogen-dominance finding for GWP/EP). #todo [[Bartzas et al. 2015]] — greenhouse vs. open-field lettuce/barley LCA, subtropical Italy. #todo [[Bojacá et al. 2014]] and [[Williams et al. 2006]] — Colombian vs. northern-European greenhouse tomato GWP, cited as a 127-fold regional gap.
-
-## Linked claims
-
-- [[Aquaponics can have lower environmental impact than hydroponics on an economic functional-unit basis]]
-- [[LCA functional-unit choice can reverse the ranking between aquaponics and hydroponics]]
-- [[Electricity use for greenhouse climate control is the dominant environmental impact driver in controlled-environment agriculture]]
-- [[Renewable electricity sourcing can make hydroponics more sustainable than aquaponics]]
 
 ## Citations to chase
 

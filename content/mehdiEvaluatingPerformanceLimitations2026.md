@@ -7,10 +7,10 @@ doi: "10.3390/w18060742"
 url: "https://doi.org/10.3390/w18060742"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/East-Asia
-  - Meta/Fish/Koi
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/East-Asia
+  - Fish/Koi
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -85,13 +85,6 @@ Interveinal chlorosis (Fe deficiency) appeared in AP plants in week 2; FeSO4·7H
 **Compared with:**
 - #todo [[Wongkiew et al. 2017]] — nitrogen transformation review in aquaponic systems, cited for the nitrification-driven AP correlation interpretation. *(p. 9)*
 - #todo [[Groenveld et al. 2019]] — fertigation/nitrogen-use-efficiency optimization in an integrated aquaculture-agriculture system, cited on pH management. *(p. 12)*
-
-## Linked claims
-
-- [[HP plants outyield AP plants when HP is nutrient-optimized]]
-- [[Fish waste alone under-supplies potassium and phosphorus for plant growth in aquaponics]]
-- [[Iron deficiency is a recurring problem in fertilizer-free aquaponic systems]]
-- [[Aquaponic systems show lower electrical conductivity than hydroponic systems]]
 
 ## Citations to chase
 

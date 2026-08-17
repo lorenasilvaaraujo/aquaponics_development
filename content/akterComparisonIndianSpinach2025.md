@@ -8,10 +8,10 @@ url: "https://doi.org/10.17017/j.fish.1145"
 trials: 1
 quality: caution
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-Asia
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Indian-Spinach
+  - Type/Experiment
+  - Region/South-Asia
+  - Fish/Tilapia
+  - Plant/Indian-Spinach
 status: read
 ---
 
@@ -83,11 +83,6 @@ The authors ran a small side-by-side trial at Bangladesh Agricultural University
 - #todo [[Sayara et al. 2016]] — fish-waste nutrients don't match hydroponic-solution N/P/K/S/Ca/Mg/Fe levels *(p. 2, secondary claim)*
 - #todo [[Hossain et al. 2014]] — Indian spinach height 9.42–29.33 cm on biogas slurry at 30/60 DAS *(p. 9, Discussion 4.6)*
 - #todo [[Roy et al. 2013]] — similar mean Indian spinach weight in aquaponics *(p. 9)*
-
-## Linked claims
-
-- [[Aquaponic fish wastewater outperforms low-cost hydroponic nutrient solutions for leafy vegetable yield]]
-- [[Bacteria can decrease vegetable quality]] <!-- not directly tested here, left as a placeholder link candidate; not asserted by this paper -->
 
 ## Citations to chase
 

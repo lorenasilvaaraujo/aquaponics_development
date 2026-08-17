@@ -7,8 +7,8 @@ doi: "10.3390/plants12142623"
 url: "https://doi.org/10.3390/plants12142623"
 trials: 0
 tags:
-  - Meta/Type/Meta-analysis
-  - Meta/Region/Global
+  - Type/Meta-analysis
+  - Region/Global
 status: unread
 quality:
 ---
@@ -85,13 +85,6 @@ The authors ran a PRISMA-style systematic search across four databases (42,260 r
 - #todo [[Frasetya Harisman Ramdaniah 2021]] — nutrient formulation effects on lettuce growth (ref [57]), cited on marketable lettuce quality.
 - #todo [[Casey Freeman Francis Brychkova McKeown Spillane Bezrukov Zaworotko Styles 2022]] — comparative LCA of hydroponic CEA vs. field lettuce supply chains (ref [58]), cited for CO2-eq figures (17.8 kg CO2-eq/kg lettuce for non-renewable-powered CEA vs. 10 kg CO2-eq/kg for air-freighted field lettuce; 0.48 kg CO2-eq/kg for renewable-powered closed systems accounting for land-use carbon opportunity). *[secondary, cites Casey et al. 2022]*
 - #todo [[Goddek Vermeulen 2018]] — comparison of RAS-based vs. conventional hydroponic lettuce growth performance (ref [32]); a different Goddek paper than the two already in the vault (`goddekImprovingNutrientWater2020`, `goddekNecessityDesalinationTechnology2018`).
-
-## Linked claims
-
-- [[Aquaponics can equal or exceed hydroponic yield]]
-- [[Vertical farming increases yield per unit area]]
-- [[CEA lettuce yields exceed field-grown lettuce]]
-- [[High between-study heterogeneity limits meta-analysis interpretability]]
 
 ## Citations to chase
 

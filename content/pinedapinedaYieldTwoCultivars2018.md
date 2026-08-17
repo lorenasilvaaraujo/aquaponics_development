@@ -7,10 +7,10 @@ doi: "10.17660/ActaHortic.2018.1227.43"
 url: "https://doi.org/10.17660/ActaHortic.2018.1227.43"
 trials: 3
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Tilapia
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -108,14 +108,6 @@ The authors grew two lettuce cultivars ('Andrómeda', green; 'Ruby Sky', red) ac
 
 **Compared with:**
 - #todo [[Fernández-Navarro 2013]] -- BSc thesis on nutrient-solution aeration in floating trays, cited as the mechanistic basis for how substrate/root-zone heating under mulch impairs water and nutrient uptake (p.349)
-
-## Linked claims
-
-- [[Fish feed dose in aquaponics affects lettuce fresh weight yield]]
-- [[A 20 percent increase in fish feed dose above normal can push aquaponic lettuce yield above a hydroponic control]]
-- [[Aquaponic lettuce leaf tissue nutrient concentrations remain within sufficiency ranges despite fish-feed dose variation]]
-- [[Aquaponic nutrient solution potassium concentration can remain well below hydroponic solution levels without inducing leaf tissue potassium deficiency]]
-- [[Lettuce cultivar affects leaf mineral partitioning independent of aquaponic system]]
 
 ## Citations to chase
 

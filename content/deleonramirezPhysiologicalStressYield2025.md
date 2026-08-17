@@ -7,10 +7,10 @@ doi: "10.3390/horticulturae11121474"
 url: "https://doi.org/10.3390/horticulturae11121474"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/NorthAmerica
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Tomato
+  - Type/Experiment
+  - Region/NorthAmerica
+  - Fish/Tilapia
+  - Plant/Tomato
 status: unread
 quality: suspect
 ---
@@ -88,13 +88,6 @@ Researchers at Universidad Autónoma de Querétaro (Mexico) ran three complete 1
 
 **Compared with:**
 - #todo [[Yang & Kim 2020]] — N/P mass-balance methodology for tomato/basil/lettuce aquaponics vs hydroponics, cited as the source of the standardized NUE/PUE method (ref 43)
-
-## Linked claims
-
-- [[Aquaponics reduces physiological stress in fish compared to stand-alone aquaculture]]
-- [[Hydroponic tomato outperforms aquaponic tomato in yield and growth under equal nutrient-solution access]]
-- [[Aquaponics can outperform aquaculture alone in nitrogen and phosphorus use efficiency]]
-- [[Plant integration in aquaponics improves fish-tank water quality via nitrogen uptake]]
 
 ## Citations to chase
 

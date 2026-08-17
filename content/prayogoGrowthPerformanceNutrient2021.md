@@ -7,10 +7,10 @@ doi: "10.20473/jafh.v10i3.26593"
 url: "https://doi.org/10.20473/jafh.v10i3.26593"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Southeast-Asia
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Mustard-Green
+  - Type/Experiment
+  - Region/Southeast-Asia
+  - Fish/Tilapia
+  - Plant/Mustard-Green
 status: unread
 quality: ok
 ---
@@ -80,12 +80,6 @@ The authors ran three independent replicate small-scale aquaponic units (25 L fi
 
 **Compared with:**
 - #todo [[Roosta and Hamidpour 2011]] -- reported hydroponic TDS should exceed 300 mg/L for adequate nutrient availability; both this paper's systems (973-1,001 mg/L) are well above that threshold (p.377)
-
-## Linked claims
-
-- [[Aquaponic and hydroponic leafy-vegetable growth are statistically equivalent when nutrient concentrations are matched]]
-- [[Aquaponic vegetable proximate composition does not differ from hydroponic when nutrient concentrations are matched]]
-- [[Aquaculture effluent can substitute for inorganic hydroponic fertilizer without a growth or quality penalty]]
 
 ## Citations to chase
 

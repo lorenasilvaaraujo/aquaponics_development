@@ -8,10 +8,10 @@ url: "https://doi.org/10.5897/AJAR2024.16821"
 trials: 2
 quality: ok
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Middle-East
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Barley
+  - Type/Experiment
+  - Region/Middle-East
+  - Fish/Tilapia
+  - Plant/Barley
 status: read
 ---
 
@@ -72,11 +72,6 @@ The authors germinated barley (Hordeum vulgare) fodder in polyethylene trays (90
 - #todo [[Partap Sharma HN Thakur Verma Ujala Bhargava 2023]] — microgreen nutrient/protein enhancement in nutrient-rich (aquaponic-like) growing environments, cited repeatedly (p.135-137) to support the protein-content finding
 - #todo [[Zhang Xiao Ager Kong Tan 2021]] — microgreen dry-matter accumulation and nutritional quality, cited (p.136) re: improved nutrient availability/uptake in aquaponics
 - #todo [[Pinho David Garcia Keesman Portella Goddek 2021]] — South American aquaponics fish species review, cited (p.137) re: higher crop protein levels in aquaponic vs traditional methods
-
-## Linked claims
-
-- [[Aquaponic fish wastewater outperforms low-cost hydroponic nutrient solutions for leafy vegetable yield]]
-- [[Aquaponics reduces water use compared with conventional or stand-alone systems]]
 
 ## Citations to chase
 

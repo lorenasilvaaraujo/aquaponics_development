@@ -7,12 +7,12 @@ doi: "10.1016/j.aquaculture.2020.735815"
 url: "https://doi.org/10.1016/j.aquaculture.2020.735815"
 trials: 9
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-America
-  - Meta/Fish/Shrimp
-  - Meta/Plant/Sea-Asparagus
-  - Meta/Plant/Celery
-  - Meta/Plant/Seashore-Paspalum
+  - Type/Experiment
+  - Region/South-America
+  - Fish/Shrimp
+  - Plant/Sea-Asparagus
+  - Plant/Celery
+  - Plant/Seashore-Paspalum
 status: unread
 quality: ok
 ---
@@ -86,12 +86,6 @@ The authors ran a 30-day decoupled saline aquaponics trial using one-year-old, c
 **Compared with:**
 - #todo [[Van Wyk and Scarpa 1999]] - recommended shrimp grow-out water limits (Zn <=100 ug/L, Cu <=25 ug/L) used as the paper's benchmark (p.6).
 - #todo [[Pescod 1992]] - FAO wastewater-reuse guideline thresholds for glycophytic crops, cited as the (non-halophyte-specific) benchmark this paper's supplemented water stayed below (p.6).
-
-## Linked claims
-
-- [[Iron availability limits halophyte growth under neutral-alkaline marine aquaculture water]]
-- [[Foliar micronutrient spraying can be less effective than water-borne supplementation in saline aquaponics]]
-- [[Micronutrient-supplemented aquaponic water should not be recycled to aquaculture stock without a toxicity check]]
 
 ## Citations to chase
 

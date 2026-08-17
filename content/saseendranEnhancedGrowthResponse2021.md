@@ -7,10 +7,10 @@ doi: "10.1016/j.aquaculture.2020.736200"
 url: "https://doi.org/10.1016/j.aquaculture.2020.736200"
 trials: 3
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-Asia
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Bell-Pepper
+  - Type/Experiment
+  - Region/South-Asia
+  - Fish/Tilapia
+  - Plant/Bell-Pepper
 status: unread
 quality: ok
 ---
@@ -88,13 +88,6 @@ The authors ran a 120-day completely randomised design (CRD) trial at ICAR-CIFE,
 - #todo [[Ju et al. 2008]] — antioxidant substances (carotenoids) in biofloc reduce oxidative stress in shrimp; cited as the likely mechanism for this paper's lower catalase/SOD values under biofloc *(p.6)*
 - #todo [[Zahran and Risha 2014]] — catalase and SOD increase with increasing physiological stress in fish; cited as the basis for interpreting this paper's own CAT/SOD results *(p.6-7)*
 - #todo [[Martins et al. 2009]] — cited alongside Haridas et al. 2017 as corroborating this paper's finding that GIFT tilapia can be reared at higher densities in an integrated biofloc system without detectable welfare cost *(p.6)*
-
-## Linked claims
-
-- [[Biofloc integration improves aquaponic fish growth and feed conversion relative to conventional (non-biofloc) aquaponics at matched stocking density]]
-- [[Fish growth performance in biofloc-integrated aquaponics declines with increasing stocking density]]
-- [[Biofloc integration lowers fish stress biomarkers relative to conventional aquaponics]]
-- [[Higher aquaponic water nitrate-nitrogen favors vegetative growth over fruit set in fruiting crops]]
 
 ## Citations to chase
 

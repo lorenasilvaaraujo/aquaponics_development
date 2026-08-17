@@ -7,10 +7,10 @@ doi: "10.1016/j.agwat.2019.105851"
 url: "https://doi.org/10.1016/j.agwat.2019.105851"
 trials: 4
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/East-Asia
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Swiss-Chard
+  - Type/Experiment
+  - Region/East-Asia
+  - Fish/Tilapia
+  - Plant/Swiss-Chard
 status: unread
 quality: ok
 ---
@@ -73,12 +73,6 @@ Researchers grew tilapia in a closed-recirculating tank using groundwater adjust
 
 **Compared with:**
 - #todo [[Red Tractor Farm Assurance 2016]] — UK regulated NO3 limit for spinach (3500 mg kg⁻¹ FW), used here only as a comparison benchmark, not this paper's own measured limit (p.6) *[secondary, cites Red Tractor Farm Assurance 2016]*
-
-## Linked claims
-
-- [[Fish wastewater alone can supply adequate short-term micronutrients for aquaponic crops]]
-- [[Manganese and zinc deficiency can limit long-term yield in fish-wastewater aquaponics]]
-- [[Salt-loving plants can be cultivated with saline aquaponic wastewater]]
 
 ## Citations to chase
 

@@ -7,8 +7,8 @@ doi: "10.1007/s10499-020-00600-6"
 url: "https://doi.org/10.1007/s10499-020-00600-6"
 trials: 0
 tags:
-  - Meta/Type/Technical-Note
-  - Meta/Region/Global
+  - Type/Technical-Note
+  - Region/Global
 status: unread
 quality:
 ---
@@ -77,12 +77,6 @@ This short paper is a conceptual refinement of the authors' own 2018 mass-balanc
 - #todo [[Delaide et al. 2019b]] — pikeperch RAS wastewater effect on hydroponic tomato yield and quality, cited for the blossom-end-rot observation.
 - #todo [[Schmautz et al. 2016]] — tomato productivity/quality across three hydroponic methods in aquaponics, cited alongside Delaide et al. 2019b for the same blossom-end-rot point.
 - [[Goddek and Vermeulen 2018]] — cited repeatedly as evidence that decoupled aquaponic leafy-green yields matched or exceeded hydroponics; sibling paper, already/being processed elsewhere in this vault, not re-added to the chase list.
-
-## Linked claims
-
-- [[Decoupled aquaponics requires nutrient/water trade-offs between RAS and hydroponic loops]]
-- [[Desalination technology can rebalance nutrient concentrations between RAS and hydroponic loops]]
-- [[Thermal desalination kills beneficial bacteria that reverse osmosis preserves]]
 
 ## Citations to chase
 

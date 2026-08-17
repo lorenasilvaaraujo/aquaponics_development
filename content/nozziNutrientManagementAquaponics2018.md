@@ -7,12 +7,12 @@ doi: "10.3390/agronomy8030027"
 url: "https://doi.org/10.3390/agronomy8030027"
 trials: 9
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Mint
-  - Meta/Plant/Mushroom-Herb
+  - Type/Quasi-experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Lettuce
+  - Plant/Mint
+  - Plant/Mushroom-Herb
 status: unread
 quality: ok
 ---
@@ -86,13 +86,6 @@ The authors ran a four-week (29 May-30 June 2015) side-by-side comparison of thr
 **Compared with:**
 - #todo [[Pavlou et al. 2007]] — romaine lettuce, organic vs. inorganic N sources affect leaf NO3 accumulation — cited (p.8) as a parallel for why AP's organic-derived N might behave differently from D's inorganic N.
 - #todo [[Behr and Wiebe 1992]] — lettuce, inverse relationship between leaf NO3 and chlorophyll/sugar production — cited (p.9) as the mechanism linking System A's low NO3 to its high stated CHL.
-
-## Linked claims
-
-- [[Graduated aquaponic nutrient supplementation increases lettuce yield up to and beyond hydroponic levels]]
-- [[Unsupplemented aquaponic water is sufficient for some herb species but limits lettuce yield]]
-- [[Higher aquaponic nutrient supplementation increases lettuce and mint leaf nitrate while decreasing polyphenol content]]
-- [[Phosphorus limitation in aquaponic water increases root-to-shoot ratio in leafy crops]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.1016/j.aquaculture.2021.736932"
 url: "https://doi.org/10.1016/j.aquaculture.2021.736932"
 trials: 4
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-America
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/South-America
+  - Fish/Tilapia
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -88,13 +88,6 @@ The authors ran a single 56-day, completely randomized experiment at a 100 m² g
 - #todo [[Goddek et al. 2016b]] — anaerobic/aerobic fish-sludge supernatant used as extra hydroponic lettuce fertilizer had positive effects; cited as a rationale for the authors' proposed future direction of mineralizing DFP bioflocs as a fertilizer supplement
 - #todo [[Fimbres-Acedo et al. 2020]] — biofloc-technology residual water used for photoautotrophic hydroponic production with Chlorella, and (elsewhere in this paper's Introduction) cited among studies finding *negative* effects of BFT effluent on plant growth in FLOCponics, a contrast this paper's null result addresses by using a decoupled rather than coupled layout
 - #todo [[Rahman 2010]] — effluent-water characterization for intensive tilapia culture applied to integrated lettuce aquaponics; cited among prior negative-effect FLOCponics findings
-
-## Linked claims
-
-- [[Decoupled FLOCponics allows reduced dietary crude protein without sacrificing tilapia growth relative to conventional decoupled aquaponics]]
-- [[Biofloc-based aquaculture technology grows tilapia faster than RAS-based aquaculture at matched dietary protein]]
-- [[Lettuce yield is insensitive to aquaponic aquaculture technology and fish dietary protein level when the aquaculture and hydroponic subsystems are decoupled]]
-- [[Decoupling aquaculture and hydroponic subsystems addresses the solids-accumulation and pH trade-offs reported in coupled FLOCponics]]
 
 ## Citations to chase
 

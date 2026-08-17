@@ -7,10 +7,10 @@ doi: "10.29322/IJSRP.15.11.2025.p16719"
 url: "https://doi.org/10.29322/IJSRP.15.11.2025.p16719"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Middle-East
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Avicennia-Marina
+  - Type/Experiment
+  - Region/Middle-East
+  - Fish/Tilapia
+  - Plant/Avicennia-Marina
 status: unread
 quality: caution
 ---
@@ -84,12 +84,6 @@ The authors grew Avicennia marina (grey mangrove) propagules for 90 days under f
 ## Study design detail — aquaponics vs. hydroponics–drip share the same nutrient source
 
 Both the Aquaponics and Hydroponics–Drip arms use tilapia effluent as the sole nutrient input and the same stated salinity range (0–35 ppt, matched per Table 1's footnote). The only stated difference between these two arms is delivery method: continuous circulated immersion (Aquaponics) vs. scheduled drip irrigation at 30–100 mL/hr (Hydroponics–Drip). This means the Aquaponics-vs-Hydroponics-Drip contrast in this paper isolates *irrigation/delivery method*, not nutrient source — worth flagging for anyone using this row as a generic "fish effluent vs. no fish effluent" comparison. The Hydroponics–Manual arm is the one genuinely non-fish nutrient source (seaweed/date-fruit extracts).
-
-## Linked claims
-
-- [[Continuous nutrient delivery favors shoot and leaf growth over root elongation]]
-- [[Aquaponic effluent can substitute for synthetic nutrient solution in mangrove seedling propagation]]
-- [[Floating raft tidal exposure enhances foliar development relative to stable indoor systems]]
 
 ## Citations to chase
 

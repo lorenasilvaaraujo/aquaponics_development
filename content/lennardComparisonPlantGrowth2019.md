@@ -7,14 +7,14 @@ doi: "10.3390/horticulturae5020027"
 url: "https://doi.org/10.3390/horticulturae5020027"
 trials: 44
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Region/Oceania
-  - Meta/Fish/Grass-Carp
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Dill
-  - Meta/Plant/Rocket
-  - Meta/Plant/Coriander
-  - Meta/Plant/Parsley
+  - Type/Quasi-experiment
+  - Region/Oceania
+  - Fish/Grass-Carp
+  - Plant/Lettuce
+  - Plant/Dill
+  - Plant/Rocket
+  - Plant/Coriander
+  - Plant/Parsley
 status: unread
 quality: caution
 ---
@@ -86,12 +86,6 @@ Lennard and Ward ran a semi-commercial, side-by-side comparison of an NFT hydrop
 
 **Compared with:**
 - #todo [[Edwards 1974]] — weed preference and growth of young grass carp in New Zealand, source (with Stanley et al. 1978) for the ~16 degC minimum feeding-temperature claim used to explain the winter nutrient collapse.
-
-## Linked claims
-
-- [[Fish-fed aquaponic NFT systems can match or exceed hydroponic NFT lettuce and herb growth for most of the year]]
-- [[NFT is a poor match for aquaponic systems using temperature-sensitive fish in non-climate-controlled greenhouses]]
-- [[Aquaponic systems can achieve hydroponic-equivalent plant growth at substantially lower nutrient solution conductivity than standard hydroponics]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.1016/j.agwat.2019.105814"
 url: "https://doi.org/10.1016/j.agwat.2019.105814"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Pikeperch
-  - Meta/Plant/Tomato
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Pikeperch
+  - Plant/Tomato
 status: unread
 quality: ok
 ---
@@ -107,13 +107,6 @@ Over three consecutive growing seasons (2015-2017) at a Belgian research greenho
 - Root observations: "slightly more roots were observed on the side of the AP slabs" at end of cultivation, not weighed or scored (p.7) — qualitative only.
 
 **Water panel note:** No water-quality panel was excluded from plant.csv — this paper has no plant-tissue analyte data at all (no leaf/fruit mineral, biochemistry, microbiology, or proximate analysis was performed; the Mn-uptake conclusion is inferred entirely from nutrient-solution depletion in slabs, not from plant tissue), so plant.csv is empty by design, not because a usable panel was discarded.
-
-## Linked claims
-
-- [[Aquaponic wastewater can match hydroponic yields when nutrients are complemented]]
-- [[Aquaponic wastewater can reduce blossom-end rot in tomato]]
-- [[RAS wastewater microorganisms and dissolved organic matter may act as plant biostimulants]]
-- [[Manganese uptake is linked to reduced blossom-end rot]]
 
 ## Citations to chase
 

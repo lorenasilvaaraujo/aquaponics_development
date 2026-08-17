@@ -7,12 +7,12 @@ doi: "10.1016/j.agsy.2019.01.010"
 url: "https://doi.org/10.1016/j.agsy.2019.01.010"
 trials: 0
 tags:
-  - Meta/Type/Modelling
-  - Meta/Region/Europe
-  - Meta/Region/Africa
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Tomato
+  - Type/Modelling
+  - Region/Europe
+  - Region/Africa
+  - Fish/Tilapia
+  - Plant/Lettuce
+  - Plant/Tomato
 status: unread
 quality:
 ---
@@ -101,13 +101,6 @@ The authors couple a detailed, previously-validated deterministic greenhouse/cro
 - [[Goddek and Vermeulen 2018]] — cited in the introduction/discussion context as evidence for decoupled-aquaponics lettuce performance; sibling paper elsewhere in this vault batch, not re-added to chase list.
 - #todo [[Mirzoyan et al. 2012]] — anaerobic treatment of brackish-water aquaculture sludge, contrasted in the Discussion with Goddek et al. (2018)'s aerobic/anaerobic UASB approach used in this paper's mineralisation loop.
 - #todo [[Monsees et al. 2017]] — nutrient mobilisation from RAS-derived sludge under aerobic/anaerobic conditions, cited alongside Goddek et al. (2018) as supporting evidence that lower pH favours mineralisation of most macro/micronutrients.
-
-## Linked claims
-
-- [[Decoupled aquaponics requires nutrient/water trade-offs between RAS and hydroponic loops]]
-- [[Crop transpiration is the main driver of water/nutrient flow sizing in closed-loop aquaponics]]
-- [[Desalination technology can rebalance nutrient concentrations between RAS and hydroponic loops]]
-- [[Aquaponics production efficiency increases with decreasing latitude and seasonal variation]]
 
 ## Citations to chase
 

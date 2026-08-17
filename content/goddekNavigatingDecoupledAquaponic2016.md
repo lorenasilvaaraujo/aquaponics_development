@@ -7,10 +7,10 @@ doi: "10.3390/w8070303"
 url: "https://doi.org/10.3390/w8070303"
 trials: 0
 tags:
-  - Meta/Type/Modelling
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
+  - Type/Modelling
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Lettuce
 status: unread
 ---
 
@@ -73,12 +73,6 @@ The authors built an AnyLogic system-dynamics model of a three-loop decoupled aq
 ## Nutrient and sludge partitioning (Table 5)
 
 **This paper:** Reports both a literature figure and the authors' own unreferenced "personal observations" for N/P partitioning from Nile tilapia feed in RAS, feeding fish of 9.7% N and 1.7% P content: Neto and Ostrensky [10] (cage systems) — fish retention N 35%/P 28%, water N 33%/P 17%, total sludge N 31%/P 55% (of which feces 13%N/37%P, non-consumed feed 18%N/18%P). Personal observations (RAS, this study) — fish retention N 35-50%/P 60-70%, water N 20-30%/P 5-10%, total sludge N 15-25%/P 35-45%. The authors state their own observed values are closer to Neto and Ostrensky's cage-system figures than to Rafiee and Saad [74]'s RAS figures, and note more P accumulated in fish than in sludge in their own observations. ⚠️CHECK — the source and methodology of the "Personal Observations (RAS)" column in Table 5 is not described anywhere in the Methods (no sample size, location, or measurement method given for this dataset); it reads as a separate, unreported empirical observation embedded in a modelling paper. Because no methodology is stated, this does not meet the bar for a `trials.csv` row (no design, no replicates, no measured outcome variable beyond this one summary table), and the paper's overall classification as `modelling` is not affected — the DAPS system dynamics model itself is the object of the study and used no primary experimental design.
-
-## Linked claims
-- [[Decoupled aquaponic systems allow independent optimization of fish and plant growing conditions]]
-- [[Evapotranspiration rate governs RAS water replacement and nutrient dilution in decoupled aquaponic systems]]
-- [[Phosphorus is the recommended sizing nutrient for decoupled aquaponic hydroponic components]]
-- [[Sludge remineralization via anaerobic digestion recovers phosphorus and water in aquaponic systems]]
 
 ## Citations to chase
 - [ ] #todo Jijakli, Delaide & Gott (2016) — Plant Production Capacity and Nutrient Mass Balance in the PAFF Box; source of the "39% increased growth" figure cited here.

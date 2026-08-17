@@ -7,10 +7,10 @@ doi: "10.21273/hortsci17248-23"
 url: "https://doi.org/10.21273/hortsci17248-23"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/NorthAmerica
-  - Meta/Fish/Bluegill
-  - Meta/Plant/Tomato
+  - Type/Experiment
+  - Region/NorthAmerica
+  - Fish/Bluegill
+  - Plant/Tomato
 status: unread
 quality: caution
 ---
@@ -79,13 +79,6 @@ Grafting increased stem diameter, leaf count (through Sept), stem height (Sept-O
 ## Foliar nutrient content
 
 System x Graft interaction significant for B, Zn, P, S (Table 9-10). System main effect significant for K, Fe, Cu, Mn (hydroponics higher in K/Fe/Mn, aquaponics higher in Cu); graft main effect significant for Cu (grafted higher, pooled across system).
-
-## Linked claims
-
-- [[Grafting increases tomato shoot and root biomass]]
-- [[Hydroponic systems yield more tomato fruit than aquaponic systems]]
-- [[Fruit cracking limits soilless tomato marketability under high heat]]
-- [[Aquaponic systems accumulate more copper and zinc in plant tissue than hydroponics]]
 
 ## Citations to chase
 

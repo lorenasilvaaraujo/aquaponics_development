@@ -7,13 +7,13 @@ doi: "10.1111/jwas.12819"
 url: "https://doi.org/10.1111/jwas.12819"
 trials: 5
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Yellow-Perch
-  - Meta/Fish/Koi
-  - Meta/Fish/Goldfish
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Yellow-Perch
+  - Fish/Koi
+  - Fish/Goldfish
+  - Fish/Tilapia
+  - Plant/Basil
 status: read
 quality: suspect   # 3 BLOCK + 1 MATERIAL + 3 MINOR contradictions found on re-extraction (>=5 threshold)
 ---
@@ -94,13 +94,6 @@ Control (shared, all 5 trials): soilless medium — potted (754 cm3 pots, Sunshi
 - NO2-N and Water temperature: only seasonal (summer/winter) means reported in Table 2, no single pooled trial mean — recorded as ranges in trials.csv with "seasonal means only" note
 - Alkalinity and TDS: reported in Table 2 but have no dedicated trials.csv column — see NO COLUMN notes in Experimental Remarks
 - DO: only a target threshold (>6 ppm) is stated; no measured mean anywhere — NR
-
-## Linked claims
-
-- [[Koi may suppress basil yield in aquaponic systems]]
-- [[Cooler air temperature reduces basil yield]]
-- [[Basil cultivar choice does not significantly affect aquaponic yield]]
-- [[N deficiency causes leaf chlorosis in aquaponic basil]]
 
 ## Citations to chase
 

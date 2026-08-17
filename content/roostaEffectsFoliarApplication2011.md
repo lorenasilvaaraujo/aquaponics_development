@@ -7,10 +7,10 @@ doi: "10.1016/j.scienta.2011.04.006"
 url: "https://doi.org/10.1016/j.scienta.2011.04.006"
 trials: 8
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Middle-East
-  - Meta/Fish/Carp
-  - Meta/Plant/Tomato
+  - Type/Experiment
+  - Region/Middle-East
+  - Fish/Carp
+  - Plant/Tomato
 status: unread
 quality: ok
 ---
@@ -92,13 +92,6 @@ The authors built a 3-replicate Rakocy/UVI-style aquaponic system (carp rearing 
 **This paper:** In the untreated control, aquaponic plants had significantly higher young-leaf SPAD (40.08±0.65 vs. 34.47±2.51) and chlorophyll a (1502±37 vs. 1276±18 nmol/g FW) than hydroponic plants, despite lower vegetative biomass — the authors attribute this to greater (non-toxic) ammonium uptake by tomato roots in the fish-water system, citing their own prior cucumber work ([[Roosta and Schjoerring 2007]]; [[Roosta et al. 2009]]). Foliar Mg and Fe significantly increased chlorophyll b in both systems relative to control; foliar Mg also raised carotenoid content specifically in aquaponics. Maximal PSII quantum yield (Fv/Fm) did not differ significantly between systems or among foliar treatments for either young or old leaves (Table 4) — the one measured variable showing no system effect at all.
 
 **Compared with:** (no external literature comparison given for the SPAD/pigment/Fv/Fm results specifically beyond the ammonium-uptake mechanism citations above)
-
-## Linked claims
-
-- [[Aquaponic tomato vegetative growth is lower than hydroponic under otherwise matched conditions]]
-- [[Foliar micronutrient application can alleviate nutrient deficiencies in aquaponically grown crops]]
-- [[Aquaponic water is characteristically low in potassium, iron, manganese and boron relative to hydroponic nutrient solution]]
-- [[Ammonium uptake in aquaponic systems can increase leaf chlorophyll content despite lower overall plant growth]]
 
 ## Citations to chase
 

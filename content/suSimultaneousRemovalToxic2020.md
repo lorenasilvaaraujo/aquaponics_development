@@ -7,10 +7,10 @@ doi: "10.1016/j.jhazmat.2020.122610"
 url: "https://doi.org/10.1016/j.jhazmat.2020.122610"
 trials: 4
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Region/Southeast-Asia
-  - Meta/Fish/African-Catfish
-  - Meta/Plant/Lettuce
+  - Type/Quasi-experiment
+  - Region/Southeast-Asia
+  - Fish/African-Catfish
+  - Plant/Lettuce
 status: unread
 quality: caution
 ---
@@ -86,12 +86,6 @@ The authors built a single-fish-tank, four-trough nutrient film technique (NFT) 
 - #todo [[Joseph, Richard and Daniel 1993]]; [[Towers 2014]] -- cited for the catfish DO (>4 mg/L) and temperature (26-32C) optimum ranges used as this paper's own literature-cited "acceptable range" benchmark *(p.6)*
 - #todo [[Maarif 2016]] -- cited for the catfish pH optimum (6-8) benchmark *(p.5)*
 - #todo [[Bakhsh and Chopin 2011]] -- water quality/nutrient aspects in recirculating aquaponic production of freshwater prawn and lettuce, listed in References but not discussed in running text with a specific comparative figure
-
-## Linked claims
-
-- [[Biological filter media surface area increases nitrifying biofilm mass and ammonia removal in aquaponics]]
-- [[Microwave pyrolysis biochar is a viable biological carrier for aquaponic nitrification]]
-- [[Higher aquaponic biochar/filter media dose increases lettuce growth via improved nitrate availability]]
 
 ## Citations to chase
 

@@ -7,11 +7,11 @@ doi: "10.1007/s11356-017-9273-1"
 url: "https://doi.org/10.1007/s11356-017-9273-1"
 trials: 1
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Region/East-Asia
-  - Meta/Region/China
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Pak-Choi
+  - Type/Quasi-experiment
+  - Region/East-Asia
+  - Region/China
+  - Fish/Tilapia
+  - Plant/Pak-Choi
 status: unread
 quality: ok
 ---
@@ -100,13 +100,6 @@ The authors ran two parallel tilapia-pak choi floating-raft aquaponic systems in
 - #todo [[Radniecki et al. 2009a]] -- heavy metal ion exposure (Zn) effects on Nitrosomonas europaea gene expression; cited alongside 2009b for NOB's greater sensitivity to inhibitors than AOB *(p.16333)*
 - #todo [[Radniecki et al. 2009b]] -- companion study (Cd) to 2009a, same NOB-vs-AOB sensitivity argument *(p.16333)*
 - #todo [[Yanbo et al. 2006]] -- 96-h LC50 of nitrite to Nile tilapia = 44.67 mg/L; used to confirm this study's NO2- levels did not reach a fish-toxic threshold *(p.16331)*
-
-## Linked claims
-
-- [[Micro- and macro-nutrient addition to fish-water improves aquaponic fish and plant production]]
-- [[Struvite formation lowers phosphate accumulation in nutrient-supplemented aquaponics]]
-- [[Chloride from nutrient supplementation inhibits nitrifying bacteria in aquaponics]]
-- [[Added micro-nutrients concentrate in plant root rather than edible plant leaf or fish tissue]]
 
 ## Citations to chase
 

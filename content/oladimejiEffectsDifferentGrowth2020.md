@@ -7,10 +7,10 @@ doi: "10.1016/j.jksus.2018.02.001"
 url: "https://doi.org/10.1016/j.jksus.2018.02.001"
 trials: 4
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Africa
-  - Meta/Fish/African-Catfish
-  - Meta/Plant/Fluted-Pumpkin
+  - Type/Experiment
+  - Region/Africa
+  - Fish/African-Catfish
+  - Plant/Fluted-Pumpkin
 status: unread
 quality: ok
 ---
@@ -88,13 +88,6 @@ The authors ran a four-treatment substrate comparison inside a small-scale, medi
 
 **Compared with:**
 - No fish-growth literature comparisons are made in this paper; the Discussion's citations focus entirely on water quality and plant/media performance.
-
-## Linked claims
-
-- [[Palm kernel shell and periwinkle shell outperform gravel as aquaponic grow media for fluted pumpkin]]
-- [[Mixing multiple grow-bed substrates improves ammonia removal in aquaponics]]
-- [[Ammonia-oxidising bacteria proliferate faster than nitrite-oxidising bacteria in aquaponic biofilters]]
-- [[Gravel has poor water and nutrient retention as an aquaponic grow medium]]
 
 ## Citations to chase
 

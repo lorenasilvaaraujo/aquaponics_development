@@ -7,10 +7,10 @@ doi: "10.1016/j.agwat.2016.10.013"
 url: "https://doi.org/10.1016/j.agwat.2016.10.013"
 trials: 1
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Tomato
+  - Type/Quasi-experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Tomato
 status: unread
 quality: ok
 ---
@@ -93,12 +93,6 @@ The authors built a new research aquaponics facility in Abtshagen, Germany, impl
 
 **Compared with:**
 - #todo [[Kloas et al. 2015]] -- DRAPS prototype achieved 5 kg tilapia + 25 kg tomato per m3 fresh water, and a mean fish-water NO3-N of 127.7 mg/L (vs. this paper's much lower, more variable 14.6 mg/L), attributed to lower/fluctuating stocking density and a technically more advanced condensation-water-reuse system in the earlier prototype *(p.342)*
-
-## Linked claims
-
-- [[Decoupled aquaponics with continuous nutrient monitoring and fertiliser replenishment can match hydroponic yield for fruiting vegetables]]
-- [[Decoupled aquaponics reduces fertiliser input relative to hydroponics without a yield penalty]]
-- [[Aquaponic and hydroponic fruit quality parity does not extend uniformly to all quality parameters]]
 
 ## Citations to chase
 

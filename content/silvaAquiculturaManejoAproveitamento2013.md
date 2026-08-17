@@ -7,8 +7,8 @@ doi: ""
 url: ""
 trials: 0
 tags:
-  - Meta/Type/Narrative-Review
-  - Meta/Region/South-America
+  - Type/Narrative-Review
+  - Region/South-America
 status: unread
 ---
 
@@ -103,12 +103,6 @@ The section closes arguing that aquaponics research is still incipient in Brazil
 - #todo [[Trang & Brix 2012]] — planted biofilters in aquaponics, Mekong Delta, Vietnam
 - #todo [[Sikawa & Yakupitiyage 2010]] — catfish pond water hydroponic lettuce production
 - #todo [[Rakocy, Masser & Losordo 2006]] — SRAC publication 454, standard aquaponics system description/figure source
-
-## Linked claims
-
-- [[Aquaponics reduces water use relative to single-purpose aquaculture]]
-- [[Constructed wetlands remove nitrogen and phosphorus from aquaculture effluent]]
-- [[Nitrate is the preferred, low-toxicity nitrogen form for plant uptake in aquaponics]]
 
 ## Citations to chase
 

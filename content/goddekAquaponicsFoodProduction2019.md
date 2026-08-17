@@ -7,8 +7,8 @@ doi: "10.1007/978-3-030-15943-6"
 url: "https://doi.org/10.1007/978-3-030-15943-6"
 trials: 0
 tags:
-  - Meta/Type/Narrative-Review
-  - Meta/Region/Global
+  - Type/Narrative-Review
+  - Region/Global
 status: unread
 ---
 
@@ -85,12 +85,6 @@ Part V — Aquaponics and Education
 22. **Aquaponics as an Educational Tool** — R. Junge, T. Griessler Bulc, D. Anseeuw, H. Yavuzcan Yildiz, S. Milliken (p. 561). Strategies for embedding aquaponics in STEM curricula, illustrated with cross-country case studies.
 23. **Food, Sustainability, and Science Literacy in One Package? ... a Danish Perspective** — B.E. Mikkelsen, C.M. Bosire (p. 597). Reports on the "Growing Blue & Green" (GBG/eGBG) programme in Danish municipal schools, drawing on **three original empirical/exploratory studies** (an exploratory study, a teacher feasibility study, and a digital-sensor-augmented eGBG study) — this chapter contains its own primary/exploratory data, unlike most others in the volume (see "Notable chapters for follow-up" below).
 24. **Aquaponics and Social Enterprise** — S. Milliken, H. Stander (p. 607). Surveys social-enterprise aquaponics case studies worldwide (UK/Palestine "Byspokes" project, FAO Gaza Strip programme, INMED South Africa, Eden Aquaponics, Growing Power/Sweet Water Organics/CERES in the US/Australia) and synthesises Laidlaw & Magee's (2016) four survival factors for such enterprises. Read in full for this note.
-
-## Linked claims
-- [[Decoupled aquaponics systems reduce nutrient trade-offs between fish and plant components]]
-- [[Aquaponics commercial viability requires effective value chains and supply-chain management]]
-- [[Aquaponics organic certification status is unresolved under EU and US regulation]]
-- [[Aquaponics can serve as a STEM education tool]]
 
 ## Citations to chase
 - [ ] #todo Junge et al. (2017) — "Strategic points in aquaponics" (Water 9:182) — source of the "hype ratio" figures quoted in Ch. 1.

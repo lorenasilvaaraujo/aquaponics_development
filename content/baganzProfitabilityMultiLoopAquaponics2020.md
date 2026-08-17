@@ -7,10 +7,10 @@ doi: "10.1111/are.14610"
 url: "https://doi.org/10.1111/are.14610"
 trials: 1
 tags:
-  - Meta/Type/Field-trial
-  - Meta/Region/Europe
-  - Meta/Fish/African-catfish
-  - Meta/Plant/Tomato
+  - Type/Field-trial
+  - Region/Europe
+  - Fish/African-catfish
+  - Plant/Tomato
 status: read
 quality: caution
 ---
@@ -78,12 +78,6 @@ The authors monitored one real commercial double-recirculating aquaponic (DRAPS)
 **Compared with:**
 - #todo [[Suhl et al. 2016]] — the NFT-vs-drip comparison at this same Waren facility, with the actual split results this paper does not report. *(p.3)*
 - #todo [[Martins et al. 2010]], [[Martins, Ochola, Ende, Eding & Verreth 2009]], [[Verdegem, Bosma & Verreth 2006]] — cited as benchmarks for the 107.5→65.7 L/kg water-use reduction being "demanding but realistic." *(p.6)*
-
-## Linked claims
-
-- [[Multi-loop (decoupled) aquaponics can reach profitability primarily by exploiting fish-effluent transfer water for a large plant unit, not by intensifying the aquaponic coupling itself]]
-- [[Labour and fish feed are the dominant recurring cost drivers in commercial-scale aquaponics]]
-- [[Aquaponic facility profitability is highly sensitive to achievable produce market price, not only to production efficiency]]
 
 ## Citations to chase
 

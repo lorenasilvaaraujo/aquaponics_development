@@ -7,9 +7,9 @@ doi: "10.1016/j.compag.2020.105827"
 url: "https://doi.org/10.1016/j.compag.2020.105827"
 trials: 0
 tags:
-  - Meta/Type/Methods
-  - Meta/Region/NorthAmerica
-  - Meta/Plant/Lettuce
+  - Type/Methods
+  - Region/NorthAmerica
+  - Plant/Lettuce
 status: unread
 quality:
 ---
@@ -84,12 +84,6 @@ The authors built a multi-instance MASK-RCNN model to segment leafy-vegetable pl
 - #todo [[Paturkar et al. 2020]] -- non-destructive 3D reconstruction of chilli plants from a single camera for outdoor growth monitoring; cited as an alternative single-camera 3D approach *(p.2)*.
 - #todo [[Cavallo et al. 2019]] -- computer-vision quality classification of table grapes by colour-level image processing, contactless food-grading precedent motivating this paper's framing *(p.2)*.
 - #todo [[Bai et al. 2018]] -- rice-spike detection via SVM + CNN cascade, cited as a precedent for combining classical image processing with deep learning to reduce false positives *(p.2)*.
-
-## Linked claims
-
-- [[MASK R-CNN multi-instance segmentation can estimate leafy-vegetable growth rate from time-lapse imagery]]
-- [[Linear regression on image-derived plant dimensions predicts leafy-vegetable fresh weight]]
-- [[Leaf occlusion between adjacent plants degrades computer-vision growth measurement accuracy]]
 
 ## Citations to chase
 

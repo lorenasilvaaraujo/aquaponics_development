@@ -7,10 +7,10 @@ doi: "10.3389/fpls.2025.1638443"
 url: "https://doi.org/10.3389/fpls.2025.1638443"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Cucumber
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Cucumber
 status: unread
 quality: ok
 ---
@@ -100,14 +100,6 @@ Leaf gas exchange (net photosynthesis AN, transpiration Tr, stomatal conductance
 ## Resource use efficiency
 
 Water-use efficiency (WUE, kg cucumbers per m³ irrigation water) and fertilizer-use efficiency (FUE, kg cucumbers per kg fertilizer used) were calculated for the whole cultivation period (Table 5): **WUE** — HP 100.5, DCAP 92.9 (7% lower than HP), CAP 57.1 (43.2% lower than HP); **FUE** — HP 34.4, DCAP 59.9 (a ~74% increase over HP per Results/Discussion; the Abstract states 76%, a likely drafting inconsistency — see Extraction notes), CAP not estimated (received no fertilizer at all).
-
-## Linked claims
-
-- [[Coupled aquaponics produces nutrient-deficient solution relative to hydroponics]]
-- [[Decoupled aquaponics systems outperform single-loop coupled systems]]
-- [[Nutrient-limited aquaponic lettuce down-regulates rather than damages its photosynthetic apparatus]] — same down-regulation-not-damage interpretation reported here for cucumber under CAP
-- [[Potassium deficiency in coupled aquaponics limits cucumber photosynthesis and yield]] *(new claim — see Extraction notes)*
-- [[Black soldier fly larvae reared on plant residues support tilapia growth performance in circular aquaponics]] *(new claim — see Extraction notes)*
 
 ## Citations to chase
 

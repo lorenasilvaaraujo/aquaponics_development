@@ -7,10 +7,10 @@ doi: "10.3390/plants12061355"
 url: "https://doi.org/10.3390/plants12061355"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Basil
 status: unread
 quality: suspect
 ---
@@ -78,12 +78,6 @@ The study grew Genovese basil (cv. Sanremo) side by side in a floating-raft hydr
 
 **Compared with:**
 - #todo [[Ciriello Formisano Corrado Nicoletto]] (cited collectively p.7 as refs [3,5,6,9,33]) — nitrate content values in hydroponic Genovese basil under similar cut regimes, said to align with this paper's results.
-
-## Linked claims
-
-- [[Aquaponics can match hydroponic yield while reducing mineral fertiliser input]]
-- [[Cut number is a stronger driver of basil eco-physiology than cultivation system]]
-- [[Aquaponic basil accumulates more dry matter than hydroponic basil across successive cuts]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.12791/ksbec.2022.31.1.067"
 url: "https://doi.org/10.12791/ksbec.2022.31.1.067"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/East-Asia
-  - Meta/Fish/Koi
-  - Meta/Plant/Peucedanum-Japonicum
+  - Type/Experiment
+  - Region/East-Asia
+  - Fish/Koi
+  - Plant/Peucedanum-Japonicum
 status: unread
 quality: caution
 ---
@@ -83,12 +83,6 @@ The authors compared photosynthesis, growth and yield of Peucedanum japonicum T.
 **Compared with:**
 - #todo [[Patane 2011]] — evapotranspiration/leaf-area relationship in tomato under water deficit, cited as background for interpreting AP's lower stomatal conductance/transpiration and higher LAR (p.7)
 - #todo [[Stanghellini et al. 2019]] — greenhouse horticulture textbook, cited on LAR as a growth-driving variable (p.7)
-
-## Linked claims
-
-- [[Aquaponic pH naturally decreases via nitrification without correction]]
-- [[Leaf area ratio can increase under aquaponics via reduced stomatal conductance]]
-- [[Aquaponics can match hydroponic yield for non-leafy specialty/wild-vegetable crops]]
 
 ## Citations to chase
 

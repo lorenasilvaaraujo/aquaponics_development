@@ -7,8 +7,8 @@ doi: "10.18687/LACCEI2023.1.1.653"
 url: "https://laccei.org/LACCEI2023-BuenosAires/meta/FP653.html"
 trials: 0
 tags:
-  - Meta/Type/Systematic-Review
-  - Meta/Region/Central-America
+  - Type/Systematic-Review
+  - Region/Central-America
 status: unread
 quality:
 ---
@@ -93,14 +93,6 @@ This paper is a bibliometric/systematic literature review mapping research trend
 **This paper:** Proposes (Fig. 5), but does not build or test, a system pairing a rice (Oryza sativa)-based P-MFC — chosen for local availability in Panama, high reported P-MFC power density, and dietary relevance — with an aquaponic loop growing tilapia (Oreochromis niloticus) and spinach (Spinacia oleracea), justified by both species' local presence and adaptability to Panama's tropical climate. The design specifies saline rather than fresh water, citing [23] (Thomas et al. 2021) as the basis for the biological parameters to be regulated, and framing saline groundwater use as a way to relieve freshwater-scarcity pressure. The P-MFC is proposed to power the aquaponic system's pump and timer. No performance data, sizing calculations, or cost estimate are given for this proposed system — it remains conceptual.
 
 **Compared with:** (proposal section; no additional literature comparison beyond the sources already cited above)
-
-## Linked claims
-
-- [[Plant microbial fuel cells can generate electricity from living plant rhizodeposits without destructive harvest]]
-- [[Grasses and rice are among the most power-dense plant species for plant microbial fuel cells]]
-- [[Saline groundwater can be used for tilapia-spinach aquaponics to reduce freshwater scarcity pressure]]
-- [[Aquaponics can outperform soil cultivation for sweet potato slip production but reduce leaf phenol and antioxidant content]]
-- [[Tilapia life stage affects both fish survival and companion-plant growth in shared aquaponic systems]]
 
 ## Citations to chase
 

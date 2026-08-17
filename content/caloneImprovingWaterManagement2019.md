@@ -7,10 +7,10 @@ doi: "10.1016/j.scitotenv.2019.06.167"
 url: "https://doi.org/10.1016/j.scitotenv.2019.06.167"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/EuropeanCatfish
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/Europe
+  - Fish/EuropeanCatfish
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -87,13 +87,6 @@ Researchers at a pre-existing experimental catfish (Silurus glanis) RAS in Soest
 
 **Compared with:**
 - #todo Rakocy et al. (2006) — source of the FRR method and the 60-100 g/m2/day optimum range used here. *(p.762)*
-
-## Linked claims
-
-- [[Aquaponic lettuce yield is lower than hydroponic yield when fish-effluent nutrients are unsupplemented]]
-- [[RAS wastewater lacks sufficient K, P, Fe and Mn for optimal hydroponic lettuce growth]]
-- [[Bicarbonate buffering to counteract nitrification-driven pH drops can reduce nutrient solubility in aquaponics]]
-- [[Water consumption does not differ between aquaponic and hydroponic lettuce production]]
 
 ## Citations to chase
 

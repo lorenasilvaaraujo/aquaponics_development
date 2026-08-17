@@ -7,8 +7,8 @@ doi: "10.1016/j.gfs.2020.100349"
 url: "https://doi.org/10.1016/j.gfs.2020.100349"
 trials: 0
 tags:
-  - Meta/Type/Policy
-  - Meta/Region/Middle-East
+  - Type/Policy
+  - Region/Middle-East
 status: unread
 ---
 
@@ -84,12 +84,6 @@ This is a narrative/policy paper arguing that aquaponics deserves a place in Qat
 **Compared with:**
 - #todo [[Goddek Espinal Delaide Jijakli Schmautz Wuertz Keesman 2016]] — system dynamics design approach for decoupled aquaponics, underlying much of the "decoupled beats coupled" argument used throughout *(p.3-4)*
 - #todo [[Li et al 2019]] — pilot-scale aquaponics system using hydroponics and immobilised biofilm for water quality control, cited as evidence a "microbial system degrades wastes significantly and can help improve the water quality" *(p.4)*
-
-## Linked claims
-
-- [[Decoupled aquaponics systems outperform single-loop coupled systems]]
-- [[Aquaponics reduces water use compared with conventional or stand-alone systems]]
-- [[Aquaponics profitability depends on location and scale]]
 
 ## Citations to chase
 

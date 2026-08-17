@@ -7,10 +7,10 @@ doi: "10.1016/j.heliyon.2025.e42339"
 url: "https://doi.org/10.1016/j.heliyon.2025.e42339"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Middle-East
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Watercress
+  - Type/Experiment
+  - Region/Middle-East
+  - Fish/Tilapia
+  - Plant/Watercress
 status: read
 quality: caution
 ---
@@ -85,12 +85,6 @@ Researchers at Yazd University, Iran grew watercress (Nasturtium officinale), a 
 **Compared with:**
 - #todo [[Albadwawi et al. 2022]] — basil in aquaponic vs soil systems also showed higher soil Fe/Zn, cited as corroborating evidence for the chelation explanation. *(p.11, ref. 32)*
 - #todo [[Graber and Junge 2009]] — aquaponic nutrient recycling from fish wastewater, cited as the mechanistic basis for aquaponics' elevated P, S and Mg. *(p.11)*
-
-## Linked claims
-
-- [[Aquaponics can outperform hydroponics and soil in yield and water-use efficiency for a leafy medicinal crop]]
-- [[Soil-grown plants retain higher chlorophyll and micronutrient (Fe, Zn) content than soilless systems, attributed to organic-matter chelation]]
-- [[Aquaponic microbial communities may enhance nutrient uptake beyond what a matched hydroponic nutrient solution alone provides]]
 
 ## Citations to chase
 

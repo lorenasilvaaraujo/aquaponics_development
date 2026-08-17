@@ -7,10 +7,10 @@ doi: "10.3390/plants14091401"
 url: "https://doi.org/10.3390/plants14091401"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Goldfish
-  - Meta/Plant/Acmella-Oleracea
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Goldfish
+  - Plant/Acmella-Oleracea
 status: read
 quality: ok   # 0 BLOCK, 0 MATERIAL; 1 CHECK (NO3-N vs NO3-), 1 MINOR (funding statement contradiction) -- neither counts toward score
 ---
@@ -82,13 +82,6 @@ This greenhouse experiment (MJ Energy Srl, Macerata, Italy, July–September 202
 - #todo [[Benelli et al. 2019]] -- A. oleracea essential oil from central Italy: (E)-caryophyllene 20.8%, β-pinene 17.3%, myrcene 17.1%, caryophyllene oxide 10.0%, spilanthol 3.9% -- broadly comparable profile to this paper's SPME-GC/MS headspace data *(p.8, ref. 35)*
 - #todo [[Jerônimo et al. 2024]] -- A. oleracea essential oil composition: caryophyllene oxide 0.3–2.43%, (E)-caryophyllene 6.71–27.10%, myrcene 1.14–25.03%, germacrene D 0.06–10.27%, 1-pentadecene 3.43%, β-pinene 4.46–10.04% *(p.8, ref. 37)*
 - #todo [[Kavallieratos et al. 2023]] -- analytical method source for HPLC N-alkylamide identification/quantification adopted in this paper's Section 3.4.2 *(p.13, ref. 42)*
-
-## Linked claims
-
-- [[Cultivation system (aquaponic vs hydroponic) can have no detectable effect on a medicinal plant's bioactive-compound content]]
-- [[Cultivar identity can outweigh growing-system identity in determining a plant's phytochemical profile]]
-- [[Harvest/flowering stage can be a stronger driver of secondary-metabolite content than cultivation system]]
-- [[Aquaponic nitrate loading can rise over a trial as fish biomass and feed input increase]]
 
 ## Citations to chase
 

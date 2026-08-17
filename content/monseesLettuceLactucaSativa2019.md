@@ -7,10 +7,10 @@ doi: "10.1371/journal.pone.0218368"
 url: "https://doi.org/10.1371/journal.pone.0218368"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Lettuce
 status: unread
 quality: caution
 ---
@@ -98,14 +98,6 @@ The authors grew butterhead lettuce (Salanova, cv. Descartes RZ) in a nutrient f
 - #todo [[Becker et al. 2015]] -- nitrogen-limited lettuce accumulates more flavonoid glycosides/caffeic acid derivatives, cited as the mechanistic backdrop for why N status (not measured to differ here) could affect phenolics (p.18, ref 60)
 - #todo [[Demsar and Osvald 2003]] -- found a 13% nitrate reduction in lettuce at a NO3:NH4 ratio of 6.6:1 (aeroponic system); this paper's control NO3:NH4 ratio (13.7:1) was too dilute in ammonium to reproduce that effect, offered as one explanation for the nitrate parity here (p.18, ref 69)
 - #todo [[Economakis and Koleilat 1996]] -- longer nitrate feeding duration increases lettuce nitrate accumulation; cited to suggest this paper's ~7-8 week cycle and near-300g harvest weight may already be past the point where a shorter cycle/earlier harvest would have reduced nitrate content (p.18, ref 72)
-
-## Linked claims
-
-- [[Decoupled aquaponics matches hydroponic growth and nutrient status while using less fertilizer]]
-- [[Aquaponic lettuce tissue nitrate is not higher than hydroponic lettuce]]
-- [[Recycling fish water in decoupled aquaponics substantially reduces fertilizer-related greenhouse gas emissions]]
-- [[Disinfecting aquaponic fish water does not change plant growth or quality outcomes]]
-- [[Dissolved organic carbon from RAS-derived water does not reliably improve plant growth in aquaponics]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.1038/s41598-025-33937-0"
 url: "https://doi.org/10.1038/s41598-025-33937-0"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Middle-East
-  - Meta/Fish/Common-Carp
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/Middle-East
+  - Fish/Common-Carp
+  - Plant/Basil
 status: unread
 quality: ok
 ---
@@ -93,13 +93,6 @@ The authors grew green (Italian large leaf) and purple basil in pots (70% cocope
 - #todo [[Roosta and Arabpour 2013]] -- two Iranian basil cultivars, hydroponic vs aquaponic; cited (ref 53) for higher leaf Fe and Mn under hydroponics than aquaponics but higher Zn under aquaponics, the same qualitative pattern the authors describe finding here (p.19)
 - #todo [[Mangeli 2016]] -- tomato; cited again (ref 40) for higher leaf Fe under hydroponics than aquaponics, matching this paper's Fe finding, and for the same "low iron in fish waste" mechanism the authors invoke here (p.19)
 - #todo [[EL-Aila, EL-Sayed and Yassen 2015]] -- spinach, nano-fertilizer and foliar iron; cited (ref 51) for increased leaf K, N and P with iron application, and for an antagonistic Fe-Zn absorption relationship offered as the mechanism for this paper's Zn/Fe pattern under aquaponics (p.19)
-
-## Linked claims
-
-- [[Coupled aquaponics produces nutrient-deficient solution relative to hydroponics]]
-- [[Iron deficiency is a recurring problem in fertilizer-free aquaponic systems]]
-- [[Foliar potassium and iron spray can compensate for coupled-aquaponic nutrient deficiency in basil]]
-- [[Essential oil content in basil is higher under aquaponic than hydroponic nutrient solution]]
 
 ## Citations to chase
 

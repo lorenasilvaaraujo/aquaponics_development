@@ -7,10 +7,10 @@ doi: "10.1016/j.jclepro.2020.124064"
 url: "https://doi.org/10.1016/j.jclepro.2020.124064"
 trials: 3
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/NorthAmerica
-  - Meta/Fish/Shrimp
-  - Meta/Plant/Tomato
+  - Type/Experiment
+  - Region/NorthAmerica
+  - Fish/Shrimp
+  - Plant/Tomato
 status: unread
 quality: suspect
 ---
@@ -87,12 +87,6 @@ The authors built a recirculating aquaculture system (nine 1 m3 shrimp tanks, th
 **Compared with:**
 - #todo [[García-Ruboca et al. 2016]] — greenhouse tomato system profitability CBA=1.89 under comparable climate conditions (p.9). *[secondary comparison in Discussion]*
 - #todo [[Ni et al. 2020]] — shrimp-vegetable rotational farming, net profits 1.63-2.26x higher than shrimp monoculture (p.9). *[secondary comparison in Discussion]*
-
-## Linked claims
-
-- [[Grafting can mitigate salinity stress in tomato]]
-- [[Aquaponic nitrate demand of fruiting crops can conflict with shrimp low-salinity/low-nitrate tolerance]]
-- [[Shrimp zootechnical performance improves with salinity toward the isosmotic point]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: ""
 url: ""
 trials: 2        # number of rows this paper contributes to trials.csv
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Crayfish
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Crayfish
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -76,11 +76,6 @@ Undergraduate researchers at Georgia Southern University ran a randomized comple
 ## Lettuce cultivar comparison
 
 **This paper:** Green leaf lettuce had significantly higher fresh weight than romaine; a non-significant numerical trend showed green leaf taller than romaine; romaine had higher chlorophyll index than green leaf (reversed direction from the biomass/height comparison). No numeric values given for any of these — narrative-only in Results/Discussion.
-
-## Linked claims
-
-- [[Aquaponics and hydroponics can produce statistically equivalent leafy-vegetable yield]]
-- [[Crayfish can serve as the aquatic species in a floating-raft aquaponics system]]
 
 ## Citations to chase
 

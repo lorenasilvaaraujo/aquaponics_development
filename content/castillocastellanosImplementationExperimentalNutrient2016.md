@@ -7,11 +7,11 @@ doi: "10.1007/s10499-015-9954-z"
 url: "https://doi.org/10.1007/s10499-015-9954-z"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Cucumber
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Tilapia
+  - Plant/Lettuce
+  - Plant/Cucumber
 status: unread
 quality: ok
 ---
@@ -97,12 +97,6 @@ The authors designed, built, and ran 12 identical greenhouse recirculating modul
 ## Water quality
 
 **This paper:** Reported only as ranges over the 7-week aquaponic culture period (Table 1, no trial mean given): temperature 26.6–31.6 °C, dissolved oxygen 3.1–6.1 mg L⁻¹, pH 7.5–8.5, electrical conductivity 0.5–0.9 mS cm⁻¹, ammonia 0.5–4.8 mg L⁻¹. No nitrite or nitrate monitoring is reported anywhere in the paper. Water recirculation was ~800% of tank volume per day; ~30 L of make-up water was added every third day to offset evaporation and plant uptake.
-
-## Linked claims
-
-- [[Removing the sump does not impair aquaponic NFT system function]]
-- [[Aquaponic systems underperform hydroponics on lettuce yield under low fish stocking density]]
-- [[Fruiting crops have higher nutrient demand than leafy crops in aquaponics]]
 
 ## Citations to chase
 

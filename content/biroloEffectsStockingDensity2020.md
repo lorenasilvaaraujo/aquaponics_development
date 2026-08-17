@@ -7,10 +7,10 @@ doi: "10.1016/j.aquaculture.2020.735653"
 url: "https://doi.org/10.1016/j.aquaculture.2020.735653"
 trials: 4
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Trout
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Trout
+  - Plant/Lettuce
 status: read
 quality: ok
 ---
@@ -99,12 +99,6 @@ The authors ran a 117-day winter-season trial at the University of Padova, compa
 - #todo [[Somerville et al. 2014]] — small-scale aquaponics design guidelines (10-20 kg m⁻³ stocking density range; 400 mg/L NO3 ceiling for cold species) used directly to justify this paper's density choices and to flag the nitrate overshoot. *(p.2, p.5)*
 - #todo [[Wortman 2015]] — reduced nutrient uptake by plants at higher pH, offered as a partial explanation for progressive nitrate accumulation in this trial. *(p.5)*
 - #todo [[Wang et al. 2020]] — highlights foodborne-pathogen (E. coli STEC) risk in aquaponic/hydroponic systems generally; offered as a counterpoint to this paper's own clean E. coli result. *(p.8)*
-
-## Linked claims
-
-- [[Rainbow trout can be farmed in low-tech aquaponic systems at densities above prior small-scale recommendations without growth or flesh-quality penalties]]
-- [[Aquaponic lettuce yield can match or exceed hydroponic yield without synthetic nitrogen fertilizer]]
-- [[Water nitrate can exceed cold-water aquaponic guideline thresholds without a detectable fish welfare effect in a low-tech system]]
 
 ## Citations to chase
 

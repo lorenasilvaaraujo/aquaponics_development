@@ -7,10 +7,10 @@ doi: "10.17660/ActaHortic.2018.1194.6"
 url: "https://doi.org/10.17660/ActaHortic.2018.1194.6"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-America
-  - Meta/Fish/Trout
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/South-America
+  - Fish/Trout
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -103,13 +103,6 @@ Alcarraz et al. ran a single 21-day completely randomized trial comparing baby l
 **Compared with:**
 - #todo Lennard and Leonard (2006) -- FCR 0.85-0.93 for Murray cod (Maccullochella peelii) in aquaponics. *(p.35)*
 - #todo Palm, Bissa, Knaus (2014) -- FCR 0.85-0.93 for Nile tilapia (Oreochromis niloticus) in aquaponics; FCR described as dependent on feed quality/quantity and water quality. *(p.35)*
-
-## Linked claims
-
-- [[Aquaponic lettuce yield can exceed hydroponic lettuce yield in a single short production cycle]]
-- [[Aquaponic lettuce accumulates less leaf nitrate than hydroponic lettuce grown on a high-nitrate nutrient solution]]
-- [[Aquaponic and hydroponic lettuce do not differ in microbial safety when grown on potable-quality water]]
-- [[Aquaponic and hydroponic lettuce do not differ in functional compound content]]
 
 ## Citations to chase
 

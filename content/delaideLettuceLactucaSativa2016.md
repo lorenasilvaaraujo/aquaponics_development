@@ -7,9 +7,9 @@ doi: "10.3390/w8100467"
 url: "https://doi.org/10.3390/w8100467"
 trials: 4
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Region/Europe
-  - Meta/Plant/Lettuce
+  - Type/Quasi-experiment
+  - Region/Europe
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -113,12 +113,6 @@ The authors ran two independent greenhouse trials (May-Sept 2015) comparing lett
 - Environmental conditions: greenhouse air temperature and relative humidity (Table 3) beyond the "Average room Temperature" column, and total accumulated solar radiant exposure (316.21 MJ/m2 trial 1 vs 180.94 MJ/m2 trial 2), used by the authors to explain the roughly two-fold yield difference between trials.
 
 **No water panel excluded from plant.csv.** The full leaf mineral panel (Table 5) was routed to plant.csv as `mineral` category rows; the water-chemistry panel (Table 4) was routed to trials.csv per SCHEMA.md, not to plant.csv — nothing water-related was dropped as "too valuable to discard."
-
-## Linked claims
-
-- [[Complementing RAS water to hydroponic nutrient levels increases lettuce yield over both aquaponic and hydroponic controls]]
-- [[Aquaponic and hydroponic lettuce shoot yield are similar when nutrient targets differ]]
-- [[Dissolved organic matter and PGPR are candidate mechanisms for RAS-water plant growth promotion]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.1111/are.15637"
 url: "https://doi.org/10.1111/are.15637"
 trials: 5
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lemna-Minor
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Tilapia
+  - Plant/Lemna-Minor
 status: read
 quality: ok
 ---
@@ -92,12 +92,6 @@ The authors ran three linked experiments at the University of Guanajuato (Irapua
 - #todo [[Rafiee and Saad 2005]] — in tilapia generally, only 40-43% of feed is assimilated into flesh, the rest excreted; this study's 16-17% dry-matter-to-fish-biomass conversion is lower still, attributed to the short trial duration and larger initial fish size (SGR 1.4% animal/day). *(p.11)*
 - #todo [[Appenroth et al. 2017]] — 25% crude protein in L. minor under lab conditions, vs [[Bergmann et al. 2000]] 13.4% under similar conditions — both below this study's 30.0% CP, attributed to nutrients being continuously dissolved and available for root uptake in aquaponics. *(p.10)*
 - #todo [[Capriotti et al. 2018]] — RGR of 0.349 for L. minor in a commercial salts/sucrose mixture, close to this study's 0.385 (5 m2, per-area basis); [[Iatrou et al. 2018]] reported 0.190 and [[Basiglini et al. 2018]] 0.091 for L. minor/L. gibba in treated/untreated industrial waters respectively — both lower, attributed to lower nutrient demand availability in those systems. *(p.10, p.12)*
-
-## Linked claims
-
-- [[Lemna minor performs best in aquaponics at short hydraulic retention time and high flow rate, unlike substrate-rooting plants]]
-- [[Planting density in duckweed aquaponics trades off biomass production against crowding-driven frond mortality]]
-- [[Duckweed retains a smaller share of system nitrogen and phosphorus than fish, but is comparatively efficient among plant biofilter species]]
 
 ## Citations to chase
 

@@ -7,9 +7,9 @@ doi: "10.5281/zenodo.8196953"
 url: "https://doi.org/10.5281/zenodo.8196953"
 trials: 0
 tags:
-  - Meta/Type/Meta-analysis
-  - Meta/Region/Global
-  - Meta/Plant/Lettuce
+  - Type/Meta-analysis
+  - Region/Global
+  - Plant/Lettuce
 status: unread
 ---
 
@@ -69,11 +69,6 @@ The authors claim to have systematically searched Web of Science, Scopus, and Go
 
 **Compared with:**
 - #todo [[Yavuzcan Yildiz et al. 2021]] — comparative growth/yield/quality study, lettuce, hydroponic vs aquaponic (Scientia Horticulturae 279, 109881); cited in reference list with a truncated URL ("https" with nothing after it, p.21) — worth verifying independently.
-
-## Linked claims
-
-- [[Hydroponic systems can outyield aquaponic systems for leafy greens]]
-- [[Lettuce quality is comparable between hydroponic and aquaponic production]]
 
 ## Citations to chase
 

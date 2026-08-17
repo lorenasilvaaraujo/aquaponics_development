@@ -7,8 +7,8 @@ doi: "10.1016/j.matpr.2020.11.557"
 url: "https://doi.org/10.1016/j.matpr.2020.11.557"
 trials: 0
 tags:
-  - Meta/Type/Technical-Note
-  - Meta/Region/South-Asia
+  - Type/Technical-Note
+  - Region/South-Asia
 status: unread
 quality:
 ---
@@ -113,12 +113,6 @@ This is a short (6-page) proceedings paper proposing an IoT-based monitoring sys
 **This paper:** Table 3 gives qualitative ideal NPK levels by stage (Vegetative: N High / P Medium / K High; Reproduction: N Low / P High / K High), and running text (p.3) gives numeric ratios: 7-9-5 (N-P-K) for the vegetative stage, 5-15-14 for the reproductive stage. CO2 targets: ambient ~400 ppm (0.04%) is described as sufficient only at germination; 800-1500 ppm is needed at vegetative/flowering stages (Fig. 3); CO2 is reduced once growth stops at maturity, and the paper separately warns that "excess supply of CO2 severely causes plant damages" without giving an upper safety limit. Light: 8-10 h/day at seedling stage, 16-18 h light + 8 h darkness at vegetative stage, tapering to 10 h at the reproductive stage; the LED temperature range for germination/growth is given as 71-80°F. None of these numbers are attributed to a measurement taken on the authors' own prototype system — they read as general/ideal design targets for hydroponic tomato, restated from the sensor/hydroponics literature the paper cites elsewhere, without a specific citation attached to each individual figure.
 
 **Compared with:** (no external literature comparison given for these specific numeric ranges — see Review scope's "Key figures cited" sourcing caveat)
-
-## Linked claims
-
-- [[Plant height can serve as an automatable proxy for vegetative-stage onset in hydroponic tomato]]
-- [[Faster R-CNN flower detection can serve as an automatable proxy for reproductive-stage onset]]
-- [[IoT sensor networks can automate nutrient and environmental control in soilless vertical farming]]
 
 ## Citations to chase
 

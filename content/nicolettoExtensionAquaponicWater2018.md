@@ -7,10 +7,10 @@ doi: "10.3390/agronomy8050075"
 url: "https://doi.org/10.3390/agronomy8050075"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Plant/Mizuna
-  - Meta/Plant/Rocket
+  - Type/Experiment
+  - Region/Europe
+  - Plant/Mizuna
+  - Plant/Rocket
 status: unread
 quality: ok
 ---
@@ -85,12 +85,6 @@ Dry matter: CAPW dry matter was ">14%" in both cycles; the highest overall value
 **Compared with:**
 - #todo [[Martínez-Sánchez et al. 2008]] — comparative antioxidant/vitamin C study across baby-leaf Brassicaceae, found no significant AOC difference between rocket and mizuna, in agreement with this paper's own values *(p.15)*
 - #todo [[Maucieri et al. 2017]] — vegetable intercropping in a small-scale aquaponic system, similar intercropping-driven antioxidant increase reported for red chicory-lettuce *(p.15)*
-
-## Linked claims
-
-- [[Aquaponic water depleted of P and K can be reused for a secondary hydroponic crop if supplemented]]
-- [[Complemented aquaponic water can outperform hydroponic control due to biostimulant effects]]
-- [[Nutrient-stressed plants show elevated antioxidant capacity and tissue ion concentrations]]
 
 ## Citations to chase
 

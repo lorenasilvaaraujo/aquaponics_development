@@ -8,15 +8,15 @@ url: "https://doi.org/10.5657/KFAS.2019.0482"
 trials: 15
 quality: ok
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/East-Asia
-  - Meta/Fish/Catfish
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Swiss-Chard
-  - Meta/Plant/Mustard
-  - Meta/Plant/Pak-Choi
-  - Meta/Plant/Celery
-  - Meta/Plant/Tatsoi
+  - Type/Experiment
+  - Region/East-Asia
+  - Fish/Catfish
+  - Plant/Lettuce
+  - Plant/Swiss-Chard
+  - Plant/Mustard
+  - Plant/Pak-Choi
+  - Plant/Celery
+  - Plant/Tatsoi
 status: read
 ---
 
@@ -101,12 +101,6 @@ This is a production-scale (165 m² total footprint) field trial in Gyeonggi Pro
 **Compared with:**
 - #todo [[Emerenciano et al. 2017]] — biofloc technology as a water-quality management tool, method basis for HBFT-AP's beneficial-microbe/organic-carbon dosing protocol *(Materials and Methods, p.485)*
 - #todo [[Russo et al. 1981]] — acute nitrate toxicity to rainbow trout, cited for RAS water-quality management rationale *(Introduction)*
-
-## Linked claims
-
-- [[Aquaponic vegetable growth can match hydroponic growth despite lower and more variable pH]]
-- [[Aquaponic fish blood chemistry differs from recirculating-aquaculture controls without a corresponding growth-performance difference]]
-- [[Low pH below 5.0 suppresses leafy vegetable growth in both aquaponic and hydroponic systems]]
 
 ## Citations to chase
 

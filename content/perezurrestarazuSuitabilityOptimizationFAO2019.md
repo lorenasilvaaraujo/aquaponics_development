@@ -7,10 +7,10 @@ doi: "10.1016/j.aquaeng.2019.04.001"
 url: "https://doi.org/10.1016/j.aquaeng.2019.04.001"
 trials: 6
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Goldfish
-  - Meta/Plant/Lettuce
+  - Type/Quasi-experiment
+  - Region/Europe
+  - Fish/Goldfish
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -92,13 +92,6 @@ The authors built three small-scale aquaponic systems (SAS1-SAS3) at the Univers
 - #todo [[Barbosa et al. 2015]] -- lettuce water footprint ~250 L/kg (land-based), ~20 L/kg (hydroponic); cited alongside Mekonnen and Hoekstra as a second baseline. *(p.135, secondary)*
 - See [[delaideEffectWastewaterPikeperch2019]] is a different, later Delaide paper already in this vault; the paper actually cited here for a 50/50 crop/fish water-need split and a 100-250 L/kg range is #todo [[Delaide et al. 2017]] (PAFF Box small-scale aquaponic system, J. Aquac. Eng. Fish. Res. 78) -- NOT yet in the vault, kept separate to avoid conflating the two Delaide papers. *(p.135, secondary)*
 - #todo [[Silva et al. 2018]] -- dynamic root floating technique reduced electric power consumption 11.4% in aquaponics; cited as an example energy-optimisation strategy, not a water-footprint comparator. *(p.136, secondary)*
-
-## Linked claims
-
-- [[Hydroponic subsystem design drives aquaponic lettuce yield more than the aquaponic principle itself]]
-- [[Nutrient film technique outperforms floating raft and vertical living-wall subsystems for small-scale aquaponic lettuce production]]
-- [[Vertical living-wall hydroponic subsystems underperform for leafy vegetable yield despite working well for ornamental plants]]
-- [[Fish growth and survival in small-scale aquaponics are largely insensitive to hydroponic subsystem design]]
 
 ## Citations to chase
 

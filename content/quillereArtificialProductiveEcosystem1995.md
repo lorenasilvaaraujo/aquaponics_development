@@ -7,11 +7,11 @@ doi: "10.1016/0167-8809(94)00551-o"
 url: "https://doi.org/10.1016/0167-8809(94)00551-o"
 trials: 2
 tags:
-  - Meta/Type/Exploratory
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Tomato
-  - Meta/Plant/Lettuce
+  - Type/Exploratory
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Tomato
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -112,13 +112,6 @@ This is Part 2 ("Performance") of a two-part INRA study; Part 1 (Quillère et al
 - #todo [[Lewis et al. 1978]] -- 6.6% daily water renewal, within this paper's comparison range (p.25)
 - #todo [[Sutton and Lewis 1982]] -- 6% daily water renewal, within this paper's comparison range (p.25)
 - #todo [[Watten and Busch 1984]] -- 2.6% daily water renewal, at the low end vs this paper's range (p.25)
-
-## Linked claims
-
-- [[Fish-plant compartment size synchronization determines nitrogen recovery efficiency in closed aquaponic ecosystems]]
-- [[Growing fish populations paired with staggered plant cropping keep aquaponic water nitrogen low]]
-- [[Aquaponic tomato yield can approach conventional hydroponic yield with substantially reduced fertilizer input]]
-- [[Lettuce cultivar choice strongly affects relative yield performance in aquaponic systems]]
 
 ## Citations to chase
 

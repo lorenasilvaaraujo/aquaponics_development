@@ -7,9 +7,9 @@ doi: "10.3390/horticulturae10050514"
 url: "https://doi.org/10.3390/horticulturae10050514"
 trials: 6
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/Europe
+  - Plant/Lettuce
 status: read
 quality: ok
 ---
@@ -86,13 +86,6 @@ The authors grew lettuce (cv. Station) in a pilot greenhouse in Velestino, Greec
 **This paper:** 49 metabolites identified (17 organic acids, 9 amino acids, 15 water-soluble sugars, 5 sugar alcohols, 3 other), quantified by relative abundance vs. an internal standard (adonitol) and presented only as a heatmap of fold-change vs. HP control (Fig. 5) — actual values are in Supplementary Table S2, not included in the PDF provided for this extraction. DCAP, DCAP-BS2, and HP-BS2 showed broad increases across amino acids, organic acids (notably TCA-cycle intermediates: citric, malic, succinic, isocitric acids), and sugars relative to HP; CAP and CAP-BS1 showed the opposite pattern (10 significantly decreased metabolites). Common responses across all treatments: decreased threonine, xylose, and butyric acid; increased aspartic acid, glycine, oxalic acid, succinic acid, and meso-erythritol.
 
 **Not entered in `plant.csv`:** no absolute numeric values available in the main text/figures per the "never read a value off a figure" rule; see Extraction notes.
-
-## Linked claims
-
-- [[Coupled aquaponics produces nutrient-deficient solution relative to hydroponics]]
-- [[Decoupled aquaponics can match hydroponic lettuce yield with lower chemical inputs]]
-- [[Plant biostimulants do not substitute for fertilization under high nutrient demand]]
-- [[Nutrient-limited aquaponic lettuce down-regulates rather than damages its photosynthetic apparatus]]
 
 ## Citations to chase
 

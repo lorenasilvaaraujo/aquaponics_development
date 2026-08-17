@@ -7,11 +7,11 @@ doi: "10.3390/plants13020291"
 url: "https://doi.org/10.3390/plants13020291"
 trials: 9
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Trout
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Basil
+  - Type/Quasi-experiment
+  - Region/Europe
+  - Fish/Trout
+  - Plant/Lettuce
+  - Plant/Basil
 status: unread
 quality: ok
 ---
@@ -119,15 +119,6 @@ Two researchers at Mendel University in Brno grew three leafy crops -- red multi
 **This paper:** In a separate assay (no crop plants involved), samples from the RAS biofilter were split into three beakers (non-inoculated control, T. harzianum, B. mojavensis) with ammonia adjusted to ~6 mg TAN/L. TAN and nitrite followed a similar declining trend across all three variants over 10 h with no significant differences; nitrate followed the same increasing trend in all three. The authors conclude neither inoculant, at the manufacturer-recommended dosage, harmed nitrifying-bacteria activity over this short window, while noting that a longer-term assessment would be needed to rule out competitive effects or inoculum overgrowth.
 
 **Compared with:** (no external literature comparison given for the biofilter-safety result specifically)
-
-## Linked claims
-
-- [[PGPM inoculation of aquaponic nutrient solution increases leaf number without increasing crop yield]]
-- [[Trichoderma harzianum inoculation increases basil tissue nitrate and vitamin C content in aquaponics]]
-- [[Bacillus mojavensis inoculation increases removal of sodium and chloride from aquaponic nutrient solution]]
-- [[Aquaponic nutrient solution derived from RAS water is deficient in potassium, phosphorus, and iron relative to hydroponic targets]]
-- [[PGPM inoculation does not affect nitrifying bacteria activity in aquaponic biofilters over the short term]]
-- [[Aquaponic-grown plants show higher nutrient-use efficiency for potassium, phosphorus, and magnesium than hydroponic controls despite lower solution concentrations]]
 
 ## Citations to chase
 

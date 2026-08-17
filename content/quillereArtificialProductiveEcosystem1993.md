@@ -7,10 +7,10 @@ doi: "10.1016/0167-8809(93)90133-a"
 url: "https://doi.org/10.1016/0167-8809(93)90133-a"
 trials: 1
 tags:
-  - Meta/Type/Exploratory
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Tomato
+  - Type/Exploratory
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Tomato
 status: unread
 quality: caution
 ---
@@ -89,13 +89,6 @@ The authors built and ran a single 2 m3 pilot aquaponic system at INRA Versaille
 - #todo [[Statistical Analysis Systems 1969]] -- cited literature reference for tomato leaf/fruit mineral composition benchmarks (source of the 140%/90% comparison figures) (p.26) *[secondary, cites SAS 1969]*
 - #todo [[Musard 1988]] -- cited alongside SAS 1969 as the literature basis for expected tomato mineral composition (p.26) *[secondary, cites Musard 1988]*
 - #todo [[Odet and Musard 1989]] -- cited for the link between low potassium status and paler leaf colour in tomato, used to explain this system's persistently pale leaves despite iron correction (p.25)
-
-## Linked claims
-
-- [[Fish-effluent water alone does not meet hydroponic plant potassium and phosphate requirements]]
-- [[A dedicated nitrifying biofilter keeps recirculating water nitrate low and stable across an aquaponic tomato production cycle]]
-- [[High aquaponic water pH reduces iron availability to hydroponically grown plants]]
-- [[Physically separating fish, biofilter, and plant compartments into independent circuits allows individual optimization of an aquaponic system]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.19136/era.a11n1.3866"
 url: "https://doi.org/10.19136/era.a11n1.3866"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Swiss-Chard
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Tilapia
+  - Plant/Swiss-Chard
 status: unread
 quality: ok
 ---
@@ -89,12 +89,6 @@ The authors ran a single 16-week (112-day) Swiss chard crop side by side in six 
 **Compared with:**
 - #todo [[De Lima et al. 2014]] -- GIFT-strain Nile tilapia growth-curve modelling; reported growth rate of 3.295 g/day, the comparator this paper's own 0.77 g/day is measured against *(p.7)*
 - #todo [[Santos et al. 2013]] -- Nile tilapia growth curves at different temperatures, cited as general support for temperature being a major driver of fish growth rate *(p.7)*
-
-## Linked claims
-
-- [[Hydroponic Swiss chard outyields aquaponic Swiss chard when aquaponic plant-bed nitrate is substantially lower]]
-- [[A combined biofilter-clarifier can support adequate nitrification in a small-scale aquaponic system]]
-- [[Foliar iron and calcium supplementation is used to offset nutrient limitations in aquaponic leafy-vegetable production]]
 
 ## Citations to chase
 

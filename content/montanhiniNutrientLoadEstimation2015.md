@@ -7,9 +7,9 @@ doi: "10.1111/are.12280"
 url: "https://doi.org/10.1111/are.12280"
 trials: 0
 tags:
-  - Meta/Type/Modelling
-  - Meta/Region/South-America
-  - Meta/Fish/Tilapia
+  - Type/Modelling
+  - Region/South-America
+  - Fish/Tilapia
 status: unread
 quality:
 ---
@@ -98,13 +98,6 @@ The authors combined three data streams to build a stage-by-stage (fry/juvenile/
 ## Relevance to aquaponics (why this note-only fish paper is in the vault)
 
 This paper has no plant, hydroponic, or aquaponic component whatsoever — it is a pure open-reservoir cage-aquaculture nutrient-budget study, framed entirely around environmental/eutrophication impact of tilapia farming in Brazilian reservoirs. Its relevance to this vault is as a **parametrization source** for fish-waste nutrient-partitioning fractions (feed-loss %, digestibility %, and the split of consumed-but-not-retained nutrients between faeces and soluble/dissolved excretion) that aquaponics system designers need to size biofilters, remineralization units, or sludge-handling components. The vault already cites this exact paper for this purpose: `notes/goddekNavigatingDecoupledAquaponic2016.md` uses "[[Neto and Ostrensky 2013]]" (same paper, cited there under its online-first year — see Extraction notes) to parametrize a sludge/ANRC nutrient-partitioning model (Table 5 of that paper), comparing this paper's literature-derived N/P sludge-partitioning values against its own RAS "personal observations." That existing citation can now be resolved to this full note.
-
-## Linked claims
-
-- [[Nile tilapia feeding losses average approximately 18 percent of feed supplied in caged aquaculture]]
-- [[Phosphorus is the least digestible major nutrient in commercial tilapia feed]]
-- [[Fish waste nutrient loads can be partitioned into feeding losses, indigestible faecal fraction, and soluble excretion]]
-- [[Cage-farmed tilapia have higher nutrient deposition efficiency than reported for some other cage-farmed species]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.59720/19-074"
 url: "https://doi.org/10.59720/19-074"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Goldfish
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Goldfish
+  - Plant/Lettuce
 status: read
 quality: ok
 ---
@@ -69,11 +69,6 @@ Two middle-school students built a paired raft (deep water culture) system to co
 ## System design and equipment
 
 **This paper:** Both systems used an identical black plastic reservoir, a drilled Styrofoam raft, and net pots filled with rockwool and Lightweight Expanded Clay Aggregate (LECA) stones (Methods, p.4). The aquaponic reservoir held three *Carassius auratus* (goldfish) fed standard fish flakes daily, ad libitum, for two to three minutes; the hydroponic reservoir instead received one teaspoon of hydroponic nutrients every seven days (Methods, p.4). Both reservoirs shared two LED grow lights and received a 3.8 L weekly water top-up to offset evaporation (Methods, p.4). No pump, filter, or water-recirculation loop is described in either system — fish/nutrients and plant roots share the same static body of water directly.
-
-## Linked claims
-
-- [[Aquaponics can produce comparable or better plant growth than hydroponics]]
-- [[Exposed plant roots in raft systems are vulnerable to fish grazing]]
 
 ## Citations to chase
 

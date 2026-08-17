@@ -8,12 +8,12 @@ url: "https://doi.org/10.5338/KJEA.2023.42.4.46"
 trials: 4
 quality: suspect
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/East-Asia
-  - Meta/Fish/Catfish
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Chicory
-  - Meta/Plant/Endive
+  - Type/Experiment
+  - Region/East-Asia
+  - Fish/Catfish
+  - Plant/Lettuce
+  - Plant/Chicory
+  - Plant/Endive
 status: read
 ---
 
@@ -87,11 +87,6 @@ Researchers at Korea's National Institute of Agricultural Sciences ran a small-s
 - #todo [[Lee 2021]] — comparative growth of leafy vegetables in hybrid BFT-aquaponics with yellow koi fish (Cyprinus carpio) vs hydroponics *(cited Introduction, ref. 14)*
 - #todo [[Lee and Kim 2021]] — comparative growth of leafy vegetables in hybrid BFT-aquaponics with Japanese eel (Anguilla japonica) vs hydroponics *(cited Introduction, ref. 15)*
 - #todo [[Lee 2022]] — water quality change and growth of Siberian sturgeon, basil, and 4 leafy vegetables via auto/heterotrophic microorganisms in HBFT aquaponics *(cited Introduction, ref. 16)*
-
-## Linked claims
-
-- [[Aquaponic fish wastewater outperforms conventional hydroponic nutrient solutions for leafy vegetable yield]]
-- [[Bacillus and Chlorella biostimulants can be co-applied in a biofloc aquaponic loop]]
 
 ## Citations to chase
 

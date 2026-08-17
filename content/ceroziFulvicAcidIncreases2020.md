@@ -7,10 +7,10 @@ doi: "10.1016/j.aquaeng.2020.102091"
 url: "https://doi.org/10.1016/j.aquaeng.2020.102091"
 trials: 5
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Tilapia
+  - Plant/Basil
 status: unread
 quality: ok
 ---
@@ -76,12 +76,6 @@ Cerozi used an operating recirculating aquaponic system (blue tilapia at 50 kg/m
 ## Theoretical iron mass balance (Table 1, Theory and Calculations)
 
 **This paper:** Using literature parameters for a *generic tilapia–lettuce* system (not this paper's own tilapia/basil system), the author calculates a hypothetical 28-day-cycle iron influx of 25.2 mg/m² from feed vs. 22.2 mg/m² removed in lettuce dry biomass, i.e. a theoretical surplus of 3.0 mg/m² (p.1–2). All four input/output parameters (feeding rate, iron content of tilapia feed, excretion rate, lettuce iron content, lettuce dry mass yield) are secondary values from other papers (Rakocy 2012; Pantanella et al. 2012; El-Sayed 2006; Timmons et al. 2018), not measured here, and lettuce is a different species from the basil actually grown in this paper's real system. **Not extracted to plant.csv or trials.csv** — these are secondary literature figures assembled into an illustrative calculation, not this paper's own data. Marked `*[secondary, cites Pantanella et al. 2012 / Rakocy 2012 / El-Sayed 2006 / Timmons et al. 2018]*` per the secondary-figures rule.
-
-## Linked claims
-
-- [[Fulvic acid increases dissolved iron availability in aquaponic solution]]
-- [[Fish solid waste contains iron that can be recovered via complexation before precipitation]]
-- [[Solution pH has little effect on iron availability in aquaponics except at low pH]]
 
 ## Citations to chase
 

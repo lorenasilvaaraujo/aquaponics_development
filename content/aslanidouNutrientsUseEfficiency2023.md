@@ -7,13 +7,13 @@ doi: "10.3390/horticulturae9101077"
 url: "https://doi.org/10.3390/horticulturae9101077"
 trials: 8
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Basil
-  - Meta/Plant/Cucumber
-  - Meta/Plant/Parsley
-  - Meta/Plant/Tomato
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Plant/Basil
+  - Plant/Cucumber
+  - Plant/Parsley
+  - Plant/Tomato
 status: unread
 quality: caution
 ---
@@ -72,13 +72,6 @@ The authors ran a pilot-scale greenhouse aquaponics facility in Velestino, Greec
 ## Plant nutrient content and NUE (not extractable to CSV)
 
 Leaf/fruit tissue N, P, K, Ca, Na content (Figures 6–7) and NUE percentages for N, P, K, Ca, Na per crop and treatment (Figure 8), plus the standard-nutrient-ratio comparisons (Figure 5), are reported **only as bar charts** with error bars and significance letters — no companion data table and no values stated in running text beyond relative percentage differences (e.g., "44% higher sodium," "phosphorous percentage difference of 55%"). Per the prime directive, none of these were read off the figures, so `plant_measurements.csv` receives zero rows from this paper (see Extraction notes).
-
-## Linked claims
-
-- [[Coupled aquaponics produces nutrient-deficient solution relative to hydroponics]]
-- [[Decoupled aquaponics can match hydroponic nutrient solution quality]]
-- [[Fruiting crops are more sensitive to aquaponic nutrient deficiency than leafy crops]]
-- [[RAS-derived nutrient solution may enhance nutrient use efficiency independent of concentration]]
 
 ## Citations to chase
 

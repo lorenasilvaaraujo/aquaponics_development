@@ -7,10 +7,10 @@ doi: "10.5004/dwt.2011.2761"
 url: "https://doi.org/10.5004/dwt.2011.2761"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Southeast-Asia
-  - Meta/Plant/Water-Spinach
-  - Meta/Plant/Mustard-Green
+  - Type/Experiment
+  - Region/Southeast-Asia
+  - Plant/Water-Spinach
+  - Plant/Mustard-Green
 status: unread
 quality: ok
 ---
@@ -66,11 +66,6 @@ The authors ran an aquaponics recirculation system (ARS) treating aquaculture wa
 **Compared with:**
 - #todo [[Endut et al. 2010]] — same author group's earlier HRT-optimisation work pairing Ipomoea aquatica with Clarias gariepinus (African catfish) in Malaysia; already flagged as a citation to chase in other notes in this vault (`buzbyScalingAquaponicSystems2014.md`, `camargocastellanosSystemManagementLemna2022.md`) *(secondary reference — not confirmed whether this 2011 paper cites it, since the reference list is unavailable)*
 - #todo [[Endut et al. 2014]] — same author group's nitrogen-budget paper, already flagged as a citation to chase in `aljenaidNutrientFilmTechnique2026.md`
-
-## Linked claims
-
-- [[Water spinach removes nutrients from aquaculture wastewater more effectively than mustard green]]
-- [[Root structure influences nutrient removal efficiency in aquaponics]]
 
 ## Citations to chase
 

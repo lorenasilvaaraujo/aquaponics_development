@@ -7,9 +7,9 @@ doi: "10.1007/s11356-024-34418-z"
 url: "https://doi.org/10.1007/s11356-024-34418-z"
 trials: 0
 tags:
-  - Meta/Type/Modelling
-  - Meta/Region/South-Asia
-  - Meta/Plant/Tomato
+  - Type/Modelling
+  - Region/South-Asia
+  - Plant/Tomato
 status: unread
 quality:
 ---
@@ -72,11 +72,6 @@ This paper studies a **generic greenhouse climate-control problem** (temperature
 - GA parameters: population 100, 100 iterations, crossover probability 0.8, mutation probability 0.1.
 - CDMPC parameters: prediction horizon Np = 100, control horizon Nc = 20, Ts = 15 min, Q = diag(1,1,1), R = diag(0.1,0.1,0.1).
 - PI gains (Table 7): PI_Tair Kp = 0.08, Ki = 0.01106; PI_Cair Kp = 1, Ki = 0.1184; PI_Hair Kp = 0.087, Ki = 0.01164.
-
-## Linked claims
-
-- [[Model predictive control outperforms PI control for MIMO greenhouse climate regulation]]
-- [[Constant PSO-derived setpoints avoid the energy/complexity cost of online setpoint re-optimization]]
 
 ## Citations to chase
 

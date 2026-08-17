@@ -7,10 +7,10 @@ doi: "10.1186/s12870-025-07953-1"
 url: "https://doi.org/10.1186/s12870-025-07953-1"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Africa
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Rocket
+  - Type/Experiment
+  - Region/Africa
+  - Fish/Tilapia
+  - Plant/Rocket
 status: read
 quality: caution
 ---
@@ -79,12 +79,6 @@ Two NFT aquaponic systems, identical except for biofilter substrate (biochar fro
 ## Microbiology and food safety
 
 **This paper:** Neither system showed *Staphylococcus* spp., *E. coli*, or fecal enterococci contamination in any compartment (Table 2). Only *Pseudomonas aeruginosa* and total coliforms were detected, at low levels, mainly in the fish tank. See ⚠️MATERIAL flag below regarding the *E. coli* claim in the results text, which the table itself does not support.
-
-## Linked claims
-
-- [[Biochar improves nitrification in aquaponic biofilters]]
-- [[Higher nitrogen availability suppresses secondary plant metabolites]]
-- [[Bacteria can decrease vegetable quality]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.1007/s10499-024-01759-y"
 url: "https://doi.org/10.1007/s10499-024-01759-y"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-America
-  - Meta/Fish/Tambaqui
-  - Meta/Plant/Arugula
+  - Type/Experiment
+  - Region/South-America
+  - Fish/Tambaqui
+  - Plant/Arugula
 status: read
 quality: suspect
 ---
@@ -96,12 +96,6 @@ Researchers at UFRPE built eight small-scale (200 L fish tank) aquaponic units i
 - #todo [[Rizal et al. 2018]] — optimistic on short value-chain aquaponic ROI via direct-to-consumer sales
 - #todo [[Greenfeld et al. 2019]] — categorizes aquaponics as "beneficial to society, but with low profitability," argues for public subsidy
 - #todo [[Silva and Van Passel 2020]] — proposes including aquaponics in Brazilian Inovagro/BNDES rural financing criteria
-
-## Linked claims
-
-- [[NFT outperforms floating raft for microgreen production in aquaponics]]
-- [[Aquaponic plant revenue typically exceeds fish revenue at small scale]]
-- [[Low system alkalinity drives pH instability in aquaponics]]
 
 ## Citations to chase
 

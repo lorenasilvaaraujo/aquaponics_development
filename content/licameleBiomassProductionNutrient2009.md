@@ -7,10 +7,10 @@ doi: "no DOI found"
 url: "NR"
 trials: 6
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/NorthAmerica
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/NorthAmerica
+  - Fish/Tilapia
+  - Plant/Lettuce
 status: unread
 quality: suspect   # worst-case across 6 trial rows: T3 and T6 = suspect (2+ BLOCK / misattribution); T1,T2,T4,T5 = ok. See per-trial quality in Extraction notes.
 ---
@@ -85,13 +85,6 @@ This dissertation reports three linked experiments run in University of Arizona 
 - #todo [[Quillere et al. 1995]] — artificial fish/bacteria/plant ecosystem, 60% nitrogen recovery (31% fish, 28% tomato); cited repeatedly (main text, Appendix A, Appendix C) as the benchmark nitrogen-recovery figure this dissertation's ~93% utilization claim is set against.
 - #todo [[Rakocy et al. 2004]] — UVI aquaponic system update; source of the oft-repeated "500 L water per $100 of fish+lettuce product" and "100 kg fish tank density" design figures cited throughout.
 - #todo [[Broadley et al. 2003]] — nitrogen and nitrate economy of Butterhead lettuce; cited for lettuce nitrogen uptake physiology.
-
-## Linked claims
-
-- [[Aquaponics water requires micronutrient supplementation over time]]
-- [[Fish stocking density affects lettuce yield and greenness in aquaponics]]
-- [[Aquaponics can match hydroponic lettuce yield and quality with supplementation]]
-- [[Iron zinc and manganese deplete in aquaponic systems over time]]
 
 ## Citations to chase
 

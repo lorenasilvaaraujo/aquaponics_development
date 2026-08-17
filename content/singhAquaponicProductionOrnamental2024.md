@@ -7,10 +7,10 @@ doi: "10.55362/IJE/2024/4360"
 url: "https://doi.org/10.55362/IJE/2024/4360"
 trials: 3
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-Asia
-  - Meta/Fish/Koi-Carp
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/South-Asia
+  - Fish/Koi-Carp
+  - Plant/Lettuce
 status: read
 quality: suspect
 ---
@@ -77,12 +77,6 @@ Three koi carp (Cyprinus carpio) stocking densities (20, 30, 40 fish m⁻³ — 
 ## Water quality and nutrient removal
 
 **This paper:** Aq pH, DO, water temperature, and most water-quality parameters stayed in the range reported as suitable for fish culture across all treatments (Table 2). Nutrient removal by the lettuce bed exceeded 95% for ammonia-N, nitrate-N, and ortho-phosphate by day 90 (Table 3). NO2-N carries an internal contradiction between Table 2's own statistics and the Results text — see ⚠️MATERIAL flag below.
-
-## Linked claims
-
-- [[Aquaponic stocking density increases total fish biomass yield despite reducing individual fish growth]]
-- [[Aquaponic-grown lettuce outyields soil-bed lettuce with higher pigment content]]
-- [[Fish trial duration contradiction]]
 
 ## Citations to chase
 

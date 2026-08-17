@@ -7,10 +7,10 @@ doi: "10.3390/ani15030317"
 url: "https://doi.org/10.3390/ani15030317"
 trials: 4
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Oceania
-  - Meta/Fish/Jade-Perch
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/Oceania
+  - Fish/Jade-Perch
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -87,13 +87,6 @@ CSIRO researchers ran a 63-day, 4-arm trial (n=3 replicate systems each) compari
 **Compared with:**
 - #todo [[Beauchamp et al. 2018]] — sodium levels only impacted lettuce performance above 400 mg/L Na (1200 mg/L NaCl) when EC exceeded 4332 µS/cm; this study's sodium/EC stayed below that threshold *(secondary, p.14)*
 - #todo [[Lenz et al. 2017]] — low-salinity (3 ppt) tilapia-lettuce aquaponics where elevated sodium impaired plant growth *(secondary, p.14)*
-
-## Linked claims
-
-- [[Mineral supplementation improves aquaponic plant performance relative to unsupplemented aquaponics]]
-- [[Hydroponics can outperform aquaponics on plant yield, especially in immature systems]]
-- [[System maturation time affects aquaponic nutrient availability and plant performance independent of supplementation]]
-- [[Coupling fish and plant production does not necessarily reduce fish growth performance relative to fish-only RAS]]
 
 ## Citations to chase
 

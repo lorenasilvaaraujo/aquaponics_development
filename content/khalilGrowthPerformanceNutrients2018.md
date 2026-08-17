@@ -7,10 +7,10 @@ doi: "10.17660/eJHS.2018/83.6.7"
 url: "https://doi.org/10.17660/eJHS.2018/83.6.7"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Trout
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Trout
+  - Plant/Basil
 status: unread
 quality: caution
 ---
@@ -85,13 +85,6 @@ Khalil compared an aquaponic system (fish tank + rotating biological contactor b
 ## Microbial dynamics and disease incidence
 
 **This paper:** General bacterial flora, general fungal flora and fluorescent pseudomonads (log CFU mL⁻¹, water samples) all lower at 11°C than 21°C, in both hydroponic and aquaponic systems, at both samplings (Table 4). Density lowest in the aquaponic water before the biofilter; increased after biofiltration. Basil root disease index (0–4 necrosis scale) higher at 11°C than 21°C in both systems, and higher before the biofilter than after in the aquaponic system at 21°C (Table 5, Kruskal-Wallis). This is the paper's stated novel contribution ("first to present information considering the microbial dynamics and disease incidence in aquaponics system using low water temperature").
-
-## Linked claims
-
-- [[Aquaponics outperforms hydroponics on plant growth under matched conditions]]
-- [[Low water temperature reduces biofilter nitrification efficiency]]
-- [[Water temperature affects resident microflora density in recirculating systems]]
-- [[Fish feed can create a plant nutrient imbalance in aquaponics]]
 
 ## Citations to chase
 

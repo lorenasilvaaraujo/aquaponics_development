@@ -7,8 +7,8 @@ doi: "10.9734/ijpss/2024/v36i84919"
 url: "https://doi.org/10.9734/ijpss/2024/v36i84919"
 trials: 0
 tags:
-  - Meta/Type/Narrative-Review
-  - Meta/Region/Global
+  - Type/Narrative-Review
+  - Region/Global
 status: unread
 ---
 
@@ -67,13 +67,6 @@ This is a short narrative review that introduces and compares three soilless/red
 - #todo [[Kumar Sampath Kumar Babu Ahalya 2023]] — book chapter on hydroponics, aeroponics, and aquaponics technologies in modern agricultural cultivation; a closely related, broader treatment of the same three techniques *(p.891, ref. 3)*
 - #todo [[Rajaseger Chan Tan Ramasamy Khin Amaladoss Haribhai 2023]] — review of current trends in sustainable hydroponic crop production *(p.891, ref. 8)*
 - #todo [[Lakhiar Gao Syed Chandio Buttar 2018]] — review of modern plant cultivation technologies under controlled environment (aeroponics) *(p.891, ref. 10)*
-
-## Linked claims
-
-- [[Aquaponics recycles fish waste as a plant nutrient source while plants biofilter water for fish]]
-- [[Tilapia is the most common fish species in industrial aquaponics systems]]
-- [[Aquaponic plant selection is linked to fish stocking density and effluent nutrient concentration]]
-- [[Nitrifying bacteria require higher pH than most aquaponic plant species]]
 
 ## Citations to chase
 

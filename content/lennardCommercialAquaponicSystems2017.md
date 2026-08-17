@@ -7,8 +7,8 @@ doi: "[not applicable — no DOI found]"
 url: "[not reported]"
 trials: 0
 tags:
-  - Meta/Type/Narrative-Review
-  - Meta/Region/Global
+  - Type/Narrative-Review
+  - Region/Global
 status: unread
 ---
 
@@ -77,11 +77,6 @@ This is a self-published, single-author technical/trade book by aquaponics resea
 **No CSV rows:** `out/lennardCommercialAquaponicSystems2017.trials.csv` and `out/lennardCommercialAquaponicSystems2017.plant.csv` are header-only (87 and 11 columns respectively, field-count validated). This is a narrative-review/technical-synthesis book with no original experimental data of its own in the material read; per CLAUDE.md and SCHEMA.md, only `experiment`/`quasi-experiment`/`field-trial`/`exploratory` paper types receive trials.csv/plant.csv rows, and secondary figures cited from other researchers' work (e.g. UVI feeding rate ratios) were not recorded as rows here.
 
 **Sibling paper scope boundary respected:** This note and its two `out/` CSV files cover only this 2017 self-published book PDF (`lennardCommercialAquaponicSystems2017`). No files belonging to the separate, unrelated `Lennard and Ward 2019` NFT hydroponic-vs-aquaponic comparison paper (a different item in `zotero-export.csv`, DOI 10.3390/horticulturae5020027, being processed by a different agent in this batch) were read or modified.
-
-## Linked claims
-- [[UVI aquaponic model over-supplies nitrogen relative to other plant-required nutrients]]
-- [[Commercial aquaponic system design should reuse established RAS and hydroponics engineering knowledge]]
-- [[Aquaponic business failures are often attributable to inadequate business planning rather than the technology itself]]
 
 ## Citations to chase
 - [ ] #todo Rakocy, J.E. et al. — UVI feeding-rate-ratio and system-design papers (multiple entries in Ch. 16's reference list, e.g. Rakocy & Nair 1987, Rakocy 1989, Rakocy & Hargreaves 1993, Rakocy et al. 1992, Rakocy et al. 1997) — foundational UVI-model primary research discussed at length in Ch. 8; not yet in this vault.

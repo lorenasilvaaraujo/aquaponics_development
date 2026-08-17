@@ -7,8 +7,8 @@ doi: "10.1007/s11356-023-25601-9"
 url: "https://doi.org/10.1007/s11356-023-25601-9"
 trials: 0
 tags:
-  - Meta/Type/Narrative-Review
-  - Meta/Region/China
+  - Type/Narrative-Review
+  - Region/China
 status: read
 quality:
 ---
@@ -83,12 +83,6 @@ Chen and Gao synthesize the current state of land-based ("industrialized") aquac
 - #todo [[Zhao 2015]] -- dissertation comparing turbot RAS and flowing-water economics; source of the break-even vs. market price figures. *(Problems and solutions, price section)*
 - #todo [[Cang 2019]] -- dissertation on turbot industry transformation; source of the 97.9% flowing-water area share. *(Problems and solutions, uneven-development section)*
 - #todo [[Yuan et al. 2022]] -- COVID-19 impact on Chinese aquaculture and mitigation strategies. *(Problems and solutions, COVID-19 section)*
-
-## Linked claims
-
-- [[Aquaponics reduces RAS nutrient discharge and N2O emissions by routing dissolved waste through a hydroponic plant component]]
-- [[Industrialized aquaculture in China remains dominated by flowing-water systems rather than RAS or aquaponics]]
-- [[Industrialized aquaculture production in China is highly concentrated in a small number of coastal provinces]]
 
 ## Citations to chase
 

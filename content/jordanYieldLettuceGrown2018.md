@@ -7,10 +7,10 @@ doi: "10.1590/1807-1929/agriambi.v22n8p525-529"
 url: "https://doi.org/10.1590/1807-1929/agriambi.v22n8p525-529"
 trials: 3
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-America
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/South-America
+  - Fish/Tilapia
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---

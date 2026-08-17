@@ -7,13 +7,13 @@ doi: "10.1002/jsfa.11420"
 url: "https://doi.org/10.1002/jsfa.11420"
 trials: 3
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Koi
-  - Meta/Fish/Crucian-Carp
-  - Meta/Plant/Tomato
-  - Meta/Plant/Parsley
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/Europe
+  - Fish/Koi
+  - Fish/Crucian-Carp
+  - Plant/Tomato
+  - Plant/Parsley
+  - Plant/Basil
 status: read
 quality: ok   # 0 BLOCK, 1 MATERIAL (antioxidant-activity unit ambiguity), several MINOR -- see Extraction notes
 ---
@@ -96,13 +96,6 @@ This experiment (June-September 2019, Rome, Italy) compared three horticultural 
 - #todo [[Barbagallo Isabella Patane 2013]] — field-grown processing tomato under water stress, higher lycopene than this paper's samples *(secondary, cited p.849)*
 - #todo [[Riggi Patane Ruberto 2008]] — carotenoid content vs. soil water availability in processing tomato *(secondary, cited p.849)*
 - #todo [[Pek et al. 2011]] — natural light effects on antioxidant content/colour of vine-ripened tomato *(secondary, cited p.849)*
-
-## Linked claims
-
-- [[Aquaponics can induce accumulation of specific antioxidant phytochemicals not favoured by soil cultivation]]
-- [[Fresh-weight vs dry-weight basis can reverse the direction of a soil-vs-soilless quality comparison]]
-- [[Aquaponic and soil-grown basil can represent different volatile-oil chemovariants]]
-- [[Organic soil and aquaponics food quality are broadly comparable across most measured traits]]
 
 ## Citations to chase
 

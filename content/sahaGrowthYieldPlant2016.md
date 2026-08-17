@@ -7,10 +7,10 @@ doi: "10.1016/j.aoas.2016.10.001"
 url: "https://doi.org/10.1016/j.aoas.2016.10.001"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Crayfish
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Crayfish
+  - Plant/Basil
 status: unread
 quality: ok
 ---
@@ -82,12 +82,6 @@ Researchers at Georgia Southern University ran a greenhouse comparison (Aug-Nov 
 **This paper:** Mean water pH did not differ significantly between aquaponic (6.9+/-0.24) and hydroponic (7+/-0.15) tanks; both are described as within the desirable 6-9 range for freshwater aquatic organisms (citing Boyd and Tucker, 1998, a general literature range, not this paper's own target). Mean daytime water temperature was 23.4+/-0.41degC and greenhouse mean daytime air temperature 25.1+/-0.72degC, both reported as single values not split by treatment. Over the final 8 weeks before harvest, aquaponic tanks averaged higher nitrate (95+/-19.2 vs 80+/-12.5 ppm), nitrite (1.26+/-0.4 vs 0.3+/-0.3 ppm) and ammonium (0.34+/-0.1 vs 0.03+/-0.01 ppm) than hydroponic tanks -- consistent with the crayfish-nutrient-supply explanation for the yield difference, though this comparison is not itself run through a significance test in the paper. See Extraction notes for an unresolved question about whether the nitrate figures are reported as NO3 or NO3-N.
 
 **Compared with:** (no external literature comparison given for the paper's own water-chemistry figures specifically)
-
-## Linked claims
-
-- [[Crayfish waste can supply additional plant-available nutrients in an aquaponic system]]
-- [[Aquaponics and hydroponics can produce statistically equivalent leaf nutrient content despite yield differences]]
-- [[Crayfish can serve as the aquatic species in a floating-raft aquaponics system]]
 
 ## Citations to chase
 

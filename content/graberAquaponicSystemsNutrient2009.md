@@ -7,13 +7,13 @@ doi: "10.1016/j.desal.2008.03.048"
 url: "https://doi.org/10.1016/j.desal.2008.03.048"
 trials: 3
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Region/Europe
-  - Meta/Fish/Tilapia
-  - Meta/Fish/Perch
-  - Meta/Plant/Aubergine
-  - Meta/Plant/Tomato
-  - Meta/Plant/Cucumber
+  - Type/Quasi-experiment
+  - Region/Europe
+  - Fish/Tilapia
+  - Fish/Perch
+  - Plant/Aubergine
+  - Plant/Tomato
+  - Plant/Cucumber
 status: unread
 quality: ok
 ---
@@ -82,12 +82,6 @@ Researchers at ZHAW Waedenswil built a novel aquaponic recirculating system wher
 **Compared with:**
 - #todo Rakocy, Masser & Losordo (SRAC Publication #454) — general aquaponics system integration reference cited for the concept definition (p.149, secondary).
 - #todo Wilson 2005, Aquaponics Journal — cites a feedlot-aquaculture fish:vegetable production ratio of 1 kg fish : 7 kg vegetable biomass and commercial-scale Australian aquaponic barramundi operations (p.149, 155, secondary figures).
-
-## Linked claims
-
-- [[Aquaponic systems recycle a majority of feed-derived nitrogen into edible plant biomass]]
-- [[Fish-derived nutrient water is potassium-limited relative to hydroponic fertilizer]]
-- [[Aquaponic fruit yield can approach conventional hydroponic yield despite lower nutrient concentration]]
 
 ## Citations to chase
 

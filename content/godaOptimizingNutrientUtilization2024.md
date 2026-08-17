@@ -7,20 +7,20 @@ doi: "10.1038/s41598-024-63919-7"
 url: "https://doi.org/10.1038/s41598-024-63919-7"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Africa
-  - Meta/Fish/Tilapia
-  - Meta/Fish/African-catfish
-  - Meta/Fish/Mullet
-  - Meta/Fish/Freshwater-Prawn
-  - Meta/Fish/Freshwater-Mussel
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Tomato
-  - Meta/Plant/Cucumber
-  - Meta/Plant/Eggplant
-  - Meta/Plant/Broccoli
-  - Meta/Plant/Bell-Pepper
-  - Meta/Plant/Chili-Pepper
+  - Type/Experiment
+  - Region/Africa
+  - Fish/Tilapia
+  - Fish/African-catfish
+  - Fish/Mullet
+  - Fish/Freshwater-Prawn
+  - Fish/Freshwater-Mussel
+  - Plant/Lettuce
+  - Plant/Tomato
+  - Plant/Cucumber
+  - Plant/Eggplant
+  - Plant/Broccoli
+  - Plant/Bell-Pepper
+  - Plant/Chili-Pepper
 status: unread
 quality: suspect
 ---
@@ -82,12 +82,6 @@ The authors ran a freshwater IMTA-aquaponics pilot at a NIOF station in Egypt, c
 
 **Compared with:**
 - #todo [[Otazua et al.]] (Ibáñez Otazua, in Biology and Life Sciences Forum, ref 36/59) — same research group's related IMTA-aquaponics work, cited as having "previously demonstrated" IMTA-aquaponics outperforms monoculture; not independently checked here.
-
-## Linked claims
-
-- [[IMTA polyculture increases dietary nitrogen and phosphorus retention efficiency]]
-- [[Higher hydraulic loading rate increases nitrate accumulation and reduces ammonia peak duration]]
-- [[Aquaponics can reduce reliance on chemical fertilizer inputs]]
 
 ## Citations to chase
 

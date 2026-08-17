@@ -39,6 +39,8 @@ If you´d like to see more about me you can go visit my personal website [Lorena
 
 > 🏷️ [Browse all papers by tag](/browse) — plant, fish, study type, and region, sorted by how common each is.
 
+> 💡 [Claims Index](/claims) — every takeaway claim each paper's notes draw out, grouped by paper.
+
 If you'd like to reach me directly for any collaboration, suggestion, etc, don't hesitate. My email is 📧 lorena.silvaaraujo@wur.nl
 
 

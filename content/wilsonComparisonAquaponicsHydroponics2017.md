@@ -7,10 +7,10 @@ doi: ""
 url: "http://digitalcommons.unl.edu/rurals/vol11/iss1/3"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Koi
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Koi
+  - Plant/Basil
 status: read
 quality: ok   # 0 BLOCK, 0 MATERIAL; 2 MINOR noted (see Extraction notes)
 ---
@@ -84,13 +84,6 @@ Both trials share the same physical aquaponic system (6 koi, established per Mal
 ## Essential oil composition
 
 **This paper:** GC-MS of old-plant leaf extracts (4-week harvest) tentatively identified eucalyptol, linalool, eugenol, trans-alpha-bergamotene, and cadinols in both systems (plus butylated hydroxytoluene, a stabilizer from the extraction solvent, not a plant analyte). Hydroponic leaves showed qualitatively higher apparent concentrations of eucalyptol, linalool, eugenol, and cadinols than aquaponic leaves (Figure 6), with the largest differences in eugenol and the cadinols. No numeric peak areas or concentrations are given in text or a table — chromatogram signal intensity (pA) only. Recorded in `plant.csv` as `NR` with reason, per compound and system.
-
-## Linked claims
-
-- [[Aquaponic and hydroponic basil yield differences depend on plant age at transplant]]
-- [[Aquaponic systems maintain more stable water nutrient concentrations than hydroponic systems]]
-- [[Hydroponic basil may have higher essential oil concentrations than aquaponic basil]]
-- [[Rock/media grow beds can worsen aphid damage relative to flat hydroponic surfaces]]
 
 ## Citations to chase
 

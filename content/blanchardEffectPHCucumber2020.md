@@ -7,10 +7,10 @@ doi: "10.3390/horticulturae6010010"
 url: "https://doi.org/10.3390/horticulturae6010010"
 trials: 8
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/NorthAmerica
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Cucumber
+  - Type/Experiment
+  - Region/NorthAmerica
+  - Fish/Tilapia
+  - Plant/Cucumber
 status: unread
 quality: suspect
 ---
@@ -75,13 +75,6 @@ Auburn University researchers irrigated cucumber ('Delta Star') grown in perlite
 ## Suspended solids as a nutrient reservoir
 
 **This paper:** Solids captured from plot emitters (one block only, no season specified — see Extraction notes) contained P and Ca as the dominant macronutrients (up to 2628 and 5100 mg/kg dried solids respectively) and Mn and Fe as the dominant micronutrients (up to 2238 and 1125 mg/kg respectively), with B and Cu comparatively scarce. Table 12 quantifies daily nutrient supply at pH 5.8: solids contributed a small but non-trivial share of P (2.06 of 100 mg total daily P supply) and Ca (5.55 of 811 mg), with N entirely from the liquid fraction (solids N not reported/N/A).
-
-## Linked claims
-
-- [[Decoupled aquaponics allows independent optimization of fish and plant pH]]
-- [[Aquaponic nutrient solutions are typically deficient in K, Ca, Mg, and Fe relative to hydroponic solutions]]
-- [[Suspended solids in aquaculture effluent are an under-characterized plant nutrient source]]
-- [[Cucumber tissue nutrient sufficiency can be maintained despite low soluble nutrient concentrations in aquaponic irrigation water]]
 
 ## Citations to chase
 

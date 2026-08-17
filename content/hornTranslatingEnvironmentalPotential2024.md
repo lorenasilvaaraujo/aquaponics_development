@@ -7,8 +7,8 @@ doi: "10.1007/s43615-023-00291-0"
 url: "https://doi.org/10.1007/s43615-023-00291-0"
 trials: 0
 tags:
-  - Meta/Type/Observational
-  - Meta/Region/NorthAmerica
+  - Type/Observational
+  - Region/NorthAmerica
 status: unread
 quality:
 ---
@@ -84,13 +84,6 @@ The authors conducted 25 semi-structured telephone/Zoom interviews (May-July 202
 **This paper:** Table 1 summarizes drivers, barriers, and "niche formation actions" for each of the seven TIS functions (full table reproduced from the PDF's structured layout, e.g., Function 3 Market Formation: driver = year-round/local-market production; barrier = fish/produce needing separate distribution networks and profit imbalance; niche action = "develop cost-effective production and competitive market-integration"). Table 2 proposes eight named "pathways" of regime change nested under three strategy groups: political/economic regulation (Privileging, Supporting, Rebalancing), R&D (Optimizing, Knowing), and societal engagement (Promoting, Evaluating), each with example strategies (e.g., "expanding legal flexibility for aquaponics through certifiable standards," "creating payment systems for ecosystem services"). Figure 4 diagrams how four landscape factors (climate change, resource scarcity, global production & trade, environmental awareness) drive three regime-change strategy bundles toward an "ideal niche" (regulatory ease, available financial/physical resources, cost-effective competitive production, advanced technology, cutting-edge knowledge access, consumer/regulator recognition, mutually beneficial partnerships) en route to "Realization of Aquaponics' Sustainability Potential."
 
 **Compared with:** #todo [[König et al. 2018]] — prior TIS assessment of aquaponics as an emerging field, undertaken for Europe (2018) (ref 6, cited p.3 as the precedent this paper updates/extends to North America). #todo [[Wiegand 2019]] — TIS analysis specific to the Netherlands (ref 39, p.3).
-
-## Linked claims
-
-- [[Commercial aquaponics profitability is limited more by market and regulatory structures than by system technology]]
-- [[Fish sales contribute less revenue than plant sales in most commercial aquaponic operations]]
-- [[Lack of aquaponics-specific regulation and organic-certification pathways is a barrier to commercial scaling]]
-- [[Aquaponics knowledge diffusion relies heavily on informal, self-taught, and peer-network channels rather than formal academic training]]
 
 ## Citations to chase
 

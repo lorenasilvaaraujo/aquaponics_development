@@ -7,12 +7,12 @@ doi: "10.5296/jas.v8i4.17598"
 url: "https://doi.org/10.5296/jas.v8i4.17598"
 trials: 2
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-America
-  - Meta/Fish/Tilapia
-  - Meta/Plant/Lettuce
-  - Meta/Plant/Watercress
-  - Meta/Plant/Arugula
+  - Type/Experiment
+  - Region/South-America
+  - Fish/Tilapia
+  - Plant/Lettuce
+  - Plant/Watercress
+  - Plant/Arugula
 status: unread
 quality: ok
 ---
@@ -90,11 +90,6 @@ The authors built matched gravel-bed (media-filled) aquaponic modules stocking N
 ## Water quality
 
 **This paper:** Temperature, pH, dissolved oxygen, total ammonia nitrogen, ammonia (NH3) and nitrite were all statistically similar (P>0.05) between the two fish-tank volumes (Table 1, p.501) and described as within the adequate range for tropical fish citing Boyd (1998). No nitrate (NO3/NO3-N) data were collected or reported anywhere in the paper.
-
-## Linked claims
-
-- [[Increasing fish-tank volume alone does not improve aquaponic fish or vegetable performance when density and vegetable-bed volume are held constant]]
-- [[Gravel media-filled bed aquaponic systems support co-production of multiple leafy vegetable species]]
 
 ## Citations to chase
 

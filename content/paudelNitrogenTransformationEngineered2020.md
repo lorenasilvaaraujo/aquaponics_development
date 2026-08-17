@@ -7,9 +7,9 @@ doi: "10.1016/j.aquaculture.2020.734971"
 url: "https://doi.org/10.1016/j.aquaculture.2020.734971"
 trials: 4
 tags:
-  - Meta/Type/Quasi-experiment
-  - Meta/Fish/Koi
-  - Meta/Plant/Water-Celery
+  - Type/Quasi-experiment
+  - Fish/Koi
+  - Plant/Water-Celery
 status: unread
 quality: ok
 ---
@@ -87,13 +87,6 @@ The author operated a single bench-scale, zero-water-exchange aquaponic system (
 **Compared with:**
 - #todo [[Naylor et al. 2000]] -- cited for a "conventional aquaponic system" FCR range that this paper's 1.73-1.85 results are said to fall within, contrasted with the higher control FCR of 1.96 (p.3)
 - #todo [[Molleda et al. 2007]] -- water quality in recirculating aquaculture systems for Arctic charr; cited generically to support the claim that good water quality (via nitrogen removal) underlies good fish growth performance (p.4)
-
-## Linked claims
-
-- [[Higher plant-to-fish biomass ratio increases nitrogen use efficiency in aquaponics]]
-- [[Increasing plant-to-fish biomass ratio reduces nitrous oxide emissions from the fish tank in aquaponics]]
-- [[Aquaponic fish FCR improves relative to a fish-only aquaculture control]]
-- [[Nitrification is dominant in the biofilter while denitrification is more prevalent at plant root surfaces in aquaponics]]
 
 ## Citations to chase
 

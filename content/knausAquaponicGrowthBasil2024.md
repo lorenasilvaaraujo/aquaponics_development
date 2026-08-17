@@ -7,10 +7,10 @@ doi: "10.1038/s41598-024-68361-3"
 url: "https://doi.org/10.1038/s41598-024-68361-3"
 trials: 4
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/Europe
-  - Meta/Fish/African-Catfish
-  - Meta/Plant/Basil
+  - Type/Experiment
+  - Region/Europe
+  - Fish/African-Catfish
+  - Plant/Basil
 status: read
 quality: ok
 ---
@@ -84,12 +84,6 @@ Basil (cv. 'Genovese') was grown in pots for 45 days in a German research greenh
 - #todo [[Zhang et al. 2013]] — humic acid increases cation adsorption and NH4+ preference in humic-montmorillonite clay complexes, used to explain the HFS NH4-N increase mechanism. *(p.7)*
 - #todo [[Kasozi et al. 2019]] — review of iron supplementation/management in aquaponics, cites Fe-EDTA as the most-used chelating agent, stable at pH 4.0-6.3 (consistent with this study's process-water pH range, Table 5). *(p.7)*
 - #todo [[Palm et al. 2018 (Aquaculture 491:155)]] — proportional up-scaling of African catfish RAS production; used to explain why P levels tracked feed-input ratio (1:2:4 across production intensities) rather than fish stocking density alone. *(p.7-8)*
-
-## Linked claims
-
-- [[15% substitution of peat substrate with a humic-acid fiber substrate can match standard substrate basil growth when irrigated with nutrient-rich (intensive) fish process water]]
-- [[Aquaponic basil chlorophyll content (SPAD) can exceed that of commercially sold basil]]
-- [[Fish process-water nutrient intensity is a stronger driver of aquaponic pot-culture basil growth than the choice between standard peat and humic-acid-substituted substrate under low-nutrient (extensive) water]]
 
 ## Citations to chase
 

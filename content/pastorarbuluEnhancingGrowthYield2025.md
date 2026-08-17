@@ -7,9 +7,9 @@ doi: "10.3389/fpls.2025.1639002"
 url: "https://doi.org/10.3389/fpls.2025.1639002"
 trials: 6
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/South-America
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/South-America
+  - Plant/Lettuce
 status: unread
 quality: ok
 ---
@@ -92,13 +92,6 @@ The authors grew two curly, heat-tolerant lettuce cultivars (Tropicana and Starf
 - #todo [[Chamoli et al. 2024]] — comparative analysis of hydroponically and soil-grown lettuce; cited (with Suharjo and Suaib 2022) for the claim that NFT structural design (gutter slope, substrate, module orientation) significantly affects light distribution and root oxygenation, offered as a mechanistic explanation for this paper's module-driven growth differences *(p.7)*
 - #todo [[Suharjo and Suaib 2022]] — growth analysis of NFT-grown lettuce; cited alongside Chamoli et al. 2024 for the same structural-design mechanism *(p.7)*
 - #todo [[Pennisi et al. 2020]] — optimal light intensity for lettuce given as 250-300 µmol·m⁻²·s⁻¹, narrower/lower than the 400-600 µmol·m⁻²·s⁻¹ range this paper cites (via Valverde et al. 2009, Kusuma et al. 2021, Zhen et al. 2022) as optimizing photosynthesis without photoinhibition — an unreconciled disagreement in the literature that the Discussion notes but does not resolve *(p.8)*
-
-## Linked claims
-
-- [[NFT module geometry (channel count, horizontal vs. pyramidal layout) significantly affects lettuce yield and stem biomass independent of nutrient concentration]]
-- [[Cultivar selection interacts with NFT system design to determine lettuce growth and yield outcomes]]
-- [[Total chlorophyll content and nitrate reductase activity are positively correlated in lettuce]]
-- [[SPAD index is a less sensitive proxy for chlorophyll status than solvent-extraction total chlorophyll assays]]
 
 ## Citations to chase
 

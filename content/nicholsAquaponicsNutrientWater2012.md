@@ -7,8 +7,8 @@ doi: "10.17660/ActaHortic.2012.947.14"
 url: "https://doi.org/10.17660/ActaHortic.2012.947.14"
 trials: 0
 tags:
-  - Meta/Type/Narrative-Review
-  - Meta/Region/Global
+  - Type/Narrative-Review
+  - Region/Global
 status: unread
 quality:
 ---
@@ -76,12 +76,6 @@ This is a short invited/proceedings essay for the II International Symposium on 
 ## System design and management commentary
 
 **This paper:** General practitioner-level recommendations rather than data-backed findings: minimum of 4 fish tanks with staggered fish ages to smooth nutrient supply for sequential crop plantings; bio-filters ranging from simple mechanical filtration + net media to more sophisticated designs; preference for deep-flow or NFT hydroponic sub-systems over drip irrigation (to avoid filtering particulate-laden solution); target system pH of 6.5-7.0 (a compromise, since higher pH would suit fish better but risks plant iron deficiency); tilapia as the world-standard aquaponic fish, with barramundi/Murray cod (Australia) and grass carp (New Zealand) as regional alternatives, and one unnamed New Zealand producer reportedly considering goldfish (golden carp). None of this is presented with citations, replicate data, or a stated evidentiary basis beyond the authors' professional experience.
-
-## Linked claims
-
-- [[Aquaponics can match or exceed hydroponic yield for leafy vegetables]]
-- [[Fruiting vegetable aquaponics faces unresolved nutrient-supply challenges]]
-- [[Aquaponic system design should balance fish waste output against plant nutrient demand]]
 
 ## Citations to chase
 

@@ -7,10 +7,10 @@ doi: "10.3390/horticulturae3030043"
 url: "https://doi.org/10.3390/horticulturae3030043"
 trials: 1
 tags:
-  - Meta/Type/Experiment
-  - Meta/Region/North-America
-  - Meta/Fish/Koi
-  - Meta/Plant/Lettuce
+  - Type/Experiment
+  - Region/North-America
+  - Fish/Koi
+  - Plant/Lettuce
 status: read
 quality: ok
 ---
@@ -76,13 +76,6 @@ Cornell researchers grew butterhead lettuce (cv. Flandria) in a glass greenhouse
 - #todo [[Pantanella et al. 2012]] — reports 2.9% tissue N, well below this paper's values; authors caution against assuming cross-system applicability of literature N values. *(p.14, ref 23)*
 - #todo [[Liedl et al. 2004]] — cited for a proportional Mo tissue-to-solution response pattern, matching this paper's own Mo finding. *(p.13, ref 21)*
 - #todo [[Cheng & Allen 2001]] — reports lower pH should increase lettuce tissue Cu, opposite direction to this paper's H7/A7 (higher pH, higher Cu) finding — noted by the authors themselves as a discrepancy worth investigating. *(p.14-15, ref 24)*
-
-## Linked claims
-
-- [[Aquaponic nutrient solutions can match conventional hydroponic biomass yield despite unbalanced nutrient concentrations]]
-- [[Elevating hydroponic solution pH from 5.8 to 7.0 reduces lettuce shoot growth]]
-- [[Recirculating aquaculture system water can offset the negative effect of pH 7.0 on lettuce compared to inorganic pH-7.0 hydroponics]]
-- [[Sodium can accumulate in aquaponic nutrient solutions via fish feed and water recycling]]
 
 ## Citations to chase
 

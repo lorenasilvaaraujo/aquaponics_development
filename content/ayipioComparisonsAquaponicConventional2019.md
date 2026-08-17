@@ -7,8 +7,8 @@ doi: "10.3390/su11226511"
 url: "https://doi.org/10.3390/su11226511"
 trials: 0
 tags:
-  - Meta/Type/Meta-analysis
-  - Meta/Region/Global
+  - Type/Meta-analysis
+  - Region/Global
 status: unread
 quality:
 ---
@@ -125,13 +125,6 @@ The authors systematically searched five databases (Web of Science, CAB Abstract
 **This paper:** Publication bias was assessed via a funnel plot (built on sample size rather than standard error, because of the unweighted analytic approach) and Rosenthal's fail-safe number. The observed FSN of 353 exceeds the stated inconsequential-bias threshold of >120 (5k+10, k=22 studies), which the authors cite as evidence against publication bias being a major concern — while simultaneously noting the funnel plot itself appeared visibly asymmetric, and that the unweighted method and reliance on a formula from Brown and Sutton (cited as ref [49], though printed in-text as "Bown, M.J.; Sutton, A.J." — see Extraction notes) both limit how much weight to place on this reassurance.
 
 **Compared with:** *(methodological reference only — no additional primary aquaponics studies)*
-
-## Linked claims
-
-- [[Aquaponic crop yield is not significantly different from hydroponic crop yield when pooled across studies]]
-- [[Nutrient supplementation of aquaculture effluent increases aquaponic crop yield relative to hydroponics]]
-- [[High between-study heterogeneity limits meta-analysis interpretability]]
-- [[Unsupplemented aquaculture effluent is typically deficient in micronutrients for plant growth]]
 
 ## Citations to chase
 
