@@ -235,9 +235,5 @@ function sweepForStraggers() {
 }
 
 hideBasesFromListings()
-// Graph script patches temporarily disabled: isolating whether the
-// full-screen graph's hover bug is caused by these patches/config, or is
-// present even with the totally stock template graph (matching the official
-// quartz.jzhao.xyz demo exactly). Re-enable once that's confirmed either way.
-// patchGraphScript()
-// sweepForStraggers()
+patchGraphScript()
+sweepForStraggers()
