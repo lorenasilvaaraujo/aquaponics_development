@@ -1,6 +1,7 @@
 ---
 title: Browse by Tag
 enableToc: false
+unlisted: true
 ---
 
 > [!tip] Click a tag to see every note about it. Numbers show how many notes carry that tag.

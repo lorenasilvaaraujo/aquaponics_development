@@ -1,6 +1,7 @@
 ---
 title: Claims Index
 enableToc: false
+unlisted: true
 ---
 
 > [!info] Every claim each paper's notes draw out, grouped by source paper. These aren't linked pages (they're one-off statements, not vault concepts), so they're collected here instead of cluttering the graph.

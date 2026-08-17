@@ -30,6 +30,8 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
+      - name: Hide bases pages from listings
+        run: node scripts/strip-hidden-pages.mjs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
