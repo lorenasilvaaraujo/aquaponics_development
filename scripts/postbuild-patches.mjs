@@ -3,8 +3,9 @@
 // generated `public/` folder - not on any source file - so if a Quartz or
 // plugin upgrade changes the underlying output shape, they log a warning
 // instead of silently doing nothing.
-import { readFileSync, writeFileSync, readdirSync } from "fs"
-import { join } from "path"
+import { readFileSync, writeFileSync, readdirSync, renameSync } from "fs"
+import { join, extname, dirname, basename } from "path"
+import { createHash } from "crypto"
 
 // --- 1. Hide .base pages from search/graph/sitemap ---
 //
@@ -136,7 +137,103 @@ function patchGraphScript() {
     console.log(`[postbuild] Patched "${name}" into ${host}`)
   }
   writeFileSync(path, content)
+  renameWithFreshHash(path, content)
+}
+
+// --- 5. Cache-busting: give patched files a filename that matches their
+//        new content ---
+//
+// Quartz names chunk files after a hash of their *pre-patch* content, then we
+// edit the bytes afterward - so the filename stops matching what's actually
+// being served. Immutable-looking hashed filenames like these are exactly
+// the ones browsers/CDNs cache the longest (GitHub Pages' CDN included), so
+// without this, a patched file can keep serving its pre-patch self
+// indefinitely to anyone who already has it cached, no matter how many times
+// the site is redeployed. Renaming on every patch, and rewriting whoever
+// references the old name, keeps the filename an honest cache key again.
+const renameLog = new Map()
+
+function renameWithFreshHash(filePath, content) {
+  const dir = dirname(filePath)
+  const oldName = basename(filePath)
+  const ext = extname(oldName)
+  const stem = oldName.slice(0, -ext.length).replace(/-[0-9a-f]{8}$/i, "")
+  const newHash = createHash("sha256").update(content).digest("hex").slice(0, 8)
+  const newName = `${stem}-${newHash}${ext}`
+
+  if (newName === oldName) {
+    console.log(`[postbuild] ${oldName} content-hash unchanged, no rename needed`)
+    return
+  }
+
+  renameSync(filePath, join(dir, newName))
+  console.log(`[postbuild] Renamed ${oldName} -> ${newName} to match patched content`)
+  renameLog.set(oldName, newName)
+  relinkReferences(oldName, newName)
+}
+
+// Rewrites every reference to `oldName` across the whole `public/` output to
+// `newName`, cascading the same fresh-hash rename to each file that gets
+// edited this way (a referencing file's own filename is just as much a
+// cache key as the one it points to).
+function relinkReferences(oldName, newName) {
+  for (const file of walk("public")) {
+    if (file.endsWith(newName)) continue // the file we just renamed
+    const ext = extname(file)
+    if (![".html", ".js", ".json", ".xml"].includes(ext)) continue
+    const content = readFileSync(file, "utf-8")
+    if (!content.includes(oldName)) continue
+    const updated = content.replaceAll(oldName, newName)
+    writeFileSync(file, updated)
+    console.log(`[postbuild] Updated reference to ${oldName} in ${file}`)
+    if (ext === ".js") {
+      renameWithFreshHash(file, updated)
+    }
+  }
+}
+
+function walk(dir) {
+  const out = []
+  for (const entry of readdirSync(dir, { withFileTypes: true })) {
+    const full = join(dir, entry.name).replaceAll("\\", "/")
+    if (entry.isDirectory()) out.push(...walk(full))
+    else out.push(full)
+  }
+  return out
+}
+
+// Defensive final pass: re-scan every file for any of the old names renamed
+// above. relinkReferences should already have caught all of these - this
+// exists only to catch and fix (and loudly flag) any it missed, rather than
+// letting a straggler reference silently 404 in production.
+function sweepForStraggers() {
+  if (renameLog.size === 0) return
+  let strays = 0
+  for (const file of walk("public")) {
+    const ext = extname(file)
+    if (![".html", ".js", ".json", ".xml"].includes(ext)) continue
+    let content = readFileSync(file, "utf-8")
+    let touched = false
+    for (const [oldName, newName] of renameLog) {
+      if (content.includes(oldName)) {
+        content = content.replaceAll(oldName, newName)
+        touched = true
+      }
+    }
+    if (touched) {
+      writeFileSync(file, content)
+      strays++
+      console.warn(`[postbuild] WARNING: straggler reference fixed up in ${file} (relinkReferences missed it)`)
+    }
+  }
+  if (strays > 0) {
+    console.warn(
+      `[postbuild] WARNING: ${strays} file(s) needed a second pass to catch stale filename ` +
+        "references - relinkReferences() may have a bug worth investigating.",
+    )
+  }
 }
 
 hideBasesFromListings()
 patchGraphScript()
+sweepForStraggers()
