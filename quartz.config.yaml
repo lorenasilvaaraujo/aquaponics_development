@@ -168,9 +168,11 @@ plugins:
       localGraph:
         fontSize: 0.9
         focusOnHover: true
+        opacityScale: 0
       globalGraph:
         fontSize: 0.9
         focusOnHover: true
+        opacityScale: 0
     layout:
       position: right
       priority: 10
