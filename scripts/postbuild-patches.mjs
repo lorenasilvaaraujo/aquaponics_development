@@ -129,7 +129,7 @@ function patchGraphScript() {
       replacement: "_u!==null&&Oe&&(F=l.active?1:.05)",
     },
     {
-      name: "hit-test finds closest node, not first match (pre-existing plugin bug)",
+      name: "hit-test finds closest node, not first match, and covers tag label area",
       // Je() (the hit-test drag uses, and that hover now reuses) returns the
       // *first* node in iteration order whose hit radius contains the
       // point, not the *closest* one. Big hub nodes (tags with many papers,
@@ -139,10 +139,24 @@ function patchGraphScript() {
       // instead of the big node actually under the cursor. Smaller/less-
       // connected nodes (most papers) rarely have this overlap, which is
       // why hover worked for them but not for the big tag hubs.
+      //
+      // Separately - and this is what was still broken for *every* tag,
+      // regardless of size: tags with more than one paper get an always-
+      // visible label (see the "always-on tag labels" patch), rendered
+      // above the node with anchor.set(.5,1.2). That puts the readable
+      // text almost entirely outside the node's own tiny circular hit
+      // radius (confirmed directly against the live page: for "Lettuce",
+      // label bounds sat ~4-24px above the node center while the hit
+      // circle only reached ~13px). Papers never hit this, since their
+      // labels only exist *after* a successful hover, so there's nothing
+      // to aim for until you've already landed on the node. Widened the
+      // hit test so, for these always-labeled tag nodes only, a point in
+      // the label's approximate footprint (above the node, roughly as
+      // wide as the rendered text) counts as a hit on that node too.
       target:
         "Je=function(i){for(var l=(i.x-P.x)/P.k,F=(i.y-P.y)/P.k,A=0;A<nu.length;A++){var v=nu[A],j=l-v.x-R/2,N=F-v.y-O/2,K=Math.sqrt(j*j+N*N),gu=ae(v);if(K<gu+5)return v}return null}",
       replacement:
-        "Je=function(i){for(var l=(i.x-P.x)/P.k,F=(i.y-P.y)/P.k,best=null,bd=1/0,A=0;A<nu.length;A++){var v=nu[A],j=l-v.x-R/2,N=F-v.y-O/2,K=Math.sqrt(j*j+N*N),gu=ae(v);K<gu+5&&K<bd&&(best=v,bd=K)}return best}",
+        "Je=function(i){for(var l=(i.x-P.x)/P.k,F=(i.y-P.y)/P.k,best=null,bd=1/0,A=0;A<nu.length;A++){var v=nu[A],j=l-v.x-R/2,N=F-v.y-O/2,K=Math.sqrt(j*j+N*N),gu=ae(v),labelHit=v.id.startsWith(\"tags/\")&&gu>3&&Math.abs(j)<40&&N>-30&&N<10;(K<gu+5||labelHit)&&K<bd&&(best=v,bd=K)}return best}",
     },
     {
       name: "reset label alpha when hover ends (pre-existing plugin bug)",
@@ -166,13 +180,6 @@ function patchGraphScript() {
         "nid!==_u&&(Wu(nid),Au())" +
         '}).on("mouseleave.hoverfix",function(){_u!==null&&(Wu(null),Au())})' +
         "}else for(var k=0;k<L.length;k++)",
-    },
-    {
-      name: "TEMP DEBUG - expose graph internals on window.__gdbg",
-      target: 'a.select(Z.canvas).call(Qe).on("mousemove.hoverfix"',
-      replacement:
-        '(window.__gdbg=window.__gdbg||[]).push({nu:nu,z:z,L:L,tagCooc:tagCooc,Wu:Wu,Je:Je,get P(){return P},get _u(){return _u}}),' +
-        'a.select(Z.canvas).call(Qe).on("mousemove.hoverfix"',
     },
   ]
 
