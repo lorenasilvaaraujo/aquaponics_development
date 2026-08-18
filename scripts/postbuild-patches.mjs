@@ -167,6 +167,13 @@ function patchGraphScript() {
         '}).on("mouseleave.hoverfix",function(){_u!==null&&(Wu(null),Au())})' +
         "}else for(var k=0;k<L.length;k++)",
     },
+    {
+      name: "TEMP DEBUG - expose graph internals on window.__gdbg",
+      target: 'a.select(Z.canvas).call(Qe).on("mousemove.hoverfix"',
+      replacement:
+        '(window.__gdbg=window.__gdbg||[]).push({nu:nu,z:z,L:L,tagCooc:tagCooc,Wu:Wu,Je:Je,get P(){return P},get _u(){return _u}}),' +
+        'a.select(Z.canvas).call(Qe).on("mousemove.hoverfix"',
+    },
   ]
 
   const files = readdirSync(dir).filter((f) => f.endsWith(".js"))
