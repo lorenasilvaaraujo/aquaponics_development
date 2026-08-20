@@ -55,21 +55,26 @@ function hideBasesFromListings() {
 //     "#plant/lettuce"). Changed to just the last path segment, title-cased
 //     with hyphens turned into spaces (e.g. "Lettuce", "Swiss Chard") to
 //     match the styling already used on the /browse page.
-//   - Hovering a tag now highlights every OTHER tag that shares at least one
-//     paper with it (e.g. hovering "Lettuce" lights up "Tilapia" if some
-//     paper carries both), with everything else - other tags, papers,
-//     authors - dropped to a very light "background" opacity. There's no
-//     direct tag-to-tag edge in the underlying graph (only paper-to-tag), so
-//     this needed a real co-occurrence lookup, not just a config tweak:
+//   - Hovering a tag now ALSO highlights every OTHER tag that shares at least
+//     one paper with it (e.g. hovering "Lettuce" lights up "Tilapia" if some
+//     paper carries both), on top of its own direct paper edges, with
+//     everything else - other tags, unrelated papers, authors - dropped to a
+//     very light "background" opacity. There's no direct tag-to-tag edge in
+//     the underlying graph (only paper-to-tag), so this needed a real
+//     co-occurrence lookup, not just a config tweak:
 //       1. Builds a tag -> Set<co-occurring tag> map once, right after the
 //          existing paper/tag edge list is built (same paper-tags loop, just
 //          also cross-linking every tag in a paper's list with every other
 //          tag in that same list).
-//       2. `Wu` (sets which nodes count as "active"/highlighted on hover)
-//          gets a new branch: when the hovered node is a tag with an entry in
-//          that map, "active" becomes {the tag itself} ∪ its co-occurring
-//          tags, instead of the default "directly-linked neighbors" behavior
-//          used for paper/author nodes.
+//       2. `Wu` (sets which nodes/edges count as "active"/highlighted on
+//          hover) gets a new branch: when the hovered node is a tag with an
+//          entry in that map, "active" nodes become {the tag itself} ∪ its
+//          co-occurring tags ∪ its own directly-linked papers, and "active"
+//          edges become just its own direct paper-tag edges (there being no
+//          tag-tag edges to mark). Earlier versions of this branch zeroed out
+//          every edge unconditionally here, which - since a tag's only real
+//          edges are to its own papers - made every tag look disconnected
+//          from all its papers the moment you hovered it.
 //       3. `Ke` (applies the dim opacity to inactive nodes) had its dim
 //          factor dropped from .2 to .05 - "very light" per the request.
 //   - Hover was found to be unreliable on the full-screen graph specifically
@@ -121,7 +126,7 @@ function patchGraphScript() {
       target:
         'function Wu(i){if(_u=i,i===null){iu=new Set;for(var l=0;l<L.length;l++)L[l].active=!1;for(var l=0;l<z.length;l++)z[l].active=!1}else{iu=new Set;for(var l=0;l<z.length;l++){var F=z[l].simulationData;F.source.id===i||F.target.id===i?(iu.add(F.source.id),iu.add(F.target.id),z[l].active=!0):z[l].active=!1}iu.add(i);for(var l=0;l<L.length;l++)iu.has(L[l].simulationData.id)?L[l].active=!0:L[l].active=!1}}',
       replacement:
-        'function Wu(i){if(_u=i,i===null){iu=new Set;for(var l=0;l<L.length;l++)L[l].active=!1;for(var l=0;l<z.length;l++)z[l].active=!1}else if(i.startsWith("tags/")&&tagCooc.has(i)){iu=new Set(tagCooc.get(i));iu.add(i);for(var l=0;l<z.length;l++)z[l].active=!1;for(var l=0;l<L.length;l++)iu.has(L[l].simulationData.id)?L[l].active=!0:L[l].active=!1}else{iu=new Set;for(var l=0;l<z.length;l++){var F=z[l].simulationData;F.source.id===i||F.target.id===i?(iu.add(F.source.id),iu.add(F.target.id),z[l].active=!0):z[l].active=!1}iu.add(i);for(var l=0;l<L.length;l++)iu.has(L[l].simulationData.id)?L[l].active=!0:L[l].active=!1}}',
+        'function Wu(i){if(_u=i,i===null){iu=new Set;for(var l=0;l<L.length;l++)L[l].active=!1;for(var l=0;l<z.length;l++)z[l].active=!1}else if(i.startsWith("tags/")&&tagCooc.has(i)){iu=new Set(tagCooc.get(i));iu.add(i);for(var l=0;l<z.length;l++){var F=z[l].simulationData;F.source.id===i||F.target.id===i?(iu.add(F.source.id),iu.add(F.target.id),z[l].active=!0):z[l].active=!1}for(var l=0;l<L.length;l++)iu.has(L[l].simulationData.id)?L[l].active=!0:L[l].active=!1}else{iu=new Set;for(var l=0;l<z.length;l++){var F=z[l].simulationData;F.source.id===i||F.target.id===i?(iu.add(F.source.id),iu.add(F.target.id),z[l].active=!0):z[l].active=!1}iu.add(i);for(var l=0;l<L.length;l++)iu.has(L[l].simulationData.id)?L[l].active=!0:L[l].active=!1}}',
     },
     {
       name: "very-light dim for non-highlighted nodes",
